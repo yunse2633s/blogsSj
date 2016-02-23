@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+  </head>
+  <body>
+    <h5>动态交互与数据双向绑定</h5>
+    <div id="_input"></div>
+    <div id="_textarea"></div>
+    <div id="_radio"></div>
+
+    <script type="text/babel">
+      var Input = React.createClass({
+        getInitialState: function() {
+          return {value: 'Hello!'};
+        },
+        handleChange: function(event) {
+          this.setState({value: event.target.value});
+        },
+        render: function () {
+          var value = this.state.value;
+          return (
+            <div>
+              <input type="text" value={value} onChange={this.handleChange} />
+              <p>{value}</p>
+            </div>
+          );
+        }
+      });
+
+      ReactDOM.render(<Input/>, document.getElementById('_input'));
+      // textarea
+      var flag = true
+      var TextArea = React.createClass({
+        getInitialState:function(){
+          return {value:flag}
+        },
+        handleMouse:function(){
+          console.log('鼠标')
+          console.log(this.state.value)
+          // flag=!flag
+          // console.log(flag)
+          // this.setState({value:flag})
+        },
+        handleChange:function(event){
+          console.log(event.target.value)
+
+          // if(event.target.value==1){
+            // this.state.value=true
+            // console.log(this.state.value)
+          //   flag=!flag
+          // console.log(flag)
+          // this.setState({value:flag})
+          // }else{
+          //   flag=!flag
+          // console.log(flag)
+          // this.setState({value:flag})
+            // this.state.value=false
+            // console.log(this.state.value)
+          // }
+          // ---this.setState 方法就修改状态值，每次修改以后，自动调用 this.render 方法，再次渲染组件
+        },
+        handleCheck:function(event){
+          flag=!flag
+          console.log(flag)
+          this.setState({value:flag})
+        },
+        render:function(){
+          if(this.state.value){
+            return (
+                <div>
+                  <input type="checkbox" onClick={this.handleCheck} /><span>点击切换"文本域" 和"下拉菜单"</span>
+                <textarea onMouseOver={this.handleMouse}></textarea></div>
+              )
+          }else{
+            return (
+                <div>
+                  <input type="checkbox" onClick={this.handleCheck} /><span>点击切换"文本域" 和"下拉菜单"</span>
+                <select onChange={this.handleChange}><option value="0">第一</option><option value="1">第二</option></select></div>
+              )
+          }
+          // ---下列写法错误
+          // return (
+          //   <div>
+          //   <span> 你猜猜看</span>
+          //   {
+          //     if(this.state.value){
+          //     <span onClick={this.handleCheck}>22</span>
+          //   }else{
+          //     <span>33</span>
+          //   }
+          //     }
+          //   </div>
+          //   )
+        }
+      })
+      ReactDOM.render(<TextArea />,document.getElementById('_radio'))
+    </script>
+  </body>
+</html>

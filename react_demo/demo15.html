@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+    <script src="./build/showdown.min.js"></script>
+
+  </head>
+  <body>
+    <h5>双向数据绑定 </h5>
+  	<div id="content"></div>
+  	<script type="text/babel">
+  		var converter = new Showdown.converter()
+  		var MarkdownEditor = React.createClass({
+  			getInitialState:function(){
+  				return {value:'Type some *markdown* here!'}
+  			},
+  			handleChange:function(){
+  				this.setState({value:this.refs.textarea.getDOMNode().value})
+  			},
+  			render:function(){
+  				return (
+  					<div className="MarkDownEditor">
+  						<h3>Input</h3>
+  						<textarea onChange={this.handleChange} ref="textarea" defaultValue={this.state.value} />
+  						<h3>Output</h3>
+  						<div className="content" dangerouslySetInnerHTML={{__html:converter.makeHtml(this.state.value)}}
+              ></div>
+  					</div>
+  					)
+  			}
+  		})
+  		ReactDOM.render(<MarkdownEditor />,document.getElementById('content'))
+  	</script>
+	</body>
+</html>

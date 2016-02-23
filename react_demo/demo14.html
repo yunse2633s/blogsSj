@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+  </head>
+  <body>
+  	<div id="content"></div>
+  <script type="text/babel">
+  	var TodoList = React.createClass({
+  		render:function(){
+  			var createItem = function(itemText){
+  				return <li> {itemText} </li>
+  			}
+  			return <ul>{this.props.item.map(createItem)}</ul>
+  		}
+  	})
+  	var TodoApp = React.createClass({
+  		getInitialState:function(){
+  			return {items:[],text:''}
+  		},
+  		onChange:function(e){
+  			this.setState({text:e.target.value})
+  		},
+  		handleSubmit:function(e){
+  			e.preventDefault();
+  			var nextItems = this.state.items.concat([this.state.text])
+  			var nextText=""
+  			this.setState({items:nextItems,text:nextText})
+  		},
+  		render:function(){
+  			return (
+  				<div>
+  					<h3>TODO模板</h3>
+  					<TodoList item={this.state.items} />
+  					<form onSubmit={this.handleSubmit}>
+  						<input onChange={this.onChange} value={this.state.text} />
+  						<button> {'Add#'+(this.state.items.length+1)} </button>
+  					</form>
+  				</div>
+  				)
+  		}
+  	})
+  	// React.render(<TodoApp />,document.getElementById('content')) ;//已弃用
+  	ReactDOM.render(<TodoApp />,document.getElementById('content'))
+  </script>
+  </body>
+  </html>

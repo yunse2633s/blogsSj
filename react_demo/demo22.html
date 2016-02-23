@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+    <script src="./build/showdown.min.js"></script>
+  </head>
+  <body>
+  <p>表单组件：受限组件与不受限组件</p>
+  <h5>受限组件</h5>
+  <div id="content"></div>
+  <h5>受限组件:响应用户输入</h5>
+  <div id="content2"></div>
+  <h5>受限组件下响应用户输入且仅显示10个字符</h5>
+  <div id="content3"></div>
+  <h5>不受限组件</h5>
+  <div id="content4"></div>
+  <h5>不受限组件,含默认值</h5>
+  <div id="content5"></div>
+  <div id="content6"></div>
+  <!-- 受限组件 -->
+  <script type="text/babel">
+  	var LimitDemo = React.createClass({
+  		render:function(){
+  			return <input type="text" value="hello!" />
+  		}
+  	})
+  	ReactDOM.render(<LimitDemo />,document.getElementById('content'))
+  </script>
+  <!-- 受限组件下响应用户输入 -->
+  <script type="text/babel">
+  	var LimitDemo = React.createClass({
+  		getInitialState:function(){
+  			return {value:'Hello!'}
+  		},
+  		handleChange:function(event){
+  			this.setState({value:event.target.value})
+  		},
+  		render:function(){
+  			var value=this.state.value
+  			return <input type="text" value={value} onChange={this.handleChange} />
+  		}
+  	})
+  	ReactDOM.render(<LimitDemo />,document.getElementById('content2'))
+  </script>
+  <!-- 受限组件下响应用户输入且仅显示10个字符 -->
+  <script type="text/babel">
+  	var LimitDemo = React.createClass({
+  		getInitialState:function(){
+  			return {value:'Hello!'}
+  		},
+  		handleChange:function(event){
+  			this.setState({value:event.target.value.substr(0,10)})
+  		},
+  		render:function(){
+  			var value=this.state.value
+  			return <input type="text" value={value} onChange={this.handleChange} />
+  		}
+  	})
+  	ReactDOM.render(<LimitDemo />,document.getElementById('content3'))
+  </script>
+  <!-- 不受限组件 -->
+  <script type="text/babel">
+  	var LimitDemo = React.createClass({
+  		render:function(){
+  			return <input type="text" />
+  		}
+  	})
+  	ReactDOM.render(<LimitDemo />,document.getElementById('content4'))
+  </script>
+  <script type="text/babel">
+  	var LimitDemotext = React.createClass({
+  		render:function(){
+  			return <input type="text" defaultValue="hello" />
+  		}
+  	})
+  	var LimitDemoradio = React.createClass({
+  		handleClick:function(){
+  			console.log(this.refs.myarea.getDOMNode())
+  		},
+  		render:function(){
+  			return <div>
+  			<input type="radio" refs="myradio" name="sex" defaultValue="man" defaultChecked />男
+  			<input type="radio" refs="myradio" name="sex" defaultValue="woman" /> 女 
+  			<br/>
+  			<select defaultValue="c">
+  				<option value="a" >a</option>
+  				<option value="b" >b</option>
+  				<option value="c" >c</option>
+  			</select>
+  			<textarea name="description" value="textarea受限组件" ref="myarea" onClick={this.handleClick} />
+  			</div>
+  		}
+  	})
+  	var LimitDemoSelect = React.createClass({
+  		render:function(){
+  			return 
+  		}
+  	})
+  	ReactDOM.render(<LimitDemotext />,document.getElementById('content5'))
+  	ReactDOM.render(<LimitDemoradio />,document.getElementById('content6'))
+  </script>
+  </body>
+</html>

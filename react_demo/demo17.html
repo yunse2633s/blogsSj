@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+    <script src="./build/showdown.min.js"></script>
+  </head>
+  <body>
+  <h5>使用Markdown标记 和三种输出显示</h5>
+  <div id='content'></div>
+  <script type="text/babel">
+  	var data = [{author:'per',text:'this is one comment'},{author:'jordan',text:'this is *another*'}]
+    // CommentBox
+  	var CommentBox = React.createClass({
+  		render:function(){
+  			return (
+  				<div className="commentBox">
+  				<h1 >Comments</h1>
+  				<CommentList data = {this.props.data} />
+  				</div>
+  				)
+  		}
+  	})
+  	// 第一种CommentList
+  	// var CommentList = React.createClass({
+  	// 	render:function(){
+  	// 		console.log(this.props)
+  	// 		var commentNodes = this.props.data.map(function(comment){
+  	// 			return (
+  	// 				<div>
+  	// 					<h5>{comment.author}<h6>{comment.text}</h6></h5>
+  	// 				</div>
+  	// 				)
+  	// 		})
+  	// 		return (
+  	// 			<div className="commentList">
+  	// 				{commentNodes}
+  	// 			</div>
+  	// 			)
+  	// }}
+  	// )
+  	// 第二种CommentList
+  	var CommentList = React.createClass({
+  		render:function(){
+  			console.log(this.props)
+  			var commentNodes = this.props.data.map(function(comment){
+  				return (
+  					<Comment author={comment.author} text={comment.text} />
+  					)
+  			})
+  			return (
+  				<div className="CommentList">
+  					{commentNodes}
+  				</div>
+  				)
+  	}}
+  	)
+  	// Comment
+  	var converter = new Showdown.converter()
+  	var Comment = React.createClass({
+  		render:function(){
+  			var rawMarkup = converter.makeHtml(this.props.text.toString())
+  			return (
+  				<div className="comment">
+  					<h2 className="commentAuthor">
+  						{this.props.author}
+  					</h2>
+  					{converter.makeHtml(this.props.text)}
+  					<span dangerouslySetInnerHTML={{__html:converter.makeHtml(this.props.text)}}></span>
+  					<span dangerouslySetInnerHTML={{__html:rawMarkup}} />
+  				</div>
+  				)
+  		}
+  	})
+  	// 
+  	ReactDOM.render(<CommentBox data = {data} />,document.getElementById('content'))
+
+  </script>
+  </body>

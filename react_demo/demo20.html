@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+  </head>
+  <body>
+    <h5>利用spread语法复制props到对应的html元素上</h5>
+    <div id="content"></div>
+    <h5>Mixins 用法 为实现效果</h5>
+    <div id="content2"></div>
+    <h5>解构赋值模式</h5>
+    <div id="content3"></div>
+    <script type="text/babel">
+    //----- 传递Props小技巧，利用spread语法复制props到对应的html元素上
+    var CheckLink = React.createClass({
+      render:function(){
+        return <a {...this.props}>{'√'}{this.props.children}</a>
+      }
+    })
+    ReactDOM.render(
+      <CheckLink href="/checked.html">
+      Click here!
+      </CheckLink>,
+      document.getElementById('content')
+    )
+    //----------- Mixins 用法
+    var SetIntervalMinxin = {
+      componentWillMount:function(){
+        console.log('2',this.intervals)
+        console.log('2进入状态之前调用,已插入真实 DOM')
+        this.intervals=[]
+      },
+      setInterval:function(){
+
+        this.intervals.push(setInterval.apply(null,arguments))
+      },
+      componentWillUnMount:function(){
+        console.log('2在进入状态之前调用,已移出真实 DOM')
+
+        this.intervals.map(clearInterval)
+      }
+    }
+    // 
+    var TickTock = React.createClass({
+      mixins:[SetIntervalMinxin],  //引用mixin
+      getInitialState:function(){
+        return {seconds:0}
+      },
+      componentDidMount:function(){
+        console.log('在进入状态之后调用,已插入真实 DOM')
+        setInterval(this.tick,1000)
+      },
+      tick:function(){
+        this.setState({seconds:this.state.seconds+1})
+      },
+      render:function(){
+        return (
+          <p>
+          React has been running for {this.state.seconds} seconds.
+          </p>
+          )
+      }
+    })
+    // ？看不出mixin的用途
+    ReactDOM.render(
+      <TickTock />,
+      document.getElementById('content2'))
+    // -------使用...传递剩余属性 (这是一种解构赋值模式)
+
+    // var FancyCheckbox = React.createClass({
+    //   render:function(){
+    //     var fancyClass= this.props.checked?'FancyChecked':'FancyUnchecked'
+    //     return (
+    //       <div className={fancyClass} onClick={this.props.onClick} >
+    //       {this.props.children}
+    //       </div>)
+    //   }
+    // })
+
+    var FancyCheckbox=React.createClass({
+      render:function(){
+        // var {...other} = this.props
+        // var fancyClass=this.props.checked?'FancyChecked':'FancyUnchecked'
+        var {checked,...other} = this.props ;//除checked之外的属性
+        var fancyClass=checked?'FancyChecked':'FancyUnchecked'
+        return (
+          <div {...other} className={fancyClass} />
+          )
+      }
+    })
+    // --需要underscore.js
+    // var FancyCheckbox=React.createClass({
+    //   render:function(){
+    //     var checked=this.props.checked
+    //     var other=_.omit(this.props,'checked')
+    //     console.log(other)
+    //     var fancyClass=checked?'FancyChecked':'FancyUnchecked'
+    //     return (
+    //       React.DOM.div(_.extend({},other,{checkName:fancyClass}))
+    //       )
+    //   }
+    // })
+    ReactDOM.render(
+        <FancyCheckbox checked={true} onClick={console.log.bind(console)} >
+          Hello world
+        </FancyCheckbox>,
+        document.getElementById('content3')
+      )
+    </script>
+
+  </body>

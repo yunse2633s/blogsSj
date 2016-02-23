@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+    
+  </head>
+  <body>
+  <h5>React.createElement的用法</h5>
+  <div id='content'></div>
+  <script type="text/babel">
+  	var CommentBox = React.createClass({displayName:'CommentBox',
+  		render:function(){
+  			return (
+  				React.createElement('div',{className:'commentBox'},
+  					"Hello,world! I am a CommentBox.")
+  				)
+  		}})
+  	React.render(React.createElement(CommentBox,null),document.getElementById('content'))
+
+  </script>

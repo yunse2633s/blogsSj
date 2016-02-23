@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset="utf-8" />
+    <script src="./build/react.js"></script>
+    <script src="./build/react-dom.js"></script>
+    <script src="./build/browser.min.js"></script>
+    <script src="./build/jquery.min.js"></script>
+    <script src="./build/showdown.min.js"></script>
+  </head>
+  <body>
+    <h5>内置工厂方法</h5>
+  	<div id="content1"></div>
+
+  	<script type="text/babel">
+  	// React为html标签提供内置工厂方法
+  		var root = React.DOM.ul({
+  			className:'my-list'
+  		},React.DOM.li(null,'text Content'))
+  		ReactDOM.render(root,document.getElementById('content1'))
+  	</script>
+
+    <h5>动态子级和数据流</h5>
+  	<div id="content2"></div>
+  	<!-- 动态子级，数据流 -->
+  	<script type="text/babel">
+  		var ListItemWrapper=React.createClass({
+  			render:function(){
+  				console.log('keyid',this.props)
+          console.log(this.state)
+  				return <li >{this.props.data.text}</li>
+  			}
+  		})
+  		var MyComponent=React.createClass({
+  			render:function(){
+  				return (
+  					<ul>
+  						{this.props.results.map(function(result){
+  							console.log(result.id)
+  							return <ListItemWrapper key={result.id} data={result} />
+  						})}
+  					</ul>
+  					)
+  			}
+  		})
+  		// "id":"1",
+  		var results=[{"author":"pete1","text":"this is one"},
+		{"author":"Jordan2","text":"this is *two*"}]
+  		ReactDOM.render(<MyComponent results={results} />,document.getElementById('content2'))
+  	</script>
+    <h5>Prop验证</h5>
+  	<div id="content3"></div>
+  	<!-- 可复用组件：Prop验证 -->
+  	<script type="text/babel">
+  		var PropValidator=React.createClass({
+  			propTypes:{
+  				data3:React.PropTypes.number,
+  				data2:React.PropTypes.oneOf(['abc','dcd']),
+  				customProp:function(props,data,comonentName){
+  					if(!/matchme/.test(props[data])){
+  						return new Error('自定义验证')
+  					}
+
+  				}
+  			},
+  			render:function(){
+	  				return <a>若不加字符集标签看看回事啥样子{this.props.data}</a>
+	  			}
+  			
+
+  		})
+  		// 如果不加meta标签，上面的显示this.props.data}
+  		ReactDOM.render(<PropValidator data='1234' data2='abc' data3='123'/>,document.getElementById('content3'))
+  	</script>
+  	<!-- 限制只能有一个子级传入 -->
+    <h5>限制只能有一个子级传入</h5>
+  	<div id="content4"></div>
+  	<script type="text/babel">
+  	var MyisRequired=React.createClass({
+  		propTypes:{
+  			children:React.PropTypes.element.isRequired
+  		},
+  		render:function(){
+  			return (
+  				<div>
+  					{this.props.children}
+  				</div>
+  				)
+  		}
+  	})
+  	ReactDOM.render(<MyisRequired><strong>,?</strong><p>来自</p></MyisRequired>,document.getElementById('content4'))
+  	</script>
+  </body>
+  </html>
