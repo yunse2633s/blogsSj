@@ -1,0 +1,34 @@
+<template name="layout">
+
+<div class="container ">
+	<div class="row">
+		{{> yield "header"}}
+	</div>
+    <div class="row">
+    	<!-- ≥768px 使用sm-3 ;≥992px 使用md-3 ; -->
+		<div class="col-sm-3 col-md-3 btn btn-default">
+			<!-- 导航 -->
+	       <ul>
+	       		<li><a href="http://www.baidu.com" >baidu.com</a></li>
+	       		<li><a href="/itSubmit" >提交后列表展示</a></li>
+				<li><a href="#" >账户注册</a></li>
+				<li><a href="/abc" >内部渲染新页面</a></li> 
+				<li><a href="/method" > meteor方法测试</a></li>
+				<li><a href="/jqUpload" >jquery-upload 效果</a></li>
+				<li><a href="/methods" >methods upload</a></li>
+				<li><a href="/upfile" >upfile</a></li>
+				<!-- <li><a href="#" ></a></li> -->
+				<!-- <li><a href="#" ></a></li> -->
+				<!-- <li><a href="#" ></a></li> -->
+	       </ul>
+	    </div>
+	    <div class="col-xs-12 col-sm-6 col-md-6 btn-default">
+	    	{{> yield}}
+	    </div>
+	    <div class="col-sm-3 col-md-3">
+	    	<span >{{> yield "right"}}</span>
+	    </div>
+	</div>
+	<div class="row">{{> yield "foot"}}</div>
+</div>
+</template>
