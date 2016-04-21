@@ -59,3 +59,25 @@ exam:_.extend(postAttributes,{a:'b'})
 ###帖子排序
 	使用monogdb总的排序
 	{sort:{data:-1}}
+
+###用法
+1. Tempalte.postEdit(模板名称).events({
+	'事件 元素':function(e){
+		//
+	}
+})
+	如:
+		事件:submit click mouseout 
+		元素:标签、class、id
+	Tempalte.postEdit.events({
+	'submit form':function(e){
+		//
+	}
+})
+
+###模板渲染
+Template.error.rendered=function(){
+	
+}
+###meteor定期器
+Meteor.setTimeout(function(){},3000)
