@@ -7,8 +7,8 @@ Router.configure({
 	,notFoundTemplate:'notFound'
 	// 加载动画
 	,waitOn:function(){
-		return Meteor.subscribe('posts');
-		// return [Meteor.subscribe('posts'),Meteor.subscribe('comments')]
+		// return Meteor.subscribe('posts');
+		return [Meteor.subscribe('posts'),Meteor.subscribe('notifications')]
 	}
 });
 // 第一个参数: url路径;第二个参数：模板名称

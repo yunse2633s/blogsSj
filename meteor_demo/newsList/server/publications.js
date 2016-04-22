@@ -18,9 +18,13 @@ Posts.find().observe({
 	}
 })
 */
-
+// 发布评论
 Meteor.publish('comments',function(postId){
 	// return Comments.find();
 	check(postId,String);
 	return Comments.find({postId:postId});
 });
+// 发布消息
+Meteor.publish('notifications',function(){
+	return Notifications.find({userId:this.userId,read:false});
+})
