@@ -1,8 +1,16 @@
-Meteor.publish('posts',function(){
-	return Posts.find();
+Meteor.publish('posts',function(options){
+	check(options,{
+		sort:Object
+		,limit:Number
+	});
+	return Posts.find({},options);
 	// 查询flagged字段为false的记录
 	// return Posts.find({flagged:false})
 	// Posts.find({flagged:false,author:author})
+})
+Meteor.publish('singlePost',function(id){
+	check(id,String)
+	return Posts.find(id);
 })
 // 尝试在Posts.find()后更上observe方法会出现什么样的结果,下列代码在server||client?
 /**

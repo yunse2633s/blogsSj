@@ -15,7 +15,7 @@
 
 Template.postsList.helpers({
 	// posts:postsData
-	posts:function(){
-		return Posts.find({},{sort:{submitted:-1}});
-	}
+	// posts:function(){;
+	// 	return Posts.find({},{sort:{submitted:-1}});
+	// }
 });
