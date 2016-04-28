@@ -31,6 +31,7 @@ body{
 	*zoom:1;
 	position:relative;
 	opacity:1;
+	transition:all 300ms 0ms ease-in;
 }
 .post:before,.post:after{
 	content:"";
@@ -170,4 +171,12 @@ body{
 	clear:both;
 	margin-bottom:5px;
 	pointer-events:auto;
+}
+#main{
+	position: relative;
+}
+.page{
+	position: absolute;
+	top: 0px;
+	width: 100%;
 }

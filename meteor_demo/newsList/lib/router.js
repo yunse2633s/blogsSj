@@ -47,7 +47,7 @@ Router.route('/submit',{name:'postSubmit'})
 // Route controller通过简单的方式将一组路由特性打包,其他router可以继承
 PostsListController = RouteController.extend({
 	template:'postsList'
-	,increment:3
+	,increment:5
 	,postsLimit:function(){
 		return parseInt(this.params.postsLimit) || this.increment;
 	}
