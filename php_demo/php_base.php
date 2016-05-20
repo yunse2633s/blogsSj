@@ -57,7 +57,7 @@ var_dump($x);
 $x=true;
 var_dump($x);
 
-echo '<br/>数组型';
+echo '<br/>数组型：数值数组、关联数组、多维数组';
 $x=array('val',['a'],true,3);
 var_dump($x);
 
