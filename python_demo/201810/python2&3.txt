@@ -1,0 +1,7 @@
+#coding:utf-8 // 第一行 python2的声明
+#!/usr/lib/python  //第一行  python3的声明
+#
+#python2 & python3的对比
+#
+print 2 //python2的使用
+print(2) //python3的使用

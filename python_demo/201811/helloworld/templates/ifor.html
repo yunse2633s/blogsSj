@@ -1,0 +1,25 @@
+{# 这是一个注释: 使用if 和 循环 #}
+<h1> {{condition}} </h1>
+
+{# 循环 #}
+	<ul>
+    {% for athlete in athlete_list %}
+    	<li>{{ athlete }}</li>
+	{% endfor %}
+	</ul>
+
+{# 条件 #}
+{% if condition %}
+     <b> 条件成功</b>
+     {% else %}
+     <b> 条件失败</b>
+{% endif %}
+
+{# 过滤器 #}
+<br><b> {{'a'|lower}} </b>
+
+{# include #}
+{% include "hello.html" %}
+
+{# ifequal/ifnotequal， 比较两个值是否相等 #}
+{# 过滤器}

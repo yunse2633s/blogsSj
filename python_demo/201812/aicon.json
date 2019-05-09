@@ -1,0 +1,3819 @@
+{
+    "curTime": "2018-12-13T15:56:54+08:00",
+    "speakers": [
+        {
+            "id": 2614,
+            "typeId": 4,
+            "name": "李磊",
+            "avatar": "https://static.geekbang.org/ck/5bf380c72feed.png",
+            "position": "人工智能实验室总监",
+            "company": "字节跳动",
+            "introduce": "<p>李磊博士，字节跳动人工智能实验室总监，原百度美国深度学习实验室少帅科学家。上海交通大学计算机系本科，卡耐基梅隆大学计算机系博士，加州大学伯克利分校博士后研究员。曾获2012年美国计算机学会SIGKDD最佳博士论文之一、2017年吴文俊人工智能技术发明二等奖。在机器学习、数据挖掘和自然语言理解领域于国际顶级学术会议发表论文40余篇，拥有三项美国技术发明专利，担任CCF中文信息处理专委委员，2017 KDD Cup及2018 KDD Hands-on Tutorial联合主席, AAAI 2019资深程序委员和ICML、KDD、IJCAI等大会程序委员。</p>\n",
+            "order": 0,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2382,
+            "typeId": 2,
+            "name": "马维英",
+            "avatar": "https://static.geekbang.org/ck/5b8ca37f457fb.jpg",
+            "position": "人工智能实验室负责人",
+            "company": "字节跳动副总裁",
+            "introduce": "<p>马维英，现任字节跳动公司副总裁兼人工智能实验室负责人，带领团队在机器学习、计算机视觉、计算机图形学、语音和音乐、自然语言处理、个性化推荐和搜索等领域进行基础研究和核心技术开发。 他的团队所开发的技术通过字节跳动的产品（例如今日头条和抖音）已经在全球范围被数亿日活跃用户使用。他曾在世界级会议和学报上发表过逾300篇论文，并拥有160多项技术专利。他是电气电子工程师学会院士(IEEE Fellow)、美国计算机协会杰出科学家(ACM Distinguished Scientist)及中国&ldquo;千人计划&rdquo;专家。他是2008国际互联网大会(WWW)的程序委员会联合主席, 以及2011年国际信息检索大会(SIGIR)的联合主席。他曾经在诸多学术期刊编委会中任职, 包括ACM信息系统学刊 (TOIS),&nbsp; ACM/Springer多媒体系统学报和《多媒体工具与应用》杂志等。他于2010年至2016年担任国际互联网大会(WWW)的 Steering Committee委员。2018年7月，马维英入选TOP100的CS计算机科学家，h-index 104，全球排名86，中国排名第2。 他于2010年获得台湾清华大学EECS学院的杰出校友荣誉，以及2013年美国加州大学圣芭芭拉分校电气和计算机工程系50周年的杰出讲座(Distinguished Lecture)荣誉。</p>\n\n<p>在加入字节跳动之前，他从2001年到2017年2月在微软亚洲研究院工作，担任研究院常务副院长，领导在信息检索、自然语言处理、机器学习、互联网搜索技术、知识图谱和数据挖掘，多媒体分析和理解等方面的研究。他的团队开发许多关键核心技术并用于微软必应搜索引擎Bing和在线广告Ads Center，以及微软认知服务Cognitive Services，Exchange, SharePoint, Delve, Azure，微软小冰聊天机器人和问答系统。他还在GitHub开源了多项技术, 包括使得大规模机器学习任务具有高度可扩展性, 高效性和灵活性的分布式机器学习工具包Distributed Machine Learning Toolkit, 和基于内存的分布式大规模图数据处理引擎Microsoft Graph Engine, 以及让计算机理解自然语言所需要掌握的概念和知识图谱Microsoft Concept Graph。</p>\n\n<p>他于1990年毕业于台湾国立清华大学电气工程系，后于1994年和1997年分别获得美国加州大学圣芭芭拉分校(University of California at Santa Barbara)电气和计算机工程系硕士和博士学位。</p>\n",
+            "order": 0,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2261,
+            "typeId": 1,
+            "name": "颜水成",
+            "avatar": "https://static.geekbang.org/ck/5b5833ad20bc3.jpg",
+            "position": "院长及首席科学家",
+            "company": "360人工智能研究院",
+            "introduce": "<p>颜水成，国家千人计划专家，360副总裁，首席科学家，人工智能研究院院长，新加坡国立大学终身教职，IEEE Fellow, IAPR Fellow 及 ACM 杰出科学家。他的主要研究领域是计算机视觉、机器学习与多媒体分析，发表近500篇高质量学术论文，论文引用过3万次，H-index 74，2014、2015、 2016 三次入选全球高引用学者 ( TR Highly-cited researchers )。此外，他领导的团队曾八次获得计算机视觉领域核心竞赛 PASCAL VOC 和 ILSVRC的 winner 和 honorable-mention 奖项，10余次最佳(学生)论文奖项，曾取得多媒体领域核心会议 ACM MM 最佳论文奖，最佳学生论文奖，最佳技术演示奖的大满贯。</p>\n\n<p>内容剧透：<a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247488904&amp;idx=1&amp;sn=a58ad362caed128bd429bb18d3de25d8&amp;chksm=fbe9ac47cc9e255122b1071b8769914354aa995fa9b9691d14211e88e0e4b8415c77b780f120&amp;scene=27#wechat_redirect\">《专访ImageNet冠军颜水成团队，如何将比赛成果在企业中落地？》</a></p>\n",
+            "order": 0,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2336,
+            "typeId": 3,
+            "name": "袁进辉",
+            "avatar": "https://static.geekbang.org/ck/5b7cd59f8f922.png",
+            "position": "一流科技创始人",
+            "company": "老师木",
+            "introduce": "<p>袁进辉（老师木），2008年7月自清华大学计算机系获得工学博士学位，获得清华大学优秀博士学位论文奖，在计算机视觉及多媒体领域顶级会议上发表多篇论文，连续多年获得美国国家技术标准局组织的视频检索评测比赛的第一名。2010年负责研发斯诺克比赛&ldquo;鹰眼&rdquo;系统，该产品打败来自英国的竞品开始服务于各项国际大赛，并被中国国家队作为日常训练辅助系统。2012年作为早期成员加入360搜索创业团队，一年后产品上线成为国内市场份额第二的搜索引擎。2013年加入微软亚洲研究院从事大规模机器学习平台的研发工作。2014年，发明了当时世界上最快的主题模型训练算法和系统LightLDA，只用数十台服务器即可完成以前数千台服务器才能实现的大规模主题模型，该技术成功应用于微软在线广告系统，被当时主管研究的全球副总裁周以真称为&ldquo;年度最好成果&rdquo;。2015年至2016年底，专注于搭建基于异构集群的深度学习平台，项目荣获微软亚洲研究院院长特别奖 (top 1%)。2017年创立北京一流科技有限公司，致力于打造分布式深度学习平台的事实工业标准。</p>\n\n<p>内容剧透：<a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247486086&amp;idx=1&amp;sn=420ecaf33ce82473fc9821529a846945&amp;chksm=fbe9b349cc9e3a5fbbdbad6f38e30878c8b6527f89756716a8fdceb870c68b0fb7d2c7d7e566&amp;scene=27#wechat_redirect\">《微博技术大V老师木的机器学习水平怎么样？》</a></p>\n",
+            "order": 1,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2359,
+            "typeId": 2,
+            "name": "薄列峰",
+            "avatar": "https://static.geekbang.org/ck/5b83abfeeae27.png",
+            "position": "AI实验室首席科学家",
+            "company": "京东数字科技",
+            "introduce": "<p>薄列峰，现任京东金融AI实验室首席科学家。曾就职于亚马逊（Amazon）西雅图总部，担任首席科学家，领导研究团队，从事Amazon Go无人零售店的基础算法研究和工程落地。 薄列峰于2007年获西安电子科技大学博士学位，先后在芝加哥大学丰田研究院和华盛顿大学从事博士后研究，领域涵盖机器学习、深度学习、计算机视觉、机器人、自然语言处理等。薄列峰在国际顶级会议和期刊上合计发表论文 50 余篇，论文总被引用 6000 余次，H 指数 38，其中博士学位论文荣获全国百篇优秀博士论文奖，RGB-D 物体识别论文荣获机器人会议 ICRA 最佳计算机视觉论文奖；在国际学术活动方面，薄列峰任华盛顿大学计算机科学与工程学院合聘教授（Affiliate Faculty），担任过包括 NIPS 、 CVPR 、 ICCV 、 ECCV 、 AAAI 、 SDM 等在内的顶级人工智能会议程序委员会委员。</p>\n",
+            "order": 1,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2481,
+            "typeId": 4,
+            "name": "高斌",
+            "avatar": "https://static.geekbang.org/ck/5bed2057b093c.jpeg",
+            "position": "必应搜索广告部首席机器学习科学家",
+            "company": "微软",
+            "introduce": "<p>高斌博士毕业于北京大学数学科学学院，现任微软总部必应搜索广告部门首席机器学习科学家，此前他曾担任微软亚洲研究院机器学习研究组主任研究员。他主要从事机器学习、信息检索、数据挖掘和计算广告等领域的研究和开发。他在国际顶级期刊和会议上发表相关论文40余篇。他的论文曾获得国际信息检索大会（SIGIR）最佳学生论文奖。他持有30余项美国专利。他主持研发的十余项创新技术已经被应用于必应搜索引擎、必应搜索广告以及微软小冰等产品中。</p>\n\n<p><span style=\"font-size:18px\"><a href=\"https://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&amp;mid=2655166014&amp;idx=1&amp;sn=aebfe683a8e7b00f9a449881f6e02909&amp;chksm=8460395eb317b0485cac4801f74fc23a6e188be65ca2fadf3b46aa44a63a6bf55b31474bc6b3&amp;scene=38#wechat_redirect\">内容剧透：《深度学习在搜索引擎广告选取中的应用》</a></span></p>\n",
+            "order": 1,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2535,
+            "typeId": 6,
+            "name": "张睿",
+            "avatar": "https://static.geekbang.org/ck/5bc6f1f07dbb9.png",
+            "position": "外卖事业部研究员",
+            "company": "美团点评",
+            "introduce": "<p>张睿，现任美团点评外卖事业部研究员。1993年和1996年于大连理工大学获学士、硕士学位，2003年于清华大学获博士学位。专注于事图像识别、机器学习等技术方向。之前曾在百度和阿里巴巴担任资深算法工程师和高级专家，在文字和文档图像识别的多个领域从事算法研发和应用实践。</p>\n",
+            "order": 1,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2288,
+            "typeId": 1,
+            "name": "华先胜",
+            "avatar": "https://static.geekbang.org/ck/5b694f0553181.jpeg",
+            "position": "城市大脑人工智能技术负责人",
+            "company": "阿里巴巴达摩院机器智能技术实验室副主任",
+            "introduce": "<p>华先胜，现任阿里巴巴集团Disginguished Engineer，阿里巴巴人工智能核心研发机构达摩院机器智能技术实验室副主任，城市大脑人工智能技术负责人。华博士是美国电气与电子工程师协会会士（IEEE Fellow），美国计算机协会杰出科学家（ACM Distinguished Scientist）；2008年获MIT技术评论&ldquo;全球35个35岁以下杰出青年创新者&rdquo;称号（TR35）。1996年和2001年毕业于北京大学数学学院，分别获学士和博士学位；之后分别工作于微软亚洲研究院，微软美国必应搜索引擎，以及微软美国研究院，从事多媒体、计算机视觉和机器学习方面的研发工作。2015年4月加入阿里巴巴，任搜索事业部资深总监/研究员；2016年加入阿里巴巴iDST，负责云上视觉智能计算的技术研发。他的研发兴趣在大规模视觉人工智能领域，包括视觉分析、识别、搜索和挖掘等。华博士在国际主流会议和期刊上发表论文200余篇，拥有专利90余项。曾担任多个学术期刊的副主编以及ACM Multimedia等顶级学术会议的程序委员会主席，并获得多个国际会议及期刊的最佳论文奖。华博士将担任多媒体智能领域顶级国际学术会议ACM Multimedia 2020年大会主席。</p>\n\n<p><span style=\"font-size:18px\">内容剧透：<a href=\"https://mp.weixin.qq.com/s/AjuWf5v2UTkPhu09r_HhCA\">《阿里巴巴华先胜支招：如何从技术和应用层改进视觉搜索？》</a></span></p>\n",
+            "order": 1,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2341,
+            "typeId": 3,
+            "name": "张俊林",
+            "avatar": "https://static.geekbang.org/ck/5b7d15e9bcb3b.jpg",
+            "position": "AI Lab资深算法专家",
+            "company": "新浪微博",
+            "introduce": "<p>张俊林，中国中文信息学会理事，目前在新浪微博AI Lab担任资深算法专家。在此之前，张俊林曾经在阿里巴巴任资深技术专家，以及在百度和用友担任技术经理及技术总监等职务。他的研发兴趣集中在：深度学习、搜索技术、推荐系统、自然语言处理等方面，并在以上领域有多年学术界研究经历及工业界实践经验。同时他是技术书籍《这就是搜索引擎：核心技术详解》（该书荣获全国第十二届输出版优秀图书奖）、《大数据日知录：架构与算法》的作者。</p>\n\n<p>他本科毕业于天津大学管理学院，之后在中科院软件所直接攻读博士学位，研究方向是信息检索理论与自然语言处理，就学期间曾在ACL、COLING、IJCNLP等国际顶级会议发表多篇学术论文。另外，他在此期间领导设计的搜索系统曾在美国国防部DARPA主持的TREC高精度检索系统评测中取得综合排名第一名的优异成绩。</p>\n",
+            "order": 2,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2388,
+            "typeId": 2,
+            "name": "朱军",
+            "avatar": "https://static.geekbang.org/ck/5b8cf558e541a.png",
+            "position": "清华大学人工智能研究院院长助理",
+            "company": "清华大学计算机系教授",
+            "introduce": "<p>朱军，清华大学计算机系教授，清华大学人工智能研究院院长助理。2001到2009年获清华大学计算机学士和博士学位，之后在CMU做博士后，2011年回清华任教，2015到2018年任卡内基梅隆大学兼职教授。主要从事机器学习基础理论、高效算法及应用研究，在国际重要期刊与会议发表论文百余篇。担任IEEE TPAMI的副主编和编委、AI编委，担任机器学习国际大会ICML2014地区联合主席, ICML (2014-2018)、NIPS (2013, 2015, 2018)、IJCAI（2015,2017）、AAAI（2016-2018）等国际会议的领域主席。获CCF自然科学一等奖、北京市教学成果一等奖、CCF青年科学家奖、中创软件人才奖等，入选国家&ldquo;万人计划&rdquo;青年拔尖人才、MIT TR35中国区先锋者以及IEEE Intelligent Systems评选的&ldquo;AI&rsquo;s 10 to Watch&rdquo;。</p>\n",
+            "order": 2,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2544,
+            "typeId": 6,
+            "name": "王仲远",
+            "avatar": "https://static.geekbang.org/ck/5bc8273acdfde.png",
+            "position": "美团AI平台部NLP中心负责人&大众点评搜索智能中心负责人",
+            "company": "",
+            "introduce": "<p>王仲远博士，高级研究员、高级总监，美团AI平台部NLP中心负责人、大众点评搜索智能中心负责人。加入美团点评前，担任美国Facebook公司Research Scientist，负责Facebook产品级NLP Service。在Facebook之前，他是微软亚洲研究院的主管研究员，负责微软研究院知识图谱项目和对话机器人项目。多年来专注于自然语言处理、知识图谱及其在文本理解方面的研究，在国际顶级学术会议如VLDB、ICDE、IJCAI、CIKM等发表论文30余篇，获得ICDE 2015最佳论文奖，并是ACL 2016 Tutorial &quot;Understanding Short Texts&quot;的主讲人，出版学术专著3部，获得美国专利5项。在NLP和KG研究领域及实际产品系统中均有丰富经验。他的研究兴趣包括：自然语言处理、知识图谱、深度学习、数据挖掘等。</p>\n",
+            "order": 2,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2290,
+            "typeId": 1,
+            "name": "裴健",
+            "avatar": "https://static.geekbang.org/ck/5b69a7817a4ec.png",
+            "position": "大数据与智能供应链事业部总裁",
+            "company": "京东集团副总裁",
+            "introduce": "<p>裴健，现任京东集团副总裁，大数据与智能供应链事业部总裁。入职京东前，裴健教授曾担任加拿大一级研究讲座教授（大数据科学领域）、加拿大西蒙弗雷泽大学计算科学学院教授、统计与精算学系和健康科学院兼职教授，前华为首席科学家。</p>\n\n<p>在数据科学、大数据、数据挖掘和数据库系统等领域，裴健是世界领先的研究学者，擅长为数据密集型应用设计开发创新性的数据业务产品和高效的数据分析技术；他是国际计算机协会（ACM）院士和国际电气电子工程师协会（IEEE）院士，ACM SIGKDD（数据挖掘及知识发现专委会）现任主席，因其在数据挖掘基础、方法和应用方面的杰出贡献，裴健教授获得数据科学领域技术成就最高奖ACM SIGKDD Innovation Award（ACM SIGKDD创新奖）和IEEE ICDM Research Contributions Award（IEEE ICDM研究贡献奖）。</p>\n\n<p>裴健教授于2002年在加拿大西蒙弗雷泽大学获计算科学博士学位，于1991年和1993年分别于上海交通大学计算机科学与工程系获学士与硕士学位。</p>\n\n<p>内容剧透：<a href=\"https://mp.weixin.qq.com/s/ejVT5V7GYa4V9hRuTx7rBA\">《从&ldquo;科技零售&rdquo;到&ldquo;零售科技&rdquo;，裴健谈京东的关键转型期》</a></p>\n",
+            "order": 2,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2299,
+            "typeId": 4,
+            "name": "鲍捷 ",
+            "avatar": "https://static.geekbang.org/ck/5b6bff1b21bbb.png",
+            "position": "人工智能领域知名专家",
+            "company": "文因互联CEO",
+            "introduce": "<p>鲍捷博士，文因互联 CEO。人工智能领域知名专家，拥有20年学术界和工业界的相关经验。美国Iowa State University人工智能博士，RPI博士后，MIT访问研究员，W3C OWL(Web本体语言)工作组成员，前三星美国研发中心研究员，三星问答系统SVoice第二代系统核心设计师。主要研究领域涵盖人工智能的诸多分支，包括机器学习、神经网络、数据挖掘、自然语言处理、形式推理、语义网和本体工程等，发表了70多篇领域内相关论文。是中文信息学会语言与知识计算专委会委员，中国计算机协会会刊编委，W3C顾问会员会代表。2010年以来关注金融智能化的研究和应用，成果有XBRL语义模型，基于知识图谱的基本面分析、金融问答引擎、财务报告自动化提取、自动化监管等。</p>\n\n<p>内容剧透：<a href=\"https://mp.weixin.qq.com/s/vcUtSJkbRxO8ONtpuxug4w\">《人人恐惧AI寒冬，他却希望泡沫再破裂一次》</a></p>\n",
+            "order": 2,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2343,
+            "typeId": 1,
+            "name": "马维英",
+            "avatar": "https://static.geekbang.org/ck/5b8ca2162b05f.jpg",
+            "position": "人工智能实验室负责人",
+            "company": "字节跳动副总裁",
+            "introduce": "<p>马维英，现任字节跳动公司副总裁兼人工智能实验室负责人，带领团队在机器学习、计算机视觉、计算机图形学、语音和音乐、自然语言处理、个性化推荐和搜索等领域进行基础研究和核心技术开发。 他的团队所开发的技术通过字节跳动的产品（例如今日头条和抖音）已经在全球范围被数亿日活跃用户使用。他曾在世界级会议和学报上发表过逾300篇论文，并拥有160多项技术专利。他是电气电子工程师学会院士(IEEE Fellow)、美国计算机协会杰出科学家(ACM Distinguished Scientist)及中国&ldquo;千人计划&rdquo;专家。他是2008国际互联网大会(WWW)的程序委员会联合主席, 以及2011年国际信息检索大会(SIGIR)的联合主席。他曾经在诸多学术期刊编委会中任职, 包括ACM信息系统学刊 (TOIS),&nbsp; ACM/Springer多媒体系统学报和《多媒体工具与应用》杂志等。他于2010年至2016年担任国际互联网大会(WWW)的 Steering Committee委员。2018年7月，马维英入选TOP100的CS计算机科学家，h-index 104，全球排名86，中国排名第2。 他于2010年获得台湾清华大学EECS学院的杰出校友荣誉，以及2013年美国加州大学圣芭芭拉分校电气和计算机工程系50周年的杰出讲座(Distinguished Lecture)荣誉。</p>\n\n<p>在加入字节跳动之前，他从2001年到2017年2月在微软亚洲研究院工作，担任研究院常务副院长，领导在信息检索、自然语言处理、机器学习、互联网搜索技术、知识图谱和数据挖掘，多媒体分析和理解等方面的研究。他的团队开发许多关键核心技术并用于微软必应搜索引擎Bing和在线广告Ads Center，以及微软认知服务Cognitive Services，Exchange, SharePoint, Delve, Azure，微软小冰聊天机器人和问答系统。他还在GitHub开源了多项技术, 包括使得大规模机器学习任务具有高度可扩展性, 高效性和灵活性的分布式机器学习工具包Distributed Machine Learning Toolkit, 和基于内存的分布式大规模图数据处理引擎Microsoft Graph Engine, 以及让计算机理解自然语言所需要掌握的概念和知识图谱Microsoft Concept Graph。</p>\n\n<p>他于1990年毕业于台湾国立清华大学电气工程系，后于1994年和1997年分别获得美国加州大学圣芭芭拉分校(University of California at Santa Barbara)电气和计算机工程系硕士和博士学位。</p>\n",
+            "order": 3,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2616,
+            "typeId": 4,
+            "name": "刘仁杰",
+            "avatar": "https://static.geekbang.org/ck/5bf3a45780abc.png",
+            "position": "软件工程师",
+            "company": "Google Brain",
+            "introduce": "<p>Google Brain软件工程师，TensorFlow团队中国成员，目前主要负责TensorFlow 和TensorFlowLite的研发，曾经从事G+以及Chrome Web Store的大规模内容推荐工作。</p>\n",
+            "order": 3,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2402,
+            "typeId": 2,
+            "name": "韩旭",
+            "avatar": "https://static.geekbang.org/ck/5b8f77ea43b55.png",
+            "position": "CEO兼联合创始人",
+            "company": "文远知行",
+            "introduce": "<p>韩旭先生是文远知行WeRide.ai CEO兼联合创始人，文远知行WeRide.ai是中国领先的L4级别无人驾驶出行公司。在创立文远知行WeRide.ai前，韩旭在百度担任自动驾驶首席科学家，具有深厚的技术背景。韩旭致力于研发计算机视觉和机器学习技术，他是美国伊利诺伊大学博士，密苏里大学终身教授，及计算机视觉和机器学习实验室主任。由韩旭主持开发的DeepSpeech2 被MIT Tech Review评为2016十大技术突破之一。</p>\n",
+            "order": 3,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2279,
+            "typeId": 1,
+            "name": "崔宝秋",
+            "avatar": "https://static.geekbang.org/ck/5b6805499ddd5.png",
+            "position": "首席架构师",
+            "company": "小米人工智能与云平台副总裁",
+            "introduce": "<p>崔宝秋，现任小米首席架构师、小米人工智能与云平台副总裁，美国纽约州立大学石溪分校计算机科学系博士。曾任LinkedIn主任工程师和团队负责人、IBM高级工程师和高级研发经理、雅虎搜索技术(YST)核心团队主任工程师。</p>\n\n<p>小米人工智能与云平台团队是小米核心技术团队， 由崔宝秋创立并管理，亲自组建了其中的小米云计算、小米云存储、小爱，AI平台、AI实验室、大数据、搜索推荐等团队。人工智能与云平台为小米所有业务提供平台性技术支撑，为小米用户和小米生态链合作伙伴提供云端服务，同时为小米所有产品和业务提供基础架构、技术支持和可靠的互联网服务，并承担了&ldquo;云计算－大数据－人工智能&rdquo;这一技术变革主线。</p>\n",
+            "order": 3,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2543,
+            "typeId": 6,
+            "name": "张富峥",
+            "avatar": "https://static.geekbang.org/ck/5bc8265aa486a.png",
+            "position": "知识图谱算法负责人",
+            "company": "美团",
+            "introduce": "<p>张富峥博士于2018年7月初加入美团，担任AI平台NLP中心的研究员，带领知识图谱算法团队。目前主要负责美团大脑项目，这是围绕美团吃喝玩乐场景打造的知识图谱及其应用，能够打通餐饮、旅行、休闲娱乐等各个场景数据，为美团各场景业务提供更加智能的服务。在此之前，张富峥博士在微软亚洲研究院社会计算组担任研究员。他于2015年取得计算机博士学位，由微软亚洲研究院和中国科技大学联合培养，师从谢幸博士和陈国良院士。在微软期间，张富峥博士和所其在团队在个性化推荐、用户画像、时空数据挖掘等领域展开了创新性的研究，并把研究结果应用到微软的广告展示、新闻推荐、机器人小冰等众多产品中。他在相关领域的顶级会议和期刊上发表近30余篇论文，如KDD, WWW, AAAI, IJCAI, TKDE, TIST等，曾获ICDM2013最佳论文大奖。 张富峥博士曾担任ASONAM的工业界主席，IJCAI、WSDM、SIGIR等国际会议和TKDE、TOIS、TIST等国际期刊的评审委员。</p>\n",
+            "order": 3,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2357,
+            "typeId": 4,
+            "name": "陈博兴",
+            "avatar": "https://static.geekbang.org/ck/5b835cfc2029d.png",
+            "position": "资深算法专家",
+            "company": "阿里巴巴达摩院",
+            "introduce": "<p>陈博兴，阿里巴巴集团机器智能技术实验室的资深算法专家。他的研究方向是机器翻译，自然语言处理和机器学习。在加入阿里之前，他是加拿大国家研究委员会（NRC）的终身研究员，再之前是新加坡信息与通信研究所的研究员，意大利FBK-IRST和法国格勒诺布尔大学的博士后。他本科毕业于北京大学，博士毕业于中国科学院。他和同事合作先后发表了50多篇会议和期刊论文，获得过ACL 2013的最佳论文奖提名和MT Summit 2013的最佳论文奖；他长期担任NLP领域所有顶级会议和期刊的审稿人或程序委员会成员。他领导的团队先后在各种机器翻译评测中取得优异成绩，获得了WMT 2018五个语向的第一名WMT 2018翻译质量评估六个子任务的第一名，WMT 2017俄语到英语第一名，NIST 2012机器翻译中文到英文第一名，IWSLT 2007口语机器翻译比赛中文到英文第一名，和IWSLT 2005比赛中文到英文和日语到英语第一名等等。</p>\n",
+            "order": 4,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2450,
+            "typeId": 2,
+            "name": "田奇",
+            "avatar": "https://static.geekbang.org/ck/5ba45612e6c3e.png",
+            "position": "计算视觉首席科学家",
+            "company": "华为诺亚方舟实验室",
+            "introduce": "<p>华为计算视觉首席科学家，美国德克萨斯大学圣安东尼奥分校计算机系正教授，国家教育部长江学者讲座教授，海外杰青，中国科学院海外评审专家，&nbsp;IEEE Fellow。曾任清华大学神经与认知计算中心讲席教授，微软亚洲研究院主任研究员，本科毕业于清华大学电子工程系，后赴美国伊利诺伊大学香槟分校学习，获博士学位。</p>\n\n<p>研究方向：计算机视觉和多媒体信息检索</p>\n",
+            "order": 4,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2546,
+            "typeId": 6,
+            "name": "张金璐",
+            "avatar": "https://static.geekbang.org/ck/5bc8587d3742b.png",
+            "position": "知识图谱工程负责人",
+            "company": "美团",
+            "introduce": "<p>张金璐，美团高级技术专家。本科及研究生均毕业于哈尔滨工业大学，多年深耕基础架构方向，负责过集团七层网关、http服务治理、近亿QPS微服务网络的链路追踪系统、秘钥管理系统、统一日志项目、泳道项目、线上全链路压测项目等等，有丰富高并发大规模分布式系统经验。现任职于美团AI平台部NLP中心，负责知识图谱引擎建设、TaskBot多轮会话机器人、算法GPU加速等工作。</p>\n",
+            "order": 4,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2449,
+            "typeId": 2,
+            "name": "陈天石",
+            "avatar": "https://static.geekbang.org/ck/5bd2fcf17095c.jpg",
+            "position": "创始人&CEO",
+            "company": "寒武纪",
+            "introduce": "<p>陈天石，中科寒武纪科技CEO。2010年毕业于中国科学技术大学计算机学院，获工学博士学位。同年进入中国科学院计算技术研究所工作。研究方向为计算机体系结构和计算智能。在IEEE/ACM Transactions、Theoretical Computer Science、ASPLOS、ISCA、MICRO、HPCA、IJCAI、AAAI、SPAA、DATE等重要期刊和会议上发表论文40余篇。曾获ASPLOS最佳论文奖（2014）、MICRO最佳论文奖（2014）、全国百篇优秀博士论文提名奖（2012）、中国计算机学会优秀博士论文奖（2011）、中国科学院优秀博士论文奖（2011）、中国科学院院长奖（2010）等荣誉，并入选计算所百星计划（2011）、CCF-Intel青年学者提升计划（2014）。</p>\n",
+            "order": 5,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2487,
+            "typeId": 4,
+            "name": "林晖",
+            "avatar": "https://static.geekbang.org/ck/5baddfcd39f3c.png",
+            "position": "联合创始人&首席科学家",
+            "company": "英语流利说",
+            "introduce": "<p>林晖，清华大学本科硕士，华盛顿大学博士，现任流利说联合创始人、首席科学家。曾任 Google 美国总部研究科学家。主要研究领域包括语音识别、自然语言处理、机器学习以及大数据挖掘。在这些领域的顶尖刊物和国际会议上发表三十余篇论文，并担任技术委员会成员（包括 ICML, NIPS, AISTATS, ACL, EMNLP, IEEE Signal Processing Letters, IEEE Transactions on Audio, Speech and Language Processing）。拥有多项美国及中国专利。发明的基于次模优化的自动文章摘要技术已成为文章自动摘要的经典方法之一，被该领域的研究人员广泛应用。曾负责 Google 语音识别核心算法的研发，研发并上线了多语种语音识别系统，以及基于深度神经网络的电话留言识别系统。</p>\n",
+            "order": 5,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2531,
+            "typeId": 4,
+            "name": "陈志刚",
+            "avatar": "https://static.geekbang.org/ck/5bc69c74829f0.png",
+            "position": "AI研究院副院长",
+            "company": "科大讯飞",
+            "introduce": "<p>陈志刚博士，2003年加入科大讯飞，现任科大讯飞AI研究院副院长，负责认知智能研究及产品化落地工作。长期从事智能语言及语音处理方向的科研工作，在语音合成、语音识别、信息抽取、语音交互等方向有着多年的研究和产品开发经验，目前担任科大讯飞语音交互战略方向&mdash;&mdash;AIUI的总工程师。</p>\n",
+            "order": 6,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2560,
+            "typeId": 4,
+            "name": "朱礼君",
+            "avatar": "https://static.geekbang.org/ck/5bcef4317c3d0.png",
+            "position": "资深算法专家",
+            "company": "菜鸟网络",
+            "introduce": "<p>朱礼君，现任菜鸟网络资深算法专家。于美国马里兰大学获得物理学博士学位。先后在Goldman Sachs、Amazon和Facebook从事数学建模和算法方面的研究工作。2014年回国后加入阿里巴巴，先在搜索事业部从事推荐算法的应用研究。于2015年加入菜鸟，现在的主要研究方向是人工智能和运筹优化算法在物流中的应用。</p>\n\n<p><span style=\"font-size:18px\"><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247494017&amp;idx=3&amp;sn=31f0f0b17b962a18231ac966ccad8c8b&amp;chksm=fbea504ecc9dd958fff275dc3bda0df772ca01c1950333c340411063f7ef064f2f348af23e79&amp;scene=38#wechat_redirect\">内容剧透：《菜鸟All In新物流，而这几乎是不会有错的一步》</a></span></p>\n",
+            "order": 7,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2606,
+            "typeId": 2,
+            "name": "夏威",
+            "avatar": "https://static.geekbang.org/ck/5bece0857fad2.png",
+            "position": "资深研发科学家",
+            "company": "亚马逊",
+            "introduce": "<p>夏威，现任亚马逊资深研发科学家、研究经理，负责领导AWS 人工智能云服务Rekognition的大规模识别算法研发工作，发布了包括人脸识别、物体识别、文字识别等在内的一系列智能API服务。在此之前，作为核心创始成员，其在创业公司Orbeus（2015年9月被亚马逊收购）担任首席科学家，负责领导智能识别算法的研发，主要支持Rekognition 智能识别API和其他2C端产品，比如第一款智能相册PhotoTime。夏威于新加坡国立大学获博士学位并曾在松下和Lund大学从事研究工作，曾发表多篇论文和多项美国专利，同时担任许多国际会议和期刊审稿人。在该领域的顶级国际竞赛方面，也曾先后获得Pascal VOC和ImageNet等挑战赛冠军。</p>\n",
+            "order": 7,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2629,
+            "typeId": 4,
+            "name": "齐国君",
+            "avatar": "https://static.geekbang.org/ck/5bfcae2560e51.jpg",
+            "position": "技术副总裁&城市智能体首席科学家",
+            "company": "华为美国研究所",
+            "introduce": "<p>齐国君博士现就职于华为美国研究所，任技术副总裁（Technical VP）和城市智能体首席科学家，负责华为云城市智能体的研发。此前齐国君博士任教于中佛罗里达大学计算机系，并担任机器感知和学习（MAPLE）实验室主任。其研究兴趣包括面向多源异构大数据的数据挖掘、智能信息处理等，并将所提出的方法应用于社交网络、医疗健康、金融系统等多个领域之中。齐博士在包括Preceedings of IEEE、TPAMI、TKDE、TIP、SIGKDD、ICML、NIPS、CVPR、MM、WWW、ICDE、ICDM等众多顶级期刊和会议发表超过一百余篇论文，并获得或指导学校获得ICDM2013最佳学生论文奖、ICDE2013最佳论文奖、MM2007最佳论文奖和MM2015最佳论文提名。齐博士即将担任或已担任了ACM Multimedia 2020和MMM2016大会程序委员会主席(PC Chair)，ICCV、SIGKDD、CIKM、AAAI、MM等多个顶级会议的领域主席或高级程序委员会委员，以及CVPR、NIPS等顶级会议的程序委员会委员。齐博士亦是IEEE Trans. CSVT的副编辑(AE)，和 IEEE Trans. Big Data、IEEE Trans. Multimedia等期刊的责任客座编辑。</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "order": 7,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2350,
+            "typeId": 4,
+            "name": "张俊林",
+            "avatar": "https://static.geekbang.org/ck/5b7e6ebad83a9.jpg",
+            "position": "AI Lab资深算法专家",
+            "company": "新浪微博",
+            "introduce": "<p>张俊林，中国中文信息学会理事，目前在新浪微博AI Lab担任资深算法专家。在此之前，张俊林曾经在阿里巴巴任资深技术专家，以及在百度和用友担任技术经理及技术总监等职务。他的研发兴趣集中在：深度学习、搜索技术、推荐系统、自然语言处理等方面，并在以上领域有多年学术界研究经历及工业界实践经验。同时他是技术书籍《这就是搜索引擎：核心技术详解》（该书荣获全国第十二届输出版优秀图书奖）、《大数据日知录：架构与算法》的作者。</p>\n\n<p>他本科毕业于天津大学管理学院，之后在中科院软件所直接攻读博士学位，研究方向是信息检索理论与自然语言处理，就学期间曾在ACL、COLING、IJCNLP等国际顶级会议发表多篇学术论文。另外，他在此期间领导设计的搜索系统曾在美国国防部DARPA主持的TREC高精度检索系统评测中取得综合排名第一名的优异成绩。</p>\n",
+            "order": 8,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2444,
+            "typeId": 4,
+            "name": "王育军",
+            "avatar": "https://static.geekbang.org/ck/5ba1f4c3a0cf3.png",
+            "position": "语音技术负责人",
+            "company": "小米",
+            "introduce": "<p>2000年毕业于清华大学自动化系，随后赴英国伯明翰大学电子系学习人机交互。2002至2004年就职于NEC电子，从事嵌入式语音识别与语音合成。随后加入中软国际从事声学模型训练技术。2007年到2012年在比利时鲁汶大学电子系从事抗噪语音识别。回国后加入百度语音技术部。2015年就职于乐视，负责语音识别与自然语言理解技术。2017年加入小米，负责语音识别与语音合成技术。</p>\n",
+            "order": 9,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2423,
+            "typeId": 4,
+            "name": "王浩",
+            "avatar": "https://static.geekbang.org/ck/5b99c2169e2ce.jpg",
+            "position": "人工智能实验室资深技术专家",
+            "company": "阿里巴巴",
+            "introduce": "<p>王浩，阿里巴巴人工智能实验室资深技术专家，之前任360搜索首席科学家，以及在中国科学院任岗位教授。博士毕业于日本东京大学，美国加州大学伯克利分校联合培养。当前致力于下一代智能交互搜索技术的创新与产品化落地，包括智能问答、对话系统、机器翻译、知识图谱、信息检索等相关业务的产品研发。学术研究兴趣主要聚焦在推荐系统与用户建模，问答和对话系统等，主持国家自然科学基金，北京市自然科学基金等项目，研究成果发表在国际顶级会议和期刊，如KDD、IJCAI、AAAI、ECCV、ACM MM、ICDE、WWW、ICDM、CIKM、TKDE、TPAMI、TIP、TAC、TIST等。</p>\n",
+            "order": 10,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2403,
+            "typeId": 4,
+            "name": "李晗",
+            "avatar": "https://static.geekbang.org/ck/5b8f7a35968ef.png",
+            "position": "高级技术专家",
+            "company": "阿里妈妈精准定向技术部",
+            "introduce": "<p>李晗，阿里妈妈精准定向技术部&amp;云营销业务中心，高级技术专家，现任展示广告平台策略机制团队负责人，牵头负责整个商品展示广告业务线，主导整个定向单品广告无线商业化进程，实现手淘核心消费者链路的商业接入和业务优化，实现消耗千万量级规模的增长。 以手淘首页猜你喜欢场景商业化为契机，构建核心机制和技术体系，协同推荐团队进行流量接入模式的探索和创新。从无到有构建整个广告平台机制策略算法体系。创新提出三方共赢的平台 OCPC 智能调价算法，率先推动强化学习技术赋能策略算法，围绕平台调控能力提升构建全链路参数学习。</p>\n\n<p>同时兼任展示广告matching算法团队负责人， 主导整体阿里妈妈展示广告matching技术的三代技术演进和升级，打造整体matching算法的体系化建设。破局性提出并落地基于树结构检索的深度匹配算法框架，定义索引结构+检索模式+模型能力联合端到端学习新范式。兼任云营销数据算法团队负责人，作为数据和算法技术负责人协同运营、产品、商务团队推动阿里全域营销战略落地。</p>\n\n<p><span style=\"font-size:14px\">内容剧透：<a href=\"https://mp.weixin.qq.com/s/P2E_lHyXUvtViHM0Q4yEeA\">《深度树匹配&mdash;&mdash;下一代推荐技术的探索和实践》</a></span></p>\n",
+            "order": 11,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2643,
+            "typeId": 4,
+            "name": "Andy Yao",
+            "avatar": "https://static.geekbang.org/ck/5c049de340d20.jpg",
+            "position": "语音语义产品总监",
+            "company": "华为云",
+            "introduce": "<p>Andy Yao毕业于上海交通大学和加州大学伯克利分校，曾任甲骨文亚太研发中心高级开发经理、Oracle美国总部产品总监，现就职于华为美国公司，负责华为云语音语义类服务的产品管理。在华为就职期间，他带领华为云语音语义产品团队，努力实践&ldquo;普惠AI&rdquo;的理念，致力于让每一家企业都能用AI技术迅速提高生产力。</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "order": 12,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2411,
+            "typeId": 4,
+            "name": "钟黎",
+            "avatar": "https://static.geekbang.org/ck/5b90f0ddd9bff.png",
+            "position": "知文技术负责人",
+            "company": "腾讯",
+            "introduce": "<p>钟黎，腾讯知文技术负责人，高级研究员，目前负责知文智能问答、智能搜索、知识图谱、内容理解等技术研发和产品落地。他拥有丰富的大规模机器学习应用经验，过往业界经历包括微软、PayPal、SoftBank AI Lab、IBM Research等，曾参与机器人NAO及Pepper原型研发、Watson智能会议助理等，主导了腾讯海量社交网络话题发现系统、大规模语义分析平台及通用智能问答平台的研发工作。</p>\n\n<p><span style=\"font-size:18px\"><a href=\"https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&amp;mid=2247493741&amp;idx=1&amp;sn=637faa63d26cdc7c4db7aac2fcd4d5e3&amp;chksm=fbea51a2cc9dd8b48ce1ba16adc30ab0a0a5147621440988ec8d78b386b96241a361bdba8f96&amp;scene=38#wechat_redirect\">内容剧透：《剖析腾讯知文，智能问答机器人路在何方?》</a></span></p>\n",
+            "order": 12,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2433,
+            "typeId": 4,
+            "name": "王涛",
+            "avatar": "https://static.geekbang.org/ck/5b9b506e7fb7a.png",
+            "position": "资深科学家",
+            "company": "爱奇艺",
+            "introduce": "<p>王涛博士，爱奇艺公司资深科学家，中国计算机学会（CCF）理事，杰出会员，计算机视觉专委会副主任，YOCSEF荣誉委员，全国信标委计算机视觉标准组副组长。2003年博士毕业于清华大学计算机系后，加入英特尔中国研究院，任高级研究员。2014年加入爱奇艺公司，主要从事多媒体智能分析，计算机视觉、模式识别、虚拟现实、数据挖掘、AI视频云等相关技术的研究，领导并参与了爱奇艺随视购、视频拆条、视频审核、以图搜剧、对白搜索、场景看点、音频水印、VR渲染直播等项目。在IJCV、CVPR、ACM MMSJ、ACM Multimedia等国际期刊和会议上发表论文六十余篇，申请三十多项专利，翻译《软件优化技术》著作一本。</p>\n",
+            "order": 13,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2593,
+            "typeId": 4,
+            "name": "张凌宇",
+            "avatar": "https://static.geekbang.org/ck/5be3e1f7426fe.png",
+            "position": "AI Labs专家算法工程师",
+            "company": "滴滴",
+            "introduce": "<p>张凌宇，2012 年加入百度，任搜索策略算法研发工程师。2013 年加入滴滴，历任：高级算法工程师、出租车策略算法方向技术负责人、策略模型部技术专家。现任滴滴AI Labs专家算法工程师，在滴滴工作期间利用机器学习和大数据技术设计并主导实现了多个公司级智能系统引擎，如基于组合优化的订单分配系统、基于密度聚类与全局优化的运力调度引擎、流量引导与个性化推荐引擎、&ldquo;猜您去哪&rdquo;个性化目的地推荐系统等。参与公司几十项国际、国内核心技术创新专利研发、申请，擅长利用数学建模、业务模型抽象、机器学习等解决实际业务问题。曾获得北京市发明创新专利金奖、QCon明星讲师等荣誉称号，研究成果被KDD、SIGIR、AAAI等人工智能、数据挖掘相关的国际顶级会议收录。</p>\n",
+            "order": 14,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2609,
+            "typeId": 4,
+            "name": "李春生",
+            "avatar": "https://static.geekbang.org/ck/5bed2424a06b7.jpg",
+            "position": "IT总部搜索研发中心技术总监",
+            "company": "苏宁易购",
+            "introduce": "<p>李春生，现任苏宁易购搜索技术总监，负责商品、情报与搜索技术线架构设计与核心技术规划等方面的工作，在搜索领域有多年的实战经验，从0到1构建苏宁易购搜索平台，在搜索领域上耕耘7年有余，精通搜索架构设计与性能优化，同时在机器学习、大数据等领域对搜索的场景化应用有丰富的经验。</p>\n",
+            "order": 15,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2642,
+            "typeId": 4,
+            "name": "魏磊",
+            "avatar": "https://static.geekbang.org/ck/5c03b3c515a87.jpg",
+            "position": "HiLens研发负责人",
+            "company": "华为云",
+            "introduce": "<p>魏磊博士，毕业于新加坡南洋理工大学，主要研究分布式计算、高性能计算、深度学习平台等，已在众多国际顶级期刊和会议发表若干学术论文，现就职于华为技术有限公司。目前，在华为云EI产品部担任HiLens服务研发负责人、技术专家。在华为就职期间，魏博士将研究成果应用于华为云人工智能计算平台，支撑了华为云OCR、智能视频分析、智能监控等AI服务的产品化。为帮助各个行业的企业客户快速实现智能化转型，魏博士带领团队成立了HiLens项目，旨在给行业应用中边缘和终端设备提供AI能力的开发、部署和维护平台，解决诸如用户数据上云成本高、计算延时大、隐私风险、AI应用开发上手困难、AI应用本地维护困难等问题。</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "order": 15,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2424,
+            "typeId": 4,
+            "name": "何亮亮",
+            "avatar": "https://static.geekbang.org/ck/5b99d8758daa3.jpg",
+            "position": "深度学习框架负责人",
+            "company": "小米",
+            "introduce": "<p>何亮亮，小米深度学习框架负责人，软件工程师，目前负责服务端与移动端深度学习框架，移动端异构计算优化等方面的研发工作。在分布式系统、存储与数据库、异构计算、深度学习、计算机视觉等领域有丰富的实践经验。</p>\n",
+            "order": 16,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2581,
+            "typeId": 4,
+            "name": "黄君实",
+            "avatar": "https://static.geekbang.org/ck/5bdc01215d77b.jpeg",
+            "position": "人工智能研究院资深研发科学家",
+            "company": "奇虎360",
+            "introduce": "<p>新加坡国立大学电子和计算机工程系博士，其主要研究领域包括图片中的物体检测与识别、视频内容分析与理解等，曾在国内外顶级期刊与会议上发表过多篇学术文章，同时担任若干国际期刊和会议的审稿人。目前任职于奇虎360，人工智能研究院担任资深研发科学家，负责360视频大脑平台中的多项关键解决方案。</p>\n",
+            "order": 17,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2532,
+            "typeId": 4,
+            "name": "张扬",
+            "avatar": "https://static.geekbang.org/ck/5bc69ef60fe7b.png",
+            "position": "知识图谱部算法团队负责人",
+            "company": "百度",
+            "introduce": "<p>张扬，历任百度数据挖掘与机器学习工程师，资深工程师及技术经理，现任知识图谱算法团队负责人，负责知识图谱构建及图谱认知核心算法的研发，多次主导了知识图谱与百度搜索、百度信息流、DuerOS、百度地图等业务的合作项目，在大规模知识图谱构建及应用方面具有丰富的实战经验。</p>\n",
+            "order": 18,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2441,
+            "typeId": 4,
+            "name": "李鑫",
+            "avatar": "https://static.geekbang.org/ck/5ba09a59bc3e5.png",
+            "position": "高级算法专家",
+            "company": "饿了么",
+            "introduce": "<p>李鑫，饿了么高级算法专家，目前负责饿了么智慧零售的算法研发，曾负责&ldquo;方舟&rdquo;智能调度系统的研发与计算机视觉负责人。加入饿了么之前，曾任滴滴研究院资深算法工程师，从事运筹学与计算机视觉相关工作。</p>\n",
+            "order": 19,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2568,
+            "typeId": 4,
+            "name": "茹强",
+            "avatar": "https://static.geekbang.org/ck/5bd6d2a9d8962.png",
+            "position": "资深技术专家",
+            "company": "美团点评",
+            "introduce": "<p>茹强，美团资深技术专家，硕士毕业于上海交通大学，曾任职百度凤巢资深工程师、腾讯视频高级研究员，有丰富的搜索、广告和推荐系统经验。现在美团外卖配送技术部负责ETA业务和机器学习核心算法开发。</p>\n",
+            "order": 20,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2561,
+            "typeId": 4,
+            "name": "杨燕",
+            "avatar": "https://static.geekbang.org/ck/5bcfe5287a244.jpg",
+            "position": "个性化推荐负责人",
+            "company": "瓜子二手车",
+            "introduce": "<p>杨燕博士毕业于北京大学，毕业之后即加入百度从事机器学习相关的工作，参与了网页搜索排序等多个重大项目的研发上线。2016年加入瓜子二手车直卖网，从0到1打造了瓜子的智能个性化推荐系统。个性化车源推荐，作为&ldquo;瓜子大脑&rdquo;平台智能算法的一部分，依托于平台的车源与用户基因图谱，融合用户的线上线下行为，让平台对消费者的服务更智能化。</p>\n",
+            "order": 21,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2569,
+            "typeId": 4,
+            "name": "李永会",
+            "avatar": "https://static.geekbang.org/ck/5bd6d519458bb.png",
+            "position": "多模搜索部资深工程师",
+            "company": "百度",
+            "introduce": "<p>百度大搜索客户端架构师，主要研究方向是嵌入式方向超算性能挑战，对于Andreno GPU和Mali GPU以及ARM CPU投入较多精力研究。目前负责图像搜索相关技术工作，主持移动端深度学习框架Paddle-Mobile的研发工作。重点关注嵌入式领域的硬件和体系结构相关研究。工作成果在百度APP和简单搜索APP多个大型线上APP应用。</p>\n",
+            "order": 22,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2605,
+            "typeId": 4,
+            "name": "张玉双",
+            "avatar": "https://static.geekbang.org/ck/5bece03151bd4.png",
+            "position": "人工智能与应用部计算机视觉组负责人",
+            "company": "顺丰科技",
+            "introduce": "<p>毕业于中科院自动化研究所，从事计算机视觉方向研发工作6年。现任顺丰科技人工智能部门计算机视觉组负责人，主要参与项目包括OCR手写运单识别、暴力分拣行为分析、Xray违禁品检测、交通信息识别与定位等。</p>\n",
+            "order": 23,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2426,
+            "typeId": 4,
+            "name": "孔东营",
+            "avatar": "https://static.geekbang.org/ck/5b9a253a684e4.jpg",
+            "position": "商业化模型方向负责人",
+            "company": "快手",
+            "introduce": "<p>孔东营，快手商业化模型方向负责人。2017年5月加入快手，搭建快手商业化模型训练和预测平台，支持信息流广告、粉条和快接单等业务。曾供职于网易有道，从事点击率预估相关工作。2015年加入美团，负责平台推荐算法。</p>\n",
+            "order": 24,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2375,
+            "typeId": 4,
+            "name": "孙付伟",
+            "avatar": "https://static.geekbang.org/ck/5b9882b3ccd00.jpg",
+            "position": "推荐技术团队负责人",
+            "company": "知乎",
+            "introduce": "<p>孙付伟，毕业于中国科学院软件研究所，现任知乎推荐技术团队负责人，为知乎很多业务提供推荐服务的技术和业务支持，比如支持社区各个推荐场景、知乎大学的推荐和搜索及其他多个新业务的接入等等。在加入知乎之前，在百度工作多年，一直从事于机器学习和搜索引擎策略的研发工作。</p>\n",
+            "order": 25,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2351,
+            "typeId": 3,
+            "name": "王兴星",
+            "avatar": "https://static.geekbang.org/ck/5b7e7b27c326b.png",
+            "position": "外卖商业技术负责人",
+            "company": "美团点评技术总监",
+            "introduce": "<p>美团点评技术总监，外卖商业技术负责人。2016年初加入公司，带领团队从0到1搭建外卖商业变现技术体系，支撑Feeds广告、推荐广告，Push广告、品牌广告及站外增长等多条核心产品线，带领团队多次获得事业群大奖。</p>\n\n<p>他曾在搜狗商业、百度凤巢等部门任职，是前搜狗 PC 联盟和无线联盟的算法整体负责人，所研发的大规模训练系统应用于搜狗联盟、DSP等多个商业产品线。多次获得公司最佳个人、技术部犀牛、MVP等奖项。</p>\n\n<p>他也是数据挖掘爱好者，曾带领团队获得百度电影推荐大赛全国第一名、RTB算法竞赛Online/Offline第一名等奖项。</p>\n\n<p>内容剧透：<a href=\"https://mp.weixin.qq.com/s/8IFKL0thCMBh40wUolbTVw\">《从XGB到LGB：美团外卖树模型的迭代之路》</a></p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2628,
+            "typeId": 3,
+            "name": "齐国君",
+            "avatar": "https://static.geekbang.org/ck/5bfcaa4ee8956.jpg",
+            "position": "技术副总裁&城市智能体首席科学家",
+            "company": "华为美国研究所",
+            "introduce": "<p>齐国君博士现就职于华为美国研究所，任技术副总裁（Technical VP）和城市智能体首席科学家，负责华为云城市智能体的研发。此前齐国君博士任教于中佛罗里达大学计算机系，并担任机器感知和学习（MAPLE）实验室主任。其研究兴趣包括面向多源异构大数据的数据挖掘、智能信息处理等，并将所提出的方法应用于社交网络、医疗健康、金融系统等多个领域之中。齐博士在包括Preceedings of IEEE、TPAMI、TKDE、TIP、SIGKDD、ICML、NIPS、CVPR、MM、WWW、ICDE、ICDM等众多顶级期刊和会议发表超过一百余篇论文，并获得或指导学校获得ICDM2013最佳学生论文奖、ICDE2013最佳论文奖、MM2007最佳论文奖和MM2015最佳论文提名。齐博士即将担任或已担任了ACM Multimedia 2020和MMM2016大会程序委员会主席(PC Chair)，ICCV、SIGKDD、CIKM、AAAI、MM等多个顶级会议的领域主席或高级程序委员会委员，以及CVPR、NIPS等顶级会议的程序委员会委员。齐博士亦是IEEE Trans. CSVT的副编辑(AE)，和 IEEE Trans. Big Data、IEEE Trans. Multimedia等期刊的责任客座编辑。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2646,
+            "typeId": 4,
+            "name": "雷涛",
+            "avatar": "https://static.geekbang.org/ck/5c0600baa2caa.jpg",
+            "position": "高级算法工程师",
+            "company": "汽车之家",
+            "introduce": "<p>雷涛，高级算法工程师，汽车之家智能聊天机器人算法负责人。博士毕业于北京邮电大学大学网络技术学院，主要从事智能聊天机器人相关技术研发，致力于机器学习、深度学习、NLP相关算法在智能聊天机器人领域的落地应用。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2651,
+            "typeId": 4,
+            "name": "陈松坚",
+            "avatar": "https://static.geekbang.org/ck/5c0781a4b2264.png",
+            "position": "数据平台部高级算法研究员",
+            "company": "腾讯",
+            "introduce": "<p>腾讯数据平台部高级算法研究员，8&nbsp;年&nbsp;NLP&nbsp;研发经验，2017&nbsp;年加入腾讯&nbsp;TEG&nbsp;数据平台部，负责智能客服产品腾讯小知的算法规划和落地。加入腾讯之前曾在Yahoo北京研究院从事广告和推荐算法优化和在某跨境电商创业团队担任算法负责人。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2652,
+            "typeId": 4,
+            "name": "乌明捷",
+            "avatar": "https://static.geekbang.org/ck/5c07841aab5b7.png",
+            "position": "中国区总经理",
+            "company": "TigerGraph",
+            "introduce": "<p>乌明捷，毕业于上海交通大学计算机专业。从事企业级软件领域销售及市场管理工作近20年，在企业数据治理、应用及数字化转型方面具有丰富的经验，对大数据时代的行业发展拥有独到的见解。在加入TigerGraph之前，是Tableau软件公司中国公司创始员工之一。曾担任中国惠普、赛门铁克、甲骨文（软件）等企业客户部门业务负责人。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2653,
+            "typeId": 4,
+            "name": "徐安华",
+            "avatar": "https://static.geekbang.org/ck/5c0783fcf2d40.png",
+            "position": "技术中心技术合伙人",
+            "company": "明略数据",
+            "introduce": "<p>徐安华，2004年~2011年就读于北京大学计算机系以及微处理器研发中心。毕业后任职于英特尔、爱奇艺等公司。Linux内核中显卡虚拟化调度器作者。具有十余项专利。2014年加入明略数据，历任大数据引擎开发工程师、技术经理；自然语言部门研发经理；目前为标注工具部门负责人。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        },
+        {
+            "id": 2559,
+            "typeId": 3,
+            "name": "陈利鑫",
+            "avatar": "https://static.geekbang.org/ck/5bcee811d2c01.png",
+            "position": "AI前线公众号高级技术编辑",
+            "company": "InfoQ",
+            "introduce": "<p>陈利鑫，InfoQ AI前线公众号高级技术编辑，专注于人工智能领域最新技术分析和报道，发掘前沿AI技术趋势。</p>\n",
+            "order": 65535,
+            "outstanding-speakers": false,
+            "jump-links": ""
+        }
+    ],
+    "topics": [
+        {
+            "id": 465,
+            "topic": "机器学习应用和实践",
+            "producerIds": [
+                2351
+            ],
+            "order": 0,
+            "typeid": "0",
+            "introduce": "本专题将聚焦于机器学习在工业界的落地实践，包含：面对各种问题如何进行技术选型？如何进行持续迭代优化? 针对业务的特点如何做针对性的改进? 实践过程中需要规避哪些坑?",
+            "description": "<p>当业务发展到一定阶段，会通过技术手段去优化核心体验、指标，机器学习通常会在其中扮演重要的角色。近些年来随着互联网的不断发展，机器学习技术也有了长足的进步，我们看到了机器学习在各个领域遍地开花。</p>\n\n<p>本专题将聚焦于机器学习在工业界的落地实践，包含：面对各种问题如何进行技术选型？如何进行持续迭代优化? 针对业务的特点如何做针对性的改进? 实践过程中需要规避哪些坑?</p>\n",
+            "address": "二层 2号会议厅A",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1374,
+                1360,
+                1341,
+                1333,
+                1259,
+                1373,
+                957
+            ],
+            "time": "2018-12-21T16:25:00+08:00"
+        },
+        {
+            "id": 466,
+            "topic": "计算机视觉",
+            "producerIds": [
+                0
+            ],
+            "order": 1,
+            "typeid": "0",
+            "introduce": "2018年，计算机视觉依然会是人工智能的热点方向，包括人脸识别、图像识别、物体检测等技术，本专场将探讨计算机视觉在相关行业的最新应用和实践。",
+            "description": "<p>2018年，计算机视觉依然会是人工智能的热点方向，包括人脸识别、图像识别、物体检测等技术，除了安防和交通领域，视觉技术在工业、农业、医疗、环保等行业的应用将会逐步为更多人所知晓和认可，本专场将探讨计算机视觉在相关行业的最新应用和实践。</p>\n",
+            "address": "二层 2号会议厅C",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                964,
+                1368,
+                1350
+            ],
+            "time": "2018-12-21T09:30:00+08:00"
+        },
+        {
+            "id": 467,
+            "topic": "NLP和语音技术",
+            "producerIds": [
+                2559
+            ],
+            "order": 2,
+            "typeid": "0",
+            "introduce": "NLP与语音技术已经从独立技术走向融合协作，本专场将分享来自一线智能语音产品缔造者的经验，探讨NLP与语音交互技术融合的趋势和落地案例。",
+            "description": "<p>NLP与语音技术已经从独立技术走向融合协作，本专场将分享来自一线智能语音产品缔造者的经验，探讨NLP与语音交互技术融合的趋势和落地案例。</p>\n",
+            "address": "二层 2号会议厅C",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                892,
+                942,
+                1304,
+                1226,
+                1396
+            ],
+            "time": "2018-12-21T13:30:00+08:00"
+        },
+        {
+            "id": 468,
+            "topic": "搜索推荐与算法",
+            "producerIds": [
+                2341
+            ],
+            "order": 3,
+            "typeid": "0",
+            "introduce": "本专题将邀请相关业内专家，分享工业界中如何将机器学习或深度学习技术正确应用在各种形态的搜索推荐场景中，包括业务痛点是什么，如何正确地进行技术选型，实施时遇到怎样的困难以及如何快速解决这些问题等宝贵实践经验。",
+            "description": "<p>搜索引擎与推荐系统是人工智能最早进行算法产业化的两个重要方向，目前在我们日常生活中发挥越来越重要的作用。本专题将邀请相关业内专家，分享工业界中如何将机器学习或深度学习技术正确应用在各种形态的搜索推荐场景中，包括业务痛点是什么，如何正确地进行技术选型，实施时遇到怎样的困难以及如何快速解决这些问题等宝贵实践经验。</p>\n",
+            "address": "二层 2号会议厅B",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                955,
+                1371,
+                905,
+                888,
+                932,
+                1305,
+                1334
+            ],
+            "time": "2018-12-21T13:30:00+08:00"
+        },
+        {
+            "id": 469,
+            "topic": "AI工具与框架",
+            "producerIds": [
+                2336
+            ],
+            "order": 4,
+            "typeid": "0",
+            "introduce": "本专场将探讨AI工具和框架选型，以及AI平台搭建，企业如何基于已有大数据基础设施引入人工智能平台，有哪些难点，需要注意哪些事情等，如何将人工智能/机器学习整合进公司业务中，如何构建一个专门的人工智能团队？",
+            "description": "<p>本专场将探讨AI工具和框架选型，以及AI平台搭建，企业如何基于已有大数据基础设施引入人工智能平台，有哪些难点，需要注意哪些事情等，如何将人工智能/机器学习整合进公司业务中，如何构建一个专门的人工智能团队，并为团队成员配备必要的知识和技能，以便让他们能够正确应用 AI 技术。</p>\n",
+            "address": "二层 203",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                956,
+                1342,
+                1375
+            ],
+            "time": "2018-12-21T09:30:00+08:00"
+        },
+        {
+            "id": 470,
+            "topic": "数据智能驱动业务",
+            "producerIds": [
+                0
+            ],
+            "order": 5,
+            "typeid": "0",
+            "introduce": "本专场将结合场景，介绍一些大型使用者的实际落地案例和场景化的细节分析，希望可以启发大家思考如何将AI&大数据整合进业务中，了解AI能为业务具体带来什么收益。",
+            "description": "<p>AI和大数据如何用于智能金融、教育、城市大脑等，本专场将结合场景，介绍一些大型使用者的实际落地案例和场景化的细节分析，希望可以启发大家思考如何将AI&amp;大数据整合进业务中，了解AI能为业务具体带来什么收益。<br />\n&nbsp;</p>\n",
+            "address": "二层 203",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1265,
+                1224,
+                850,
+                1336
+            ],
+            "time": "2018-12-21T15:30:00+08:00"
+        },
+        {
+            "id": 472,
+            "topic": "主会场",
+            "producerIds": [
+                0
+            ],
+            "order": 6,
+            "typeid": "0",
+            "introduce": "本专场将邀请国内外顶尖人工智能技术专家给大家分享AI在金融、芯片、自动驾驶等领域的最新技术探索，相关技术趋势如机器学习、计算机视觉等如何发展，有哪些值得我们深入思考和借鉴的？",
+            "description": "<p>本专场将邀请国内外顶尖人工智能技术专家给大家分享AI在金融、芯片、自动驾驶等领域的最新技术探索，相关技术趋势如机器学习、计算机视觉等如何发展，有哪些值得我们深入思考和借鉴的？</p>\n",
+            "address": "二层 2号会议厅",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1318,
+                911,
+                893,
+                1234,
+                916,
+                1253,
+                1233,
+                931
+            ],
+            "time": "2018-12-20T10:25:00+08:00"
+        },
+        {
+            "id": 517,
+            "topic": "华为云AI技术应用和实践专场（厂商赞助）",
+            "producerIds": [
+                2628
+            ],
+            "order": 65535,
+            "typeid": "0",
+            "introduce": "AI技术如今已经成为IT行业的新宠，与各行各业的结合也成为AI落地进程中的主流方向，智慧城市的最新发展和现状是怎样的？如何更好的实现云上强大AI能力的价值落地？NLP和对话机器人有哪些典型落地场景和未来趋势？",
+            "description": "<p>AI技术如今已经成为IT行业的新宠，与各行各业的结合也成为AI落地进程中的主流方向，智慧城市的最新发展和现状是怎样的？如何更好的实现云上强大AI能力的价值落地？NLP和对话机器人有哪些典型落地场景和未来趋势？</p>\n\n<p>12月21日上午，AICon大会现场请到了来自华为云的3位技术大咖，将围绕智慧城市、NLP和对话机器人、<strong>端云协同AI平台</strong>Hilens介绍和demo演示等分享相关技术干货，现场更有荣耀10手机等神秘大奖等你来拿，限额免费火热报名中，感兴趣的童鞋欢迎现场面基：<a href=\"https://jinshuju.net/f/1HB1cZ?x_field_1=edmdahui\" rel=\"nofollow\">https://jinshuju.net/f/1HB1cZ?x_field_1=edmdahui</a></p>\n",
+            "address": "二层 201",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1395,
+                1384,
+                1393
+            ],
+            "time": "2018-12-21T10:30:00+08:00"
+        },
+        {
+            "id": 521,
+            "topic": "人工智能与机器学习解决方案专场（厂商赞助）",
+            "producerIds": [
+                0
+            ],
+            "order": 65535,
+            "typeid": "2",
+            "introduce": "本次AI与ML解决方案专场，将从智能问答算法原理、图数据库引擎、高效文本标注工具的实现等维度进行研讨与展示，与大家聊聊AI新探索与新应用。",
+            "description": "<p>人工智能领域目前陷入了概率关联的瓶颈之中。如今，新闻吹嘘着机器学习和神经网络的最新突破，人们读到的文章也是关于电脑掌握围棋和学会驾驶汽车的。但现阶段的人工智能是否在前一代成果的基础上实现突围，倒是未必。尤其是面对新兴应用的兴起，趋势、原理、实践是什么，是AI开发者面对的挑战之一。</p>\n\n<p>本次AI与ML解决方案专场，将从智能问答算法原理、图数据库引擎、高效文本标注工具的实现等维度进行研讨与展示，与大家聊聊AI新探索与新应用。</p>\n",
+            "address": "二层 201",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1399,
+                1400,
+                1401
+            ],
+            "time": "2018-12-20T09:30:00+08:00"
+        },
+        {
+            "id": 476,
+            "topic": "深度培训",
+            "producerIds": [
+                0
+            ],
+            "order": 65535,
+            "typeid": "3",
+            "introduce": "两天的干货分享不够，还想深入系统地学习相关AI技术？AICon特设为期2天的会后深度培训，邀请业内资深专家围绕知识图谱、机器学习、深度学习等热门AI技术，结合实践案例，展开从入门到实践的落地分享，助力企业更好地实现人工智能落地，显著提升业务价值。",
+            "description": "<p>两天的干货分享不够，还想深入系统地学习相关AI技术？AICon特设为期2天的会后深度培训，邀请业内资深专家围绕知识图谱、机器学习、深度学习等热门AI技术，结合实践案例，展开从入门到实践的落地分享，助力企业更好地实现人工智能落地，显著提升业务价值。</p>\n",
+            "address": "五洲大酒店 二层荔江厅",
+            "share_topic_desp": "",
+            "icon": "",
+            "lectureIds": [
+                1308,
+                1315
+            ],
+            "time": "2018-12-22T09:00:00+08:00"
+        }
+    ],
+    "lectures": [
+        {
+            "id": 1308,
+            "title": "机器学习之分类",
+            "introduce": "<p>本课程针对机器学习中的分类问题，首先介绍解决分类问题的理论基础，包括贝叶期决策理论、统计学习理论。再介绍一些经典的分类模型，如决策树、逻辑回归、支撑向量机等。然后讲解基于神经网络，尤其深度神经网络的分类模型。最后以文字识别做为典型应用案例，从经典机器学习和深度神经网络两个角度，分别讲解从图像特征到分类模型的完整流程，并提供数据和代码进行现场实际操作。</p>\n\n<p>1.&nbsp;前言</p>\n\n<p>&nbsp; &nbsp; 1.1 什么是机器学习，有哪些主要方向</p>\n\n<p>&nbsp; &nbsp; 1.2 机器学习的分类问题</p>\n\n<p>2. 机器学习分类问题</p>\n\n<p>&nbsp; &nbsp; 2.1 贝叶斯分类</p>\n\n<p>&nbsp; &nbsp; 2.2 统计学习理论</p>\n\n<p>&nbsp; &nbsp; 2.3 线性分类器</p>\n\n<p>&nbsp; &nbsp; 2.4 决策树</p>\n\n<p>&nbsp; &nbsp; 2.5 支持向量机</p>\n\n<p>&nbsp; &nbsp; 2.6 集成学习</p>\n\n<p>3. 基于深度学习的分类问题</p>\n\n<p>&nbsp; &nbsp; 3.1 深度神经网络基础</p>\n\n<p>&nbsp; &nbsp; 3.2 常见分类模型</p>\n\n<p>4. 典型应用案例&mdash;&mdash;文字识别</p>\n\n<p>&nbsp; &nbsp; 4.1 文字识别的经典机器学习方法</p>\n\n<p>&nbsp; &nbsp; 4.2 文字识别的深度神经网络方法</p>\n\n<p>5. 实际操作</p>\n\n<p>&nbsp; &nbsp; 5.1 中文字符识别</p>\n\n<p>6. 总结和讨论</p>\n\n<p>&nbsp;</p>\n\n<p>听众受益</p>\n\n<p>1. 了解经典机器学习实现分类问题的数学本质</p>\n\n<p>2. 了解分类问题的常见经典模型</p>\n\n<p>3. 了解神经网络解决分类问题的数学本质，以及与经典机器学习的关系</p>\n\n<p>4. 了解深度神经网络的分类模型</p>\n\n<p>5. 掌握文字识别的经典机器学习方法和深度神经网络方法，并可以迁移到其它图像分类领域</p>\n\n<p>&nbsp;</p>\n\n<p>目标听众</p>\n\n<p>1. 人工智能领域的相关技术人员</p>\n\n<p>2. 对在工程中如何使用机器学习/深度学习技术解决应用问题有兴趣的所有人</p>\n",
+            "beginTime": "2018-12-22T09:00:00+08:00",
+            "endTime": "2018-12-22T16:30:00+08:00",
+            "address": "北京·国际会议中心",
+            "topicId": 476,
+            "timetableId": "211",
+            "speakerIds": [
+                2535
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "1",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "本课程针对机器学习中的分类问题，首先介绍解决分类问题的理论基础，再介绍一些经典的分类模型，如决策树、逻辑回归、支撑向量机等。然后讲解基于神经网络，尤其深度神经网络的分类模型。最后以文字识别做为典型应用案例，从经典机器学习和深度神经网络两个角度，分别讲解从图像特征到分类模型的完整流程，并提供数据和代码进行现场实际操作。",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1315
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1315,
+            "title": "知识图谱深度培训",
+            "introduce": "<p>深度学习和知识图谱是近年来人工智能技术蓬勃发展的两大核心驱动力，并且两者呈现出进一步融合的趋势。目前，全球的互联网公司都在积极布局知识图谱，Google Knowledge Graph掀起全球知识图谱热潮，Facebook依赖社交知识图谱提供独特的用户体验，阿里也在今年4月提出了&quot;藏经阁&quot;知识图谱计划。作为全球领先的生活服务电商平台，美团点评拥有围绕吃喝玩乐全场景的丰富数据，通过使用深度学习技术以及自然语言处理技术，对这些跨场景数据进行充分挖掘、映射、聚合与关联，美团NLP中心构建了餐饮娱乐知识图谱&mdash;&mdash;&ldquo;美团大脑&rdquo;，来促进每个场景下应用服务的智能升级。首个版本的美团大脑已经拥有超过百亿量级的知识关联，未来预期这一规模会达到数千亿级别，对于数据存储/同步、知识推理、实时计算、算法建模提出了巨大挑战。因此，我们同时正在研发超大规模分布式图数据处理引擎，用来存储和服务美团大脑系统。</p>\n\n<p>在这个报告中，我们将介绍知识图谱基础知识及行业现状，&quot;美团大脑&quot;的构建方法，以及目前在搜索推荐、金融平台、赋能商家等方面的一些初步进展与落地场景。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 人工智能及知识图谱介绍</p>\n\n<p>（1）人工智能近年发展现状</p>\n\n<p>（2）深度学习介绍</p>\n\n<p>（3）知识图谱介绍</p>\n\n<p>（4）知识图谱分类及发展情况</p>\n\n<p>2. 常识性知识图谱MicrosoftConcept Graph介绍</p>\n\n<p>（1）常识性知识图谱构建方法</p>\n\n<p>（2）文本理解与概念化模型</p>\n\n<p>（3）应用场景</p>\n\n<p>3. 百科全书式知识图谱&ldquo;美团大脑&rdquo;介绍</p>\n\n<p>（1）百科全书式知识图谱行业情况</p>\n\n<p>（2）美团大脑的框架</p>\n\n<p>（3）美团大脑展示</p>\n\n<p>4. 美团大脑的算法能力</p>\n\n<p>（1）知识构建能力</p>\n\n<p>（2）知识表示能力</p>\n\n<p>（3）情感计算能力</p>\n\n<p>（4）文本理解能力</p>\n\n<p>（5）可解释能力</p>\n\n<p>5. 美团大脑的引擎能力</p>\n\n<p>（1）图引擎原理详解<br />\n（2）开源图引擎分析<br />\n（3）美团图引擎架构详解</p>\n\n<p>6. 美团大脑在美团点评的应用场景</p>\n\n<p>（1）智能搜索推荐</p>\n\n<p>（2）智能化商家运营</p>\n\n<p>（3）金融信用和风险管理</p>\n\n<p>7. 总结和讨论&nbsp;</p>\n\n<p>8. 参考文献以及进阶学习资料</p>\n\n<p>&nbsp;</p>\n\n<p>听众受益：</p>\n\n<p>1. 学术界和工业届主流知识图谱的介绍和现状</p>\n\n<p>2. 常识性知识图谱（如Probase）的建模方法</p>\n\n<p>3. 百科全书式知识图谱的建模方法</p>\n\n<p>4. 美团大脑在美团点评内的具体应用场景</p>\n\n<p>5. 了解各种学习资料</p>\n\n<p>&nbsp;</p>\n\n<p>目标听众：</p>\n\n<p>1. 人工智能领域的相关技术人员</p>\n\n<p>2. 对知识图谱的实际应用感兴趣的同学</p>\n\n<p>3. 对知识图谱/NLP/深度学习有兴趣的技术人员</p>\n",
+            "beginTime": "2018-12-23T09:00:00+08:00",
+            "endTime": "2018-12-23T16:30:00+08:00",
+            "address": "北京·国际会议中心",
+            "topicId": 476,
+            "timetableId": "212",
+            "speakerIds": [
+                2544,
+                2543,
+                2546
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "2",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "深度学习和知识图谱是近年来人工智能技术蓬勃发展的两大核心驱动力，并且两者呈现出进一步融合的趋势。在这个报告中，我们将介绍知识图谱基础知识及行业现状，\"美团大脑\"的构建方法，以及目前在搜索推荐、金融平台、赋能商家等方面的一些初步进展与落地场景。\n\n",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1308
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1318,
+            "title": "大会开场",
+            "introduce": "",
+            "beginTime": "2018-12-20T09:00:00+08:00",
+            "endTime": "2018-12-20T09:30:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "214",
+            "speakerIds": [
+                0
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                911,
+                893,
+                1234,
+                916,
+                1253,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1399,
+            "title": "智能问答算法原理及实践之路",
+            "introduce": "<p>&nbsp;智能问答是近年来NLP应用的热门方向，本次分享主要从问答技术的原理出发，介绍不同应用场景下的各种形态的问答机器人的实现原理，如基于检索和语义匹配技术的单轮问答机器人，基于对话管理的任务型机器人，基于阅读理解技术的阅读理解机器人等。另外，也会分享腾讯小知团队在将以上技术转化落地的实践路径和经验。</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益: &nbsp;&nbsp;</p>\n\n<p>1. 了解智能问答相关的各种算法原理</p>\n\n<p>2. 了解工业级To B问答产品的系统架构和实战经验</p>\n",
+            "beginTime": "2018-12-20T09:30:00+08:00",
+            "endTime": "2018-12-20T10:15:00+08:00",
+            "address": "",
+            "topicId": 521,
+            "timetableId": "197",
+            "speakerIds": [
+                2651
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1400,
+                1401
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 911,
+            "title": "人工智能在文本、视频、语音、音乐等领域的最新发展和应用",
+            "introduce": "<p>字节跳动公司的使命是建立新一代全球信息平台，从内容创作、分发、互动和交流的每一个环节，用人工智能技术赋能，提升用户体验，促进人类信息与知识交流的效率与深度。例如，通过计算机视觉、自然语言理解和生成技术开发的自动写稿机器人，能够自动理解体育视频并产生新闻播报。通过人工智能辅助内容审核，能够处理每天海量用户生成的各种内容。通过计算机视觉技术在手机端的应用，包括人脸检测和关键点定位、通用物体检测和识别，图像分类、分割、智能化美颜美妆、人体姿态估计、手势识别、手指关节点定位、SLAM等，抖音赋能每个人都能创作出高质量和内容丰富的短视频。在音频内容创作方面，基于深度学习的语音合成系统，应用到新闻播报和小说听书。同时，我们还在积极探索个性化合成技术，包括模拟不同发音人的音色与风格等。音乐是具有高商业价值的内容形式，同时也是构成其它内容的重要元素，因此音乐生成也是我们探索的研究方向。</p>\n\n<p>在这个演讲中，我将会介绍人工智能在文本、视频、语音、音乐的自动理解和生成技术的最新发展，以及在内容创作和交流上的许多新的应用。</p>\n\n<p>听众受益：</p>\n\n<p>1. 了解人工智能前沿技术趋势</p>\n\n<p>2. 了解人工智能在计算机视觉、NLP、深度学习等领域的最新技术应用</p>\n",
+            "beginTime": "2018-12-20T09:30:00+08:00",
+            "endTime": "2018-12-20T10:15:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "197",
+            "speakerIds": [
+                2382
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                893,
+                1234,
+                916,
+                1253,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1400,
+            "title": "图数据库引擎助力AI下一个变革",
+            "introduce": "<p>目前人工智能高速发展，应用场景层出不穷。但是技术的发展离不开数据的收集和整理，数据建模的重要性对人工智能越来越重要。</p>\n\n<p>2018年图数据库的兴起已成为共识。作为用点和边存储数据的模式，图数据库对于真实世界有着天然的支持关系，更带来了对于数据深度关联的洞察能力。</p>\n\n<p>本演讲将通过对相关技术的介绍及案例的分享，帮助听众了解图数据库业界前沿的趋势，对于将图数据库应用带到人工智能有更深入的认识。</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益:</p>\n\n<p>1. 了解图数据库的发展</p>\n\n<p>2. 了解AI现阶段面临数据挑战</p>\n\n<p>3. 了解图数据库带来数据深度链接分析能力</p>\n\n<p>4. 相关案例的了解与认知</p>\n",
+            "beginTime": "2018-12-20T10:25:00+08:00",
+            "endTime": "2018-12-20T11:10:00+08:00",
+            "address": "",
+            "topicId": 521,
+            "timetableId": "198",
+            "speakerIds": [
+                2652
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1399,
+                1401
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 893,
+            "title": "人工智能在金融领域的应用和进展",
+            "introduce": "<p>人工智能是提升金融服务效率、降低金融服务成本、实现普惠金融的关键要素。从智能获客到量化运营，从身份核验到人脸支付，从反欺诈到风险控制，人工智能正在广泛而深刻地影响着金融领域。京东金融以创造长期的行业价值和社会价值为核心价值观，推动深度学习、计算机视觉、自然语言处理、语音识别、巡检机器人等技术在金融领域的深度应用&nbsp;，不断提高成本效率和用户体验。</p>\n\n<p>在本次演讲中，我将会介绍人工智能在金融领域的发展现状，三维计算机视觉、售前导购对话机器人、递归神经网络及其在金融领域的应用，和人工智能在金融领域面临的挑战和机遇。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<ol>\n\t<li>人工智能在金融领域的发展现状</li>\n\t<li>前沿趋势I：三维计算机视觉及其应用实例</li>\n\t<li>前沿趋势II：售前导购对话机器人及其应用实例</li>\n\t<li>前沿趋势III：递归神经网络及其应用实例</li>\n\t<li>人工智能在金融领域的挑战和机遇</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p>听众收益点：</p>\n\n<ol>\n\t<li>了解人工智能在金融领域的发展现状</li>\n\t<li>了解三维计算机视觉、售前导购对话机器和递归神经网络</li>\n\t<li>了解人工智能在金融领域的多个最新应用实例</li>\n\t<li>了解人工智能在金融领域的挑战和机遇</li>\n</ol>\n",
+            "beginTime": "2018-12-20T10:25:00+08:00",
+            "endTime": "2018-12-20T11:10:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "198",
+            "speakerIds": [
+                2359
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                1234,
+                916,
+                1253,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1401,
+            "title": "新一代高效文本标注工具实现与应用",
+            "introduce": "<p>特定领域文本信息挖掘与提取，一直都存在语料少、需要重新标注等困难。这些因素严重阻碍了文本信息抽取在特定领域的应用。虽然开源领域存在一些工具，但无论在易用性还是效率、理念方面都远远无法与&ldquo;高效&rdquo;二字挂钩。</p>\n\n<p>明略数据通过在特定领域长期从事文本信息抽取等积累，研发了业界首款集词典、规则、主动学习、在线学习等技术于一身的高效文本标注工具：Raptor。该工具中内置了明略数据自研的规则语言Ratel，能够将词典、正则表达式、外部NLP工具的标注结果很好的融合在一起。主动学习与在线学习能够随着用户的标注过程不断提供辅助标注，并且系统只会把机器最不确信的数据推送给用户进行标注。目前，Raptor正帮助明略数据在企业级服务中迅速构建文本挖掘模型。</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益:</p>\n\n<p>1. 了解文本标注语言</p>\n\n<p>2. 进一步了解深度学习和主动学习机制</p>\n",
+            "beginTime": "2018-12-20T11:20:00+08:00",
+            "endTime": "2018-12-20T12:05:00+08:00",
+            "address": "",
+            "topicId": 521,
+            "timetableId": "199",
+            "speakerIds": [
+                2653
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1399,
+                1400
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1234,
+            "title": "平安城市视觉分析的十大挑战",
+            "introduce": "<p>平安城市是智慧城市中的关键一环，而视觉分析则对平安城市建设具有重大作用。视觉分析广泛作用于平安城市中的灾害预警、犯罪预防及辅助侦查、异常事件检测等。视觉分析虽然在平安城市中应用前景广阔，然而也面临着诸多挑战和困难。</p>\n\n<p>在本次演讲中，我将重点介绍平安城市的应用前景和市场现状、视觉分析在平安城市中的技术概览和面临的十大挑战。同时，我将针对这十大挑战逐条介绍其面临的问题和目前尝试解决对应问题的主流技术方案。在本次演讲的最后，我也将对平安城市中视觉分析任务的发展进行总结和展望。</p>\n\n<p>演讲提纲：</p>\n\n<ol>\n\t<li>平安城市的背景介绍</li>\n\t<li>平安城市的应用前景和市场现状</li>\n\t<li>平安城市视觉分析技术概览</li>\n\t<li>平安城市视觉分析十大挑战和对应的主流解决方案</li>\n\t<li>平安城市视觉分析任务的总结和展望</li>\n</ol>\n\n<p>听众受益点：</p>\n\n<ol>\n\t<li>了解平安城市应用前景和市场现状</li>\n\t<li>了解平安城市视觉分析面临的十大挑战</li>\n\t<li>了解平安城市视觉分析未来的发展方向</li>\n</ol>\n",
+            "beginTime": "2018-12-20T11:20:00+08:00",
+            "endTime": "2018-12-20T12:05:00+08:00",
+            "address": "二层 2号会议厅",
+            "topicId": 472,
+            "timetableId": "199",
+            "speakerIds": [
+                2450
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": false,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                893,
+                916,
+                1253,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 916,
+            "title": "不确定和对抗环境下的机器学习探讨",
+            "introduce": "<p>When we apply machine learning in real applications, we need to address some important challenges. First, the world is an uncertain place because of physical randomness, incomplete knowledge, noise, ambiguities, and contradictions. It is critical to model uncertainty and draw inference for intelligent systems. Second, ML algorithms (e.g., deep networks) can be vulnerable to some adversarial noise. This is of high risk in high-stakes and security-critical applications. In this talk, I will present some advances in probabilistic machine learning (particularly a ZhuSuan probabilistic programming library and some scalable algorithms) and adversarial attack and defense for deep networks. Some application cases in semi-supervised learning, few-shot learning and crowdsourcing will be highlighted. For adversarial attack and defense, our methods won the first places in all three tasks in NIPS 2017 competition organized by Google Brain.&nbsp;</p>\n\n<p>机器学习在解决实际应用问题时需要解决一些重要挑战。首先，由于物理随机性、不完全信息、噪声、歧义、冲突等因素，我们要处理的对象普遍存在不确定性。因此，智能系统需要对不确定性进行有效的建模和推理。其次，在对抗噪声的情况下，很多机器学习算法（如深度神经网络）往往比较脆弱，容易被误导，这给高风险、安全敏感的应用带来了很多潜在威胁。在这个报告中，我将介绍概率机器学习的一些进展（特别是珠算概率编程库和一些可扩展的推理算法）以及深度神经网络的对抗攻击与防御，并且介绍一些典型的应用案例，包括半监督学习、小样本学习、众包学习。在对抗攻击与防御方面，我们的部分工作获得谷歌大脑在NIPS 2017组织的国际比赛的所有三个任务的冠军。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 概率机器学习介绍</p>\n\n<p>2. 珠算概率机器学习编程框架</p>\n\n<p>3. 概率机器学习应用案例</p>\n\n<p>4. 深度神经网络的对抗攻击与防御</p>\n\n<p>听众受益点：</p>\n\n<p>1. 了解概率机器学习的概念和方法</p>\n\n<p>2. 了解概率机器学习的应用实例和编程库</p>\n\n<p>3. 了解深度学习对抗攻击与防御的方法和经验</p>\n",
+            "beginTime": "2018-12-20T13:30:00+08:00",
+            "endTime": "2018-12-20T14:15:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "200",
+            "speakerIds": [
+                2388
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                893,
+                1234,
+                1253,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1253,
+            "title": "从研究到落地：大规模AI/CV落地应用的趋势和挑战",
+            "introduce": "<p>本次讲座将从一个比较大的维度简要介绍下AI应用的核心要素，大致的产业链格局，AI+的具体落地案例以及技术和产业的一些发展趋势。同时从技术出发，结合Amazon Rekognition云视觉平台的具体案例，分享一些计算机视觉从研究到落地可能遇到的挑战以及应对经验。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. AI核心要素和产业链格局</p>\n\n<p>2. 常用AI+的具体落地案例，重点介绍视觉识别</p>\n\n<p>3. Amazon Rekognition平台和案例介绍</p>\n\n<p>4. 视觉识别领域研究和工业应用异同</p>\n\n<p>5. 如何搭建大规模视觉识别训练和测试系统</p>\n\n<p>6. 大规模算法部署实例</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解AI行业的核心要素和大致格局</p>\n\n<p>2. 了解大规模视觉识别应用中研发到模型部署的过程和挑战</p>\n\n<p>3. 大规模视觉识别模型部署的实例</p>\n",
+            "beginTime": "2018-12-20T14:25:00+08:00",
+            "endTime": "2018-12-20T15:10:00+08:00",
+            "address": "二层 2号会议厅",
+            "topicId": 472,
+            "timetableId": "201",
+            "speakerIds": [
+                2606
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": false,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                893,
+                1234,
+                916,
+                1233,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1233,
+            "title": "人工智能芯片技术发展与应用",
+            "introduce": "<p>人工智能正在划时代的改变着经济结构和行业生态，用科技创新推动社会变革。人工智能的蓬勃发展得益于计算力、算法、数据三大核心要素的升级优化，作为物理硬件基础，计算力已成为人工智能价值释放的动力引擎，决定着人工智能发展的进程。</p>\n\n<p>智能芯片是人工智能计算平台的核心，是计算力的最主要承载者，智能芯片的发展决定着人工智能运算能力的上限，对人工智能产业发展具有关键的引领性作用。寒武纪作为全球智能芯片领域的先行者，一直专注于用人工智能芯片技术的突破与创新，驱动计算力这一人工智能价值释放的引擎。</p>\n\n<p>在本次演讲中，我将会为听众分享AI计算硬件的发展与前沿趋势、人工智能芯片技术的最新技术进展、寒武纪最先提出的端云一体智能处理思路以及人工智能芯片在计算机视觉、语音识别、自然语言处理、AIoT等领域的应用。</p>\n\n<p><strong>演讲提纲：</strong></p>\n\n<p>1. 人工智能技术发展历程与核心要素</p>\n\n<p>2. AI计算硬件发展与前沿趋势</p>\n\n<p>3. 深度学习专用处理器技术介绍</p>\n\n<p>4. 人工智能芯片应用领域及应用实例</p>\n\n<p><strong>听众受益点：</strong></p>\n\n<p>1. 了解人工智能行业发展与最前沿趋势</p>\n\n<p>2. 了解深度学习处理器的最新技术进展</p>\n\n<p>3. 了解人工智能芯片多种应用实例</p>\n",
+            "beginTime": "2018-12-20T15:30:00+08:00",
+            "endTime": "2018-12-20T16:15:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "202",
+            "speakerIds": [
+                2449
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                893,
+                1234,
+                916,
+                1253,
+                931
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 931,
+            "title": "L4级自动驾驶的进展和展望",
+            "introduce": "<p>无人驾驶离我们并不遥远。</p>\n\n<p>在汽车新时代下，自动驾驶汽车就是不断迭代的&ldquo;车灯&rdquo;，而路边的感知基站就是&ldquo;路灯&rdquo;。&ldquo;单车智能&rdquo;和&ldquo;车路协同&rdquo;不仅能够提升自动驾驶汽车的安全性，还能提高道路利用效率，优化未来交通体系。因此，要攻破全方位实施车车、车路实时动态信息交互的难题，做好自动驾驶车辆的技术研发，即&ldquo;单车智能&rdquo;，对促进车路协同运作起着重大作用。而在&ldquo;车路协同&rdquo;的大趋势下，智能网联汽车对移动通讯的要求越来越高，网络的大带宽、低时延对无人驾驶汽车尤为重要。实现&ldquo;单车智能&rdquo;和&ldquo;车路协同&rdquo;的完美配合，是L4级自动驾驶汽车在中国商业化落地的关键一步。</p>\n\n<p>提纲：</p>\n\n<ol>\n\t<li>自动驾驶的分级以及进行L4级自动驾驶研发的必要性</li>\n\t<li>目前全球L4级自动驾驶市场的发展及资本现状</li>\n\t<li>文远知行在单车智能上的研发进展及领先技术</li>\n\t<li>通过5G实现车路协同的技术突破</li>\n\t<li>全国率先推出L4级自动驾驶出租车对自动驾驶在中国商业化落地的意义</li>\n</ol>\n\n<p>听众收益点：</p>\n\n<ol>\n\t<li>了解L4自动驾驶技术的最新发展现状</li>\n\t<li>了解自动驾驶在&ldquo;单车智能&ldquo;上的各方面研发技术</li>\n\t<li>了解自动驾驶在中国的商业化落地前景</li>\n</ol>\n",
+            "beginTime": "2018-12-20T16:25:00+08:00",
+            "endTime": "2018-12-20T17:10:00+08:00",
+            "address": "",
+            "topicId": 472,
+            "timetableId": "203",
+            "speakerIds": [
+                2402
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1318,
+                911,
+                893,
+                1234,
+                916,
+                1253,
+                1233
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1374,
+            "title": "文本表示与文本生成模型新进展与应用",
+            "introduce": "<p>本次讲座将介绍文本表示和文本生成方面的近一年重要进展。文本表示和生成是两个不可分割的任务。今年包括ELMo、GPT、BERT等新工作通过上下文语境对词向量建模。而今年也有一系列工作寻找最优表达句子的树以及研究基于树结构表示句子中的决定性因素。利用更好的表示，我们改进了翻译模型中过翻译和欠翻译的问题。我们也将介绍利用监督和非监督的方法训练模型根据关键词生成句子，进而推广到一般受限文本生成。基于这些技术，我们研发的写稿机器人已经写作超过6万篇文章跨6个语言，拥有12万多粉丝关注。我们也将介绍文本生成在搜索和广告等场景中的应用。<br />\n<br />\n演讲提纲：</p>\n\n<p>1. 写稿机器人概述<br />\n2. 句子表示<br />\n（1） 上下文相关向量话表示ELMo、GPT、BERT<br />\n（2）&nbsp;树结构的神经网络句子表示<br />\n3. 机器翻译中的词覆盖问题<br />\n（1）词覆盖模型<br />\n（2）Past-and-future模型<br />\n4. 受限文本生成<br />\n（1）监督方法<br />\n（2）非监督贝叶斯采样方法CGMH<br />\n（3）时间序列补全模型<br />\n5. 应用介绍</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解机器写稿、文本生成和翻译的工业界应用<br />\n2. 了解文本句子表示的最近一年新进展<br />\n3. 了解文本生成中的监督和非监督方法</p>\n",
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "204",
+            "speakerIds": [
+                2614
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1360,
+                1341,
+                1333,
+                1259,
+                1373,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1395,
+            "title": "华为云自然语言和对话机器人技术详解和应用场景",
+            "introduce": "<p>随着智能助理、对话机器人、智能音箱等产品的兴起，自然语言处理(NLP)的风口正在到来。NLP领域突破不断，预训练模型的出现，迁移学习和多模态被越来越多的普遍使用，企业市场也涌现出丰富的应用场景。语言理解是人工智能皇冠上的明珠。未来5年NLP领域的人工智能技术会落地到越来越多的场景中，极大改变我们工作和生活的方式。本次演讲中，我将会介绍市场动态和技术前沿，华为云自然语言服务和应用场景，并和大家一起探讨未来的趋势。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. NLP领域国内外的市场动态和观察</p>\n\n<p>2. 华为云语音语义服务介绍和应用场景</p>\n\n<p>&nbsp; &nbsp;（1）&nbsp;问答机器人</p>\n\n<p>&nbsp; &nbsp;（2）任务型对话</p>\n\n<p>&nbsp; &nbsp;（3）现场演示</p>\n\n<p>3. 语音语义域的未来趋势</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解语音语义域中美两地最新市场动态</p>\n\n<p>2. 了解NLP和对话机器人的典型落地场景</p>\n\n<p>3. 探寻未来的技术创新模式和行业机会</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "address": "",
+            "topicId": 517,
+            "timetableId": "204",
+            "speakerIds": [
+                2643
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1384,
+                1393
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 955,
+            "title": "你问我答：从搜索引擎到语音智能助手",
+            "introduce": "<p><strong>PC</strong>互联网时代下，传统搜索引擎能够根据网络用户关键字查询需求精准地返回给用户相关的网址URL链接结果，其核心技术包括：爬虫和索引、检索模型、链接分析、查询分析、相关性和排序等。随着移动互联网时代的到来，搜索用户更期待能获得直接唯一想要的知识结果，知识图谱以及基于知识的问答技术逐渐为搜索引擎进一步赋能。深度学习技术引发了人工智能时代的又一次春天，语音交互搜索技术当前正在兴起，用户与搜索引擎的交互形式从传统的关键词转变为口语自然语言，从单轮问答逐渐转为多轮对话，这给传统搜索技术带来挑战和机遇。本次演讲将分享从传统信息检索、到智能问答以及对话技术的在实际产品化落地的最佳实践经验。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<ol>\n\t<li>&nbsp;PC互联网时代下的搜索核心技术</li>\n\t<li>&nbsp;移动互联网时代下的智能问答系统技术</li>\n\t<li>&nbsp;人工智能时代下的智能对话系统技术</li>\n</ol>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<ol>\n\t<li>&nbsp;可以了解谷歌等搜索公司背后的技术难点和解决方案</li>\n\t<li>&nbsp;可以了解亚马逊Echo、谷歌助手等智能音箱背后的技术难点和解决方案</li>\n\t<li>&nbsp;相关技术方案可以应用到自身产品研发的落地场景中</li>\n</ol>\n",
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "204",
+            "speakerIds": [
+                2423
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1371,
+                905,
+                888,
+                932,
+                1305,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 956,
+            "title": "小米移动端深度学习框架实践",
+            "introduce": "<p>随着深度学习领域的快速发展，以及移动端芯片计算能力的逐步提升，设备端上的深度学习推理正在变成一个趋势，一个好用的深度学习框架成为深度学习应用落地的关键。MACE是开源的专门为移动端芯片优化的深度学习框架。本次分享主要介绍MACE在开发和使用中的一些经验总结。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲:</p>\n\n<p>1. 设备端深度学习的趋势</p>\n\n<p>2. 设备端深度学习框架的优化方法</p>\n\n<p>&nbsp;（1）性能优化</p>\n\n<p>&nbsp;（2）内存优化</p>\n\n<p>&nbsp;（3）框架精简</p>\n\n<p>&nbsp;（4）模型加载</p>\n\n<p>&nbsp;（5）模型安全</p>\n\n<p>3.&nbsp; 小米设备端深度学习应用场景举例</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益:</p>\n\n<p>1. 了解设备端深度学习的典型应用情况</p>\n\n<p>2. 了解设备端深度学习框架MACE开发优化与使用经验总结</p>\n",
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "address": "",
+            "topicId": 469,
+            "timetableId": "204",
+            "speakerIds": [
+                2424
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1342,
+                1375
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 964,
+            "title": "大规模机器学习在视频分析理解中的实践 ",
+            "introduce": "<p>随着深度学习识别性能的不断提高，语音识别、视频理解、精准推荐、智能创作等技术广泛应用，互联网视频应用高速发展，不但提高了生产运营效率也为用户带来丰富多彩更加有趣的内容。本次演讲将介绍爱奇艺在计算机视觉领域的技术进展和落地应用，谈谈在落地过程中遇到的挑战、问题和解决方案，并展望计算机视觉技术发展趋势和未来应用。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 互联网视频发展现状</p>\n\n<p>2. AI在创作、生产、标注、分发、播放、变现的具体应用案例</p>\n\n<p>3. 视频AI分析理解主要算法</p>\n\n<p>4. 如何应用大规模机器学习在视频分析理解的经验和教训</p>\n\n<p>5. 计算机视觉技术未来发展趋势</p>\n\n<p>听众受益：</p>\n\n<p>1. 了解互联网视频行业发展背景和需求</p>\n\n<p>2. 熟悉视频AI分析理解的主要方法和问题</p>\n\n<p>3. 了解应用大规模深度学习的方法和经验</p>\n",
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "address": "",
+            "topicId": 466,
+            "timetableId": "204",
+            "speakerIds": [
+                2433
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1368,
+                1350
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1342,
+            "title": "嵌入式深度学习框架研发与落地实践",
+            "introduce": "<p>深度学习技术已经在互联网的诸多方向产生影响。该技术近几年在嵌入式领域也得到飞速发展，各种互联网产品都争相在端侧应用深度学习技术，产品对深度学习的引入也将进一步影响用户体验。随着移动设备被广泛使用，在移动互联网产品应用深度学习和神经网络技术已经成为必然趋势。</p>\n\n<p><br />\n在移动端应用深度学习技术时往往存在各种各样的问题，由于移动端设备的性能以及包体积、耗电、内存都有很大的局限，这就为深入全面落地相关技术框架带来了很大难度。本次演讲主要从硬件面对的困难讲起，再到落地应用层面的问题解决，以简单搜索App为案例全面讲解从汇编到顶层架构实现。</p>\n\n<p>演讲提纲：<br />\n1. 移动端 AI 现状<br />\n2. Paddle-Mobile 介绍<br />\n3. Paddle-Mobile CPU 性能优化<br />\n4. CPU 优化落地简单搜索 APP 场景案例<br />\n5. Paddle-Mobile GPU 性能优化<br />\n6. GPU 优化落地简单搜索 APP 场景案例<br />\n7. FPGA、NPU等协处理器方案<br />\n8. Paddle-Mobile 硬件支持架构描述<br />\n9. 简单搜索创新体验介绍</p>\n\n<p>听众收益：</p>\n\n<p>1. 从中可以了解到当下移动端AI框架的格局和发展情况<br />\n2. Paddle-Mobile做为百度移动端唯一深度学习框架的ARM CPU和Mali\\Andreno GPU的性能优化<br />\n3. 对体系结构和硬件知识也可以有一定的深入了解</p>\n",
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "address": "",
+            "topicId": 469,
+            "timetableId": "205",
+            "speakerIds": [
+                2569
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                956,
+                1375
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1360,
+            "title": "人工智能和机器学习在滴滴多个业务场景的深度应用和实践",
+            "introduce": "<p>滴滴运用大数据驱动和人工智能技术提升乘客出行和司机接驾效率，协同城市管理者提供智慧交通解决方案。在AI基础能力上，滴滴拥有出行领域全球领先的机器学习算法，深度应用在智能分单、智能调度、供需预测等系统的方方面面。</p>\n\n<p>滴滴的订单分配系统需要实时进行司机和乘客两个群体的超大规模匹配计算，对每次计算而言，这是一个最优化问题，需要运用机器学习和组合优化理论在线进行求解；而当下的每次分配结构还会影响到未来一段时间的司乘关系，这又是一个典型的增强学习问题。</p>\n\n<p>另外，在滴滴的核心业务场景中，供需预测是一个基础的决策信息，这是一个典型的时空数据预测问题，我们结合了大量的历史出行数据，并结合当前的实时特征，采用了LSTM+GCN对时间和空间数据进行建模求解。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 人工智能技术在滴滴的应用概览</p>\n\n<p>2. 滴滴订单分配问题面临的挑战</p>\n\n<p>3. 组合优化和机器学习对订单分配问题的建模和求解</p>\n\n<p>4. 深度学习在滴滴实时供需预测中的应用</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;听众收益：</p>\n\n<p>&nbsp;1. 了解滴滴的核心系统框架和大规模实时分配系统面临的挑战，以及如何用人工智能技术解决这些问题</p>\n\n<p>2. 了解滴滴出行背后的时空大数据技术和匹配算法</p>\n\n<p>3. 了解典型的人工智能技术如何在大规模实时系统中的落地和应用</p>\n",
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "205",
+            "speakerIds": [
+                2593
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1341,
+                1333,
+                1259,
+                1373,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1368,
+            "title": "计算机视觉技术在顺丰物流场景中的应用",
+            "introduce": "<p>物流行业中的包裹收派、分拣、运输等各个环节都需要自动化、智能化的技术来提速增效，计算机视觉技术通过对货物、人员、车辆等进行监控和分析，提供智能化分析结果，在顺丰物流场景中得到了广泛的应用。本次演讲主要介绍顺丰物流中两个典型的视觉应用案例：手写运单识别、Xray违禁品检测。<br />\n<br />\n演讲提纲：<br />\n1. 手写运单识别<br />\n（1）OCR技术介绍<br />\n（2）文本检测<br />\n（3）文本识别<br />\n（4）地址纠偏<br />\n<br />\n2. Xray违禁品检测<br />\n（1）Xray图像与违禁品的特点<br />\n（2）Xray违禁品检测算法<br />\n（3）模型性能优化方法</p>\n\n<p>听众收益：</p>\n\n<p>1.了解OCR、Object Detection等相关技术和难点<br />\n2.了解物流业务场景中的视觉应用<br />\n3.了解深度学习模型训练和加速的一些实用技巧</p>\n",
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "address": "",
+            "topicId": 466,
+            "timetableId": "205",
+            "speakerIds": [
+                2605
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                964,
+                1350
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1371,
+            "title": "机器学习在苏宁搜索平台中的实践",
+            "introduce": "<p>搜索引擎作为网站的主要流量入口，搜索的用户体验对整个网站起到至关重要的作用，优化搜索、提升用户体验，首先需要大量的数据，用户行为数据、商品专家数据以及海量的用户输入表达数据。其次需要机器学习算法针对既有的数据进行学习与组织数据，建立合理的模型，用数据去理解用户创建用户画像，同时还需要及时识别各种异常情况，对异常行为数据进行相应的惩处措施，在充分了解用户行为与商品模型的前提下为用户提供更优的搜索体验。</p>\n\n<p>本次分享主要基于多年搜索实践经验，讲述搜索如何利用机器学习在商品排序、用户意图识别、商品异常检测、异常流量检测、架构优化等方面的应用。</p>\n\n<p><br />\n议题大纲：&nbsp;</p>\n\n<p>1. 搜索系统总体介绍<br />\n（1）苏宁易购搜索系统范围<br />\n（2）苏宁易购搜索系统架构演变<br />\n2. 搜索系统面临哪些难题<br />\n（1）用户意图的理解<br />\n（2）如何智能纠正与扩展用户query<br />\n（3）商品乱挂现象影响搜索排序<br />\n（4）作弊给搜索带来的影响<br />\n3. 如何利用机器学习技术解决搜索难点<br />\n（1）基于CRF的中心词识别模型<br />\n（2）基于知识图谱的query扩展<br />\n（3）基于CNN与Naive Bayes实现图片与文本类别识别<br />\n（4）基于常用分类器实现的黑白分类检测作弊行为<br />\n4. 问答式内容搜索系统试水<br />\n（1）搜索的召回更加丰富性<br />\n（2）基于NLP技术对query进行处理<br />\n（3）基于知识图谱进行查询推导<br />\n（4）问答式搜索适用场景与用户</p>\n\n<p>听众受益点：<br />\n适合从事电商类搜索从业的同行，搜索面临的问题很多都是共性问题，各家解决方案不一样，但是目的都是一致的。搜索的道路没有捷径，需要长期的沉淀，数据积累与长期的实践，分享的目的是让大家互相了解同行的解决方案，互相取长补短。共同提升搜索能力，提升用户搜索体验。</p>\n",
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "205",
+            "speakerIds": [
+                2609
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                905,
+                888,
+                932,
+                1305,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1384,
+            "title": "AI+城市智能体：聚焦新一代智慧城市的PISC架构",
+            "introduce": "<p>城市作为人类文明高度发展的产物，为人类活动提供了一个进行高效分工协作的平台。随着现代技术和文明的发展，高效地运营和管理城市，优化城市基础设施，越来越成为一个全新的、跨领域的重要的课题，特别是研究如何利用新一代人工智能技术的飞速进步，从设计规划、智能设施布局到运营，以此最大化城市的效率，提高市民的工作、出行和生活体验，建立智慧型的新一代城市。<br />\n<br />\n在本讲座中，我将从城市智能体的角度，并以智能交通为例，系统地介绍基于人工智能技术的PISC架构在交通态势感知（Perception)、推理(Inference) 到决策（Strategy)和控制(Control)上的应用。我们将详细介绍基于胶囊投影的深度学习算法(Capsule Projection Networks)、交通图计算（Graph Computing)以及各种交通策略以及控制算法的实现。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 智慧城市的发展和现状</p>\n\n<p>2. 城市智能体的基本架构PISC</p>\n\n<p>3. 智能交通态势感知</p>\n\n<p>4. 智能交通推理</p>\n\n<p>5. 智能交通决策和控制</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解智慧城市的发展和未来研究方向</p>\n\n<p>2. 了解智能体开发的PISC架构</p>\n\n<p>3. 了解PISC架构在城市智能体中的具体应用</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "address": "",
+            "topicId": 517,
+            "timetableId": "205",
+            "speakerIds": [
+                2629
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1395,
+                1393
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1341,
+            "title": "人工智能在外卖送达时间预估上的应用",
+            "introduce": "<p>在外卖业务中，餐品的预计送达时间(ETA)扮演了非常重要的角色：ETA向用户承诺了什么时间能拿到餐品，是用户选择一个商家的重要参考之一，也是配送调度、骑手送餐的重要指标。</p>\n\n<p>&nbsp;ETA的影响因素很多，如何利用人工智能技术对送达时间给出合理和准确的估计，对于外卖平台的用户体验、交易量、骑手的工作效率都有至关重要的影响。演讲中会对ETA预估的业务逻辑做简单概述，并介绍人工智能在ETA预估中的应用，以及从人工规则到深度学习的技术演进过程。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 外卖配送业务概述</p>\n\n<p>2. 外卖配送的技术架构：ETA、调度、配送范围和定价</p>\n\n<p>3. 送达时间预估的技术与挑战</p>\n\n<p>4. 机器学习在ETA中的实践：从人工规则到基于深度学习的多模型系统</p>\n\n<p>&nbsp;</p>\n\n<p>听众受益：</p>\n\n<p>1. 对外卖业务形态的理解</p>\n\n<p>2. 配送技术架构的了解</p>\n\n<p>3. 外卖配送业务与其他互联网产品形态的差异，以及如何用人工智能解决配送问题</p>\n",
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "206",
+            "speakerIds": [
+                2568
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1360,
+                1333,
+                1259,
+                1373,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1350,
+            "title": "视频大脑：视频内容理解的技术详解和应用",
+            "introduce": "<p>互联网上，信息的分发和传播媒介从传统的文字和图像，开始逐步向更为高效的视频和音频发展。在这个背景下，视频领域的生产、风控、以及分发环节发生了巨大的改变。从PGC到UGC，从长视频到短视频，对生产工具以及后台技术应用提出了巨大挑战。如何产生优质的内容？如何保证视频内容的合规性以及内容导向？如何进行有效的数据分发和冷启动？这些问题的背后需要进行视频内容的分析、理解及管理。本次演讲将结合实际业务，介绍短视频如何经过生产、审核、理解和分发等环节，从内容制作者手中向广大用户进行信息传播和分享。同时，本人将分享在该业务中遇到的挑战、方案及经验教训。<br />\n<br />\n演讲提纲：<br />\n1. 视频大脑平台介绍<br />\n2. 视频的生产、聚合和风控<br />\n3. 视频内容的分析与理解<br />\n4. 视频大脑的部署及落地</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解视频领域的未来发展和趋势<br />\n2. 了解大规模视频数据的生产、审核到内容理解的过程和挑战<br />\n3. 视频大脑的平台搭建及应用实例</p>\n",
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "address": "",
+            "topicId": 466,
+            "timetableId": "206",
+            "speakerIds": [
+                2581
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                964,
+                1368
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1375,
+            "title": "TensorFlowLite最佳实践以及TensorFlow2.0的劲爆更新",
+            "introduce": "<p>本次讲座将会介绍什么是TensorFlowLite，以及如何使用TensorFlowLite包括模型转化以及模型量化；还会介绍TensorFlowLite的应用和最佳实践；最后会介绍TensorFlow2.0的新特性。</p>\n\n<p>演讲提纲：</p>\n\n<p>1.&nbsp; 什么是TensorFlowLite</p>\n\n<p>2. TensorFlowLite的优点</p>\n\n<p>3. 如何使用TensorFlow Lite</p>\n\n<p>(1)&nbsp;如何转换</p>\n\n<p>(2) 如何进行性能优化</p>\n\n<p>(3) 如何进行量化</p>\n\n<p>4. TensorFlowLite for microcontroller</p>\n\n<p>5. TensorFlowLite 的应用以TensorFlow 2.0</p>\n\n<p>听众收益:</p>\n\n<p>1. 了解如何使用TensorFlowLite以及最佳实践</p>\n\n<p>2. 了解TensorFlow 2.0 新特性</p>\n",
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "address": "",
+            "topicId": 469,
+            "timetableId": "206",
+            "speakerIds": [
+                2616
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                956,
+                1342
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1393,
+            "title": "华为云HiLens：端云协同AI平台，助力企业快速智能化转型",
+            "introduce": "<p>AI技术如今已经成为IT行业的新宠，与各行各业的结合也成为AI落地进程中的主流方向，如智能医疗、智能物流、智能交通等。在AI技术实际落地过程中，很多场景如摄像头智能监控、医疗影像分析、智能车载系统等遇到数据上云成本高、计算延时大、隐私风险、AI应用开发上手困难、AI应用本地维护困难等挑战，极大的阻碍了云上强大AI能力的价值落地。因此，将云上AI能力便利的部署到离应用场景更近的边缘或终端设备上，能很好解决这一系列问题。<br />\n<br />\n在本讲座中，我将详细介绍华为云HiLens平台的架构和特性以及应用场景。首先，我将介绍在现有应用场景下遇到的问题以及HiLens平台所带来的价值。然后，我们详细介绍HiLens架构和主要特性，包括云侧的技能开发、部署、设备管理、数据管理、技能市场等，端侧不同的硬件设备支持和运行态框架等，同时将重点介绍Ascend系列芯片的相关能力。此外，我们还将介绍HiLens平台的应用场景以及和行业结合的案例。最后，我将现场演示HiLens平台的使用过程。<br />\n<br />\n演讲提纲：</p>\n\n<p>1.云上AI服务在实际应用中遇到的问题<br />\n2.HiLens平台的价值<br />\n3.HiLens架构<br />\n4.HiLens使用场景<br />\n5.现场演示</p>\n\n<p>听众收益：</p>\n\n<p>1.了解HiLens平台的架构和特性<br />\n2.结合行业背景，理解HiLens的应用场景<br />\n3.了解HiLens平台的使用方法</p>\n\n<p><a href=\"https://jinshuju.net/f/1HB1cZ\">限额免费，快来锁定报名席位：https://jinshuju.net/f/1HB1cZ</a></p>\n",
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "address": "",
+            "topicId": 517,
+            "timetableId": "206",
+            "speakerIds": [
+                2642
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1395,
+                1384
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 905,
+            "title": "知乎推荐系统的实践及重构之路",
+            "introduce": "<p>知乎现在拥有接近 2 亿的注册用户规模，并已经产生超过1.1亿条的回答。在链接人和知识的路径中，知乎拥有大量的推荐场景，需要一个通用的、并且支持快速业务接入的推荐系统框架。因此，我们花了比较久的时间重构了知乎的推荐系统框架。本次演讲将完整讲述知乎推荐系统的重构过程中的经验和心得，接着介绍一些与业务结合中遇到的问题和解决思路。在推荐之路上，知乎是其中一家的践行者，听众将从本次演讲中对工业界的推荐系统有一个全局的了解，对实际工作遇到个各种推荐问题有更深的认识，并会了解到知乎解决这些问题的思路和方法。</p>\n\n<p>内容概要</p>\n\n<p>1. 背景</p>\n\n<p>（1）知乎现状</p>\n\n<p>（2）知乎各类的推荐场景</p>\n\n<p>（3） 知乎推荐系统的现状</p>\n\n<p>2. 推荐系统的重构</p>\n\n<p>3. 业务结合的实践</p>\n",
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "206",
+            "speakerIds": [
+                2375
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                1371,
+                888,
+                932,
+                1305,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1333,
+            "title": "人工智能技术在大规模自动化仓储中的应用",
+            "introduce": "<p>仓储是物流中的一个重要环节，传统的仓库运转需要大量的人力，是一个劳动力密集的行业。然而，很多这些繁重的劳动都可以被机器人替代。在一个自动化的仓库中，人和机器人能互相协同，在大幅增加劳动效率的同时，也同时能让整个仓库的作业数字化，增加作业的可预测性。</p>\n\n<p>在一个机器人自动化的仓库中，有成百上千的机器人同时运转。在这样一个大规模的复杂系统中，如何通过算法来优化任务的分配，规划机器人行走路径，控制交通，预测各个作业节点的工作时长，是至关重要的问题。在这样一个多机器人协同的工业级系统中，人工智能的技术应用是整个系统的核心，它不仅能优化整个系统的作业效率，也能让整个系统更加鲁棒，更具备柔性，以适应多变的业务环境。在这个演讲中，我们将重点介绍这样一个大规模自动化仓储系统中应用到的人工智能技术，让更多的人了解到这些技术能够给物流行业带来的激动人心的变革。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>&nbsp; 1. 物流和仓储介绍</p>\n\n<p>&nbsp; 2. 自动化仓储系统的关键技术</p>\n\n<p>&nbsp; 3. 大规模动态优化算法介绍</p>\n\n<p>&nbsp; 4. 多智能体路径规划算法介绍</p>\n\n<p>&nbsp; 5. 应用案例介绍</p>\n\n<p>&nbsp; 6. 未来展望</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<p>&nbsp; 1. 了解到物流和仓储的基础概念</p>\n\n<p>&nbsp; 2. 了解到大规模动态优化算法和多智能体路径规划算法的基础和在工业级系统中应用的实例</p>\n\n<p>&nbsp; 3. 人工智能技术和物流行业结合带来的新的机遇</p>\n",
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "207",
+            "speakerIds": [
+                2560
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1360,
+                1341,
+                1259,
+                1373,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 888,
+            "title": "FFM及DeepFFM模型在推荐系统的探索及实践",
+            "introduce": "<p>FM模型目前广泛使用在互联网公司的大规模推荐系统中并取得了很好的应用效果，FFM模型作为FM模型的改进版，一般情况下效果是优于FM模型的，但是因为参数量过多导致这个模型大规模实用化存在严重问题。</p>\n\n<p>本演讲主要分享微博在FFM模型及DeepFFM模型应用在推荐系统所做的一系列优化探索工作。首先会对FM／FFM模型各自的特点及应用场景进行介绍，同时会介绍FFM的几种不同的深度学习版本DeepFFM模型。除此外会分享我们针对FFM及DeepFFM模型的一些改进工作。针对FFM模型参数量过大的问题，我们通过结合FM及FFM模型各自的优点进行了针对性的优化，新模型既有接近于FFM的效果又能大量减少参数；另外我们对DeepFFM也针对性的进行了改进并取得了较好的效果。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<ol>\n\t<li style=\"text-align:justify\">&nbsp;推荐任务及大规模推荐系统简介；</li>\n\t<li style=\"text-align:justify\">&nbsp;从FM模型到FFM模型；</li>\n\t<li style=\"text-align:justify\">&nbsp;如何减少FFM模型的参数量；</li>\n\t<li style=\"text-align:justify\">&nbsp;DeepFFM模型应用在推荐系统；</li>\n\t<li style=\"text-align:justify\">&nbsp;对DeepFFM模型的优化改进及应用；</li>\n</ol>\n\n<p style=\"text-align:justify\">&nbsp;</p>\n\n<p>听众收益：</p>\n\n<ol>\n\t<li>&nbsp;可以透彻了解工业界常用的推荐模型及其适用场景；</li>\n\t<li>&nbsp;可以了解并熟悉DeepFFM这种比较前沿的深度学习推荐模型；</li>\n\t<li>&nbsp;可以了解一些前沿模型的缺点及若干有针对性的改进推荐模型；</li>\n</ol>\n",
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "207",
+            "speakerIds": [
+                2350
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                1371,
+                905,
+                932,
+                1305,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 892,
+            "title": "翻译质量自动评估在电商机器翻译中的应用",
+            "introduce": "<p>电商领域的翻译对质量要求很高，需要提供&ldquo;准合同&rdquo;级的翻译结果，尤其是一些关键信息必须翻译完全正确。而机器翻译的结果还不够完美，除了从模型上采取多种策略进行改进外，我们还需要对翻译结果在输出前进行质量评估和控制。为了应对海量的翻译质量评估需求，我们开发了机器翻译质量自动评估模型，并且提出了一种全新的基于双向自注意力机制的自动评估算法，大幅度提高了自动评估与人工评估的Pearson相关系数，并且创新性地应用于我们实际电商翻译场景，从多个维度提高电商领域机器翻译的可靠性。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 电商领域机器翻译的应用与挑战</p>\n\n<p>2. 多种策略改进电商翻译质量</p>\n\n<p>3. 翻译质量的评测与评估</p>\n\n<p>4. 翻译质量的人工评估标准</p>\n\n<p>5. 翻译质量的自动评估方法</p>\n\n<p>6. 翻译质量自动评估在电商机器翻译中的应用</p>\n\n<p>7. 总结</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解机器翻译在电商领域应用的困难以及成功的解决办法</p>\n\n<p>2. 学习一种全新的翻译质量评估方法和将其成功落地应用的经验</p>\n",
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "address": "",
+            "topicId": 467,
+            "timetableId": "207",
+            "speakerIds": [
+                2357
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                942,
+                1304,
+                1226,
+                1396
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1265,
+            "title": "如何应对 AI 时代的“创新者窘境”：流利说从 0 到 IPO 的 AI 创新原则与实践 ",
+            "introduce": "<p>人工智能被寄予了很高的期望，然而在 AI 技术如何落地产品进而实现商业化仍然是不少从业者面临的挑战。克莱顿&middot;克里斯坦森在《创新者的窘境》中指出，破坏性技术引发的价值网改变最终会带来颠覆式创新。在如今的&ldquo;AI 时代&rdquo;，所谓的人工智能是破坏性技术吗？如何带来真正的颠覆式创新？创新者窘境在 AI 时代是否仍然存在？本演讲从破坏性技术的特性介绍出发，阐述了在 AI 时代的新的&ldquo;创新者窘境&rdquo;以及应对的原则，并结合流利说在语音识别、智能情景对话机器人、个性化推荐等方面的创新介绍 AI 产品化的实践。</p>\n\n<p>提纲：</p>\n\n<p>1. 引子：创新者窘境概述</p>\n\n<p>2. 破坏性的技术变革所带来的影响</p>\n\n<p>3. AI 时代的&ldquo;创新者窘境&rdquo;与应对原则</p>\n\n<p>4. AI+教育的创新与商业化</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解什么是破坏性技术，技术创新的一般规律</p>\n\n<p>2. 了解如何应对 AI 领域的&ldquo;创新者窘境&rdquo;</p>\n\n<p>3. 了解 AI 在教育领域的技术落地案例</p>\n",
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "address": "",
+            "topicId": 470,
+            "timetableId": "207",
+            "speakerIds": [
+                2487
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1224,
+                850,
+                1336
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 932,
+            "title": "深度树匹配——下一代推荐技术的探索和实践",
+            "introduce": "<p>推荐业务是互联网内容提供商进行流量分配的核心业务，也是大数据和机器学习技术的典型应用场景。以电商环境为例，推荐技术的核心任务是要完成从全部海量商品库高效检索TopK相关商品给用户。为实现这一目标，推荐技术经历了以Item-CF为代表的基于统计启发式规则，到以内积模型为代表的向量检索技术的演进和发展。但当前基于内积检索的推荐技术虽然突破了全量候选集召回的天花板，一定程度引入深度模型优化推荐效率，但内积结构模型表达能力存在局限，无法利用更先进模型进一步提升推荐效果。如何在全库检索的基础上突破模型能力天花板，是下一代工业级推荐技术的可行性发展方向。</p>\n\n<p>本次分享将会介绍阿里妈妈精准算法团队围绕全库检索+先进模型这一目标，自主提出的深度树匹配技术Tree-based Deep Match（TDM）这一全新的推荐算法框架。我们将会详细讲述，在具体实现层面如何根据树结构提出兴趣概率最大堆模型，并由此推演出一整套采样、检索、建模的方法。此外我们会详细介绍深度树匹配技术一方面在广告业务上的应用成果和学术创新性探索，该工作也被收录到KDD2018。与此同时，我们还将从下一代工业级推荐技术持续发展的视角，讲述围绕深度树匹配技术进一步发展的探索和思考。</p>\n\n<p>内容概要：</p>\n\n<p>1. 什么是推荐问题和推荐技术</p>\n\n<p>2. 深度树匹配&mdash;&mdash;下一代推荐技术的探索</p>\n\n<p>3. 成为下一代推荐技术的核心挑战</p>\n\n<p>4. 深度树匹配&mdash;&mdash;下一代推荐技术探索的再思考</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解推荐技术的演进历程</p>\n\n<p>2. 了解推荐技术最前沿的实践探索</p>\n\n<p>3. 了解推荐技术持续发展的方向和原动力</p>\n",
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "208",
+            "speakerIds": [
+                2403
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                1371,
+                905,
+                888,
+                1305,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 942,
+            "title": "腾讯知文问答引擎在工业级实战中的演化",
+            "introduce": "<p>智能客服系统已经在企业服务市场全面开花，其降成本、提效率的优势受到广泛的青睐。但是，智能系统从来不是一蹴而就，知文问答平台作为腾讯云智能客服系统的算法引擎，面临着跨行业跨领域跨场景的问答挑战。本次分享将以动态的视角，介绍知文平台在工业级实战中进化演变的过程，包括四大核心问答机器人的架构迭代，具体问答模型的算法调优，及背后的思考和选择。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>1.&nbsp; 腾讯知文平台整体概述</p>\n\n<p>2.&nbsp;四大核心机器人架构迭代</p>\n\n<p>&nbsp;</p>\n\n<p>听众收益：</p>\n\n<p>1. 了解智能客服系统基础框架</p>\n\n<p>2. 了解场景与数据下的问答实践</p>\n\n<p>3. 了解技术选型、迭代的思考过程</p>\n",
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "address": "",
+            "topicId": 467,
+            "timetableId": "208",
+            "speakerIds": [
+                2411
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                892,
+                1304,
+                1226,
+                1396
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1224,
+            "title": "机器学习与运筹优化在饿了么众包业务中的实践",
+            "introduce": "<p>在外卖行业中，配送效率是最重要的市场竞争力。与传统物流行业不同，即时配送的高峰期压力是平时的数十倍，所以对运力的弹性有着极高的要求。不同于专送，众包运力可以在短时间内快速扩充，很好的缓解高峰期压力。如何在有限的成本下，最优化配送效率。本次分享将主要介绍饿了么众包调度与定价系统，讲一下机器学习在即时配送行业中的具体实践应用。</p>\n\n<p>&nbsp;</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 即时配送业务介绍</p>\n\n<p>2. 饿了么智慧物流体系简介</p>\n\n<p>&nbsp; &nbsp; （1）智慧物流的技术挑战</p>\n\n<p>&nbsp; &nbsp; （2）智慧物流体系</p>\n\n<p>&nbsp; &nbsp; （3）智慧物流核心组件</p>\n\n<p>3. 众包调度与定价</p>\n\n<p>&nbsp; &nbsp; （1）订单波次超时模型</p>\n\n<p>&nbsp; &nbsp; （2）拒单率模型</p>\n\n<p>&nbsp; &nbsp; （3）订单骑手匹配模型</p>\n\n<p>&nbsp; &nbsp; （4）智能定价</p>\n\n<p>&nbsp;</p>\n\n<p>听众受益：</p>\n\n<p>1. 了解即时配送的业务特点</p>\n\n<p>2. 了解即时配送行业的最新技术进展</p>\n\n<p>3. 了解机器学习与运筹优化在饿了么众包业务中的实践</p>\n",
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "address": "",
+            "topicId": 470,
+            "timetableId": "208",
+            "speakerIds": [
+                2441
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1265,
+                850,
+                1336
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1259,
+            "title": "深度学习在搜索引擎广告选取中的应用（上）",
+            "introduce": "<p>在搜索引擎广告系统中，我们需要将用户的查询词和广告主购买的关键字进行匹配，从而把相关联的广告选取出来进行广告点击率预测和广告排序。查询词和关键字的匹配方式有些是基于简单的匹配规则，但是很多情况下简单规则可以选取的广告十分有限。为了选取出更多的相关广告，我们会采用各种适用于短文本匹配的智能匹配方法。在这个演讲中，我将会介绍如何将各种深度学习算法应用到查询词和关键字的智能匹配中，并重点介绍工程实践中遇到的各种挑战以及解决方案。</p>\n\n<p>演讲提纲：</p>\n\n<p>1.&nbsp;搜索广告系统简介</p>\n\n<p>2.&nbsp;广告选取的传统方法</p>\n\n<p>3.&nbsp;用于短文本匹配的深度学习算法</p>\n\n<p>4.&nbsp;工程实践中的应用实例和经验总结</p>\n\n<p>5.&nbsp;未来短文本匹配算法的展望</p>\n\n<p>听众受益：</p>\n\n<p>1.&nbsp;了解搜索广告系统以及广告选取的方法</p>\n\n<p>2. 了解短文本匹配的常用机器学习算法</p>\n\n<p>3.&nbsp;了解短文本匹配算法在工程实践中的使用经验</p>\n",
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "208",
+            "speakerIds": [
+                2481
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1360,
+                1341,
+                1333,
+                1373,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1304,
+            "title": "语音和语言技术在AIUI语音交互中的应用",
+            "introduce": "<p>万物互联时代，语音交互成为最为直接与便捷的人机沟通方式，但是当今各种热门语音交互产品的交互用户体验还并不能令人完全满意。本次分享将从语音交互的发展历史开始，聚焦当前语音交互系统中的典型技术难点进行分析，并结合讯飞AIUI语音交互平台，重点解释如何利用语音和语言技术解决这些难点问题，从而帮助语音交互系统提升交互效果。本次分享还将对典型语音交互的交互流程进行分析，并尝试探讨未来语音交互的潜在发展趋势。</p>\n\n<p>提纲：</p>\n\n<p>1. 语音交互的发展历程</p>\n\n<p>2. 语音交互的技术难点</p>\n\n<p>3. 语音交互中的语音和语言技术</p>\n\n<p>4. 语音交互的未来发展趋势</p>\n\n<p>听众受益：</p>\n\n<p>1. 语音交互技术的发展历程</p>\n\n<p>2. 影响语音交互用户体验的原因</p>\n\n<p>3. 如何利用语音和语言技术提升语音交互效果</p>\n\n<p>4. 语音交互未来可能发展趋势及技术挑战</p>\n",
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "address": "",
+            "topicId": 467,
+            "timetableId": "209",
+            "speakerIds": [
+                2531
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                892,
+                942,
+                1226,
+                1396
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1305,
+            "title": "基于知识的搜索推荐技术及应用",
+            "introduce": "<p>在搜索任务中，Query-Doc的文本相似度计算一直都是其中最核心的一个难题。传统的搜索文本相关性模型如BM25等，由于字符空间本身的局限性，很难实现与query语义一致但表达不一致的doc的召回。随着深度模型在NLP应用的普及，基于向量空间的DSSM模型在搜索的任务上也表现出来亮眼的效果。</p>\n\n<p>而实际上，无论是字符空间还是向量空间，都并不符合人类的思维逻辑。而基于知识图谱，加之基于知识的文本认知技术，如命名实体识别、Entity Linking、篇章核心实体识别、篇章主题分类等，我们可以将query、doc，甚至用户的意图、兴趣全部与知识进行关联，将其形式化表达，并在知识空间中模拟人类的思维逻辑，进行检索、推理运算，从而找到更加语义化的搜索结果，甚至直接给出问题答案，大幅度提升了百度搜索的用户体验。</p>\n\n<p>而在基于兴趣点推荐技术上，由于用户的兴趣存在多粒度的多维度情况，很难基于扁平的兴趣点来精细刻画，而基于知识空间的兴趣体系，能够对用户及资源进行体系化表示，并基于图谱中实体之间的关系数据，通过在线的层级推荐计算，为用户推荐最合适粒度资源，并且所有的推荐结果均具有可解释性。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 图谱构建 &mdash;&mdash; 知识空间构建与知识表示</p>\n\n<p>2. 知识认知技术 &mdash;&mdash; 从文本空间到知识空间</p>\n\n<p>3. 知识计算 &mdash;&mdash; 基于知识空间的搜索与推荐</p>\n\n<p>听众受益：</p>\n\n<p>1. 了解知识图谱的基本原理</p>\n\n<p>2. 了解知识图谱在搜索推荐场景下应用的实际案例</p>\n",
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "address": "二层 2号会议厅B",
+            "topicId": 468,
+            "timetableId": "209",
+            "speakerIds": [
+                2532
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": false,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                1371,
+                905,
+                888,
+                932,
+                1334
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 850,
+            "title": "从数据到智慧，知识图谱如何推动金融更加智能？（上）",
+            "introduce": "<p>早期的金融知识图谱，主要聚焦在二级市场股票投资和一级市场创投数据。近一年来，数据维度得到了很大的扩展，公告、研报、新闻、法规的结构化均取得重大进展，财报提取自动化已接近人工水准，多种类实体库建设得到落实。在应用层面，快速兴起了多个落地场景，如小微企业贷款流程自动化、银行内工作流程自动化、银行客户关系管理和获客、自动化审计、自动化监管、自动化资管等。本次演讲将分享知识图谱技术在金融领域落地的具体实践。</p>\n\n<p>演讲提纲</p>\n\n<p>&nbsp; &nbsp; 1. 金融知识图谱技术发展现状</p>\n\n<p>&nbsp; &nbsp; 2. 金融知识图谱技术应用场景分享</p>\n\n<p>听众受益</p>\n\n<p>&nbsp; &nbsp; 1. 了解金融知识图谱技术最新进展</p>\n\n<p>&nbsp; &nbsp; 2. 掌握金融知识图谱与业务场景最新结合点，助力自身业务创新</p>\n",
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "address": "",
+            "topicId": 470,
+            "timetableId": "209",
+            "speakerIds": [
+                2299
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1265,
+                1224,
+                1336
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1373,
+            "title": "深度学习在搜索引擎广告选取中的应用（下）",
+            "introduce": "<p>在搜索引擎广告系统中，我们需要将用户的查询词和广告主购买的关键字进行匹配，从而把相关联的广告选取出来进行广告点击率预测和广告排序。查询词和关键字的匹配方式有些是基于简单的匹配规则，但是很多情况下简单规则可以选取的广告十分有限。为了选取出更多的相关广告，我们会采用各种适用于短文本匹配的智能匹配方法。在这个演讲中，我将会介绍如何将各种深度学习算法应用到查询词和关键字的智能匹配中，并重点介绍工程实践中遇到的各种挑战以及解决方案。</p>\n\n<p>演讲提纲：</p>\n\n<p>1.&nbsp;搜索广告系统简介</p>\n\n<p>2.&nbsp;广告选取的传统方法</p>\n\n<p>3.&nbsp;用于短文本匹配的深度学习算法</p>\n\n<p>4.&nbsp;工程实践中的应用实例和经验总结</p>\n\n<p>5.&nbsp;未来短文本匹配算法的展望</p>\n\n<p>听众受益：</p>\n\n<p>1.&nbsp;了解搜索广告系统以及广告选取的方法</p>\n\n<p>2. 了解短文本匹配的常用机器学习算法</p>\n\n<p>3.&nbsp;了解短文本匹配算法在工程实践中的使用经验</p>\n",
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "209",
+            "speakerIds": [
+                2481
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": true,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1360,
+                1341,
+                1333,
+                1259,
+                957
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1334,
+            "title": "瓜子二手车个性化推荐的挑战与应对",
+            "introduce": "<p>瓜子二手车是目前国内二手车交易平台的领军者。如何帮助买家在平台上迅速挑选到满意的车源，是智能个性化推荐要解决的问题。</p>\n\n<p>我们将介绍瓜子推荐场景区别于一般电商推荐场景的特点，商品有排他性，时效性强，业务链条长，用户决策谨慎等。首先，二手车商品的排他性时效性，使得常规的协同过滤方法计算用户相似度或者物品相似度已经不再适用。我们结合瓜子的业务逻辑、垂直领域的商品特点，基于物品属性与用户行为，发展出了新的物品相似度计算方法，同时也很好地解决了物品冷启动的问题。其次，瓜子业务链条长，用户的决策过程慎重，商品的排他性又使得不同用户之间的行为互相耦合。直接优化成交会面临数据稀疏、噪声大等困难，我们将长链条分拆，分别各自优化转化率。我们将分享瓜子在面对这些挑战时采用的方法，已经取得的结果。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 瓜子个性化推荐场景面临的挑战</p>\n\n<p>2. 垂直场景下物品相似度计算</p>\n\n<p>3. 长链条业务场景下的结果优化&nbsp;</p>\n\n<p>4. 个性化推荐实践与结果</p>\n\n<p>听众受益：</p>\n\n<p>1.&nbsp;了解区别于传统推荐的推荐场景</p>\n\n<p>2. 了解排他商品推荐的应对方法</p>\n\n<p>3. 了解长链条业务整体优化方案</p>\n",
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "address": "",
+            "topicId": 468,
+            "timetableId": "210",
+            "speakerIds": [
+                2561
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                955,
+                1371,
+                905,
+                888,
+                932,
+                1305
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1336,
+            "title": "从数据到智慧，知识图谱如何推动金融更加智能？（下）",
+            "introduce": "<p>早期的金融知识图谱，主要聚焦在二级市场股票投资和一级市场创投数据。近一年来，数据维度得到了很大的扩展，公告、研报、新闻、法规的结构化均取得重大进展，财报提取自动化已接近人工水准，多种类实体库建设得到落实。在应用层面，快速兴起了多个落地场景，如小微企业贷款流程自动化、银行内工作流程自动化、银行客户关系管理和获客、自动化审计、自动化监管、自动化资管等。本次演讲将分享知识图谱技术在金融领域落地的具体实践。</p>\n\n<p>演讲提纲</p>\n\n<p>&nbsp; &nbsp; 1. 金融知识图谱技术发展现状</p>\n\n<p>&nbsp; &nbsp; 2. 金融知识图谱技术应用场景分享</p>\n\n<p>听众受益</p>\n\n<p>&nbsp; &nbsp; 1. 了解金融知识图谱技术最新进展</p>\n\n<p>&nbsp; &nbsp; 2. 掌握金融知识图谱与业务场景最新结合点，助力自身业务创新</p>\n",
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "address": "",
+            "topicId": 470,
+            "timetableId": "210",
+            "speakerIds": [
+                2299
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1265,
+                1224,
+                850
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 957,
+            "title": "AI技术在短视频商业化中的应用",
+            "introduce": "<p>近几年，短视频应用蓬勃发展，由于短视频场景下用户兴趣和广告内容更难以理解，短视频广告在用户内容理解、召回、排序和机制上都会遇到更大挑战。基于快手海量的用户和视频数据，利用AI相关技术，可以更好的解决这些问题。本次分享主要探讨AI技术在快手短视频商业化中的应用，和大家共同探讨其中的关键问题和解法。</p>\n\n<p>提纲内容：</p>\n\n<p>1. 介绍短视频商业化中的算法问题</p>\n\n<p>2. 如何利用AI技术(深度学习和强化学习)解决问题</p>\n\n<p>3. AI技术落地的工程难点和解法</p>\n\n<p>听众受益：</p>\n\n<p>1. 了解短视频商业化中的算法</p>\n\n<p>2. 了解AI技术在短视频商业化中的应用</p>\n\n<p>3. 了解AI技术的工程实现</p>\n",
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "address": "",
+            "topicId": 465,
+            "timetableId": "210",
+            "speakerIds": [
+                2426
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                1374,
+                1360,
+                1341,
+                1333,
+                1259,
+                1373
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1226,
+            "title": "语音技术在小米的实践应用之路",
+            "introduce": "<p>语音技术，包括语音识别与合成等，经历了几十年的发展，恰逢人工智能时代的来临，对其应用场景做了重新定义。但是我们面临的问题从来没有变过：数据失配和模型假设。在本次演讲中，我将分享在小米，我们如何解决失配的问题，如何自动标注数据，以及我们如何在小米特有用户场景下进行产品和算法创新。我们在语音合成中也做了创新的尝试，利用语音识别辅助，端对端的技术取代传统文本处理，节省了繁杂的标注工作。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 小米语音是如何成长的？</p>\n\n<p>电视-&gt;手机-&gt;音箱-&gt;儿童-&gt;车载-&gt;笔记本&nbsp;</p>\n\n<p>2. 语音技术中的自然语言应用</p>\n\n<p>语音识别中采用了深度学习语言模型后，识别率绝对增长超过1%。尺寸小可做嵌入式使用。在语音合成中的文本分析，我们基于端到端网络结构，业内首次提出将端到端网络应用于合成前端，通过一个编解码网络，完成传统复杂前端中的多个模块的功能。通过多目标联合地并行训练，取得了媲美传统前端的性能。</p>\n\n<p>3. 永远要突破算法的天花板</p>\n\n<p>为什么语音算法可以在小米有所突破，发表顶级国际会议论文？不做空中楼阁。有实际产品需求，有用户场景，有强大的内测用户。</p>\n\n<p>4. 语音应用的挑战</p>\n\n<p>5. 小米过去20个月做语音的经验</p>\n\n<p>听众收益：</p>\n\n<p>1. 语音技术在智能家居环境中如何发挥作用</p>\n\n<p>2. 了解如何快速将语音算法落地到产品</p>\n",
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "address": "",
+            "topicId": 467,
+            "timetableId": "210",
+            "speakerIds": [
+                2444
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                892,
+                942,
+                1304,
+                1396
+            ],
+            "tag_ids": []
+        },
+        {
+            "id": 1396,
+            "title": "智能聊天机器人在汽车领域的应用实践",
+            "introduce": "<p>基于业内最大最全的汽车专业数据构建领域知识图谱，并结合NLP、深度学习等人工智能技术，实现智能聊天机器人&ldquo;家家小秘&rdquo;，提供真正智能化的服务，覆盖用户看车、买车、用车全流程，并已成为汽车之家的顶级入口之一。</p>\n\n<p>然而，汽车领域数据的多样化和非标准化，以及所需答案精细化和专业化等特点，都为语义理解和知识图谱的构建带来了挑战。本次演讲中，我们首先介绍聊天机器人的相关知识；然后分享我们在汽车领域的应用实践，包括实体识别、意图识别、多轮对话管理和答案生成等相关技术，并介绍应用过程中遇到的挑战和解决方案；最后展示我们具体的应用案例。</p>\n\n<p>演讲提纲：</p>\n\n<p>1. 智能聊天机器人背景介绍</p>\n\n<p>2. 汽车领域落地的主要框架</p>\n\n<p>3. 语义理解</p>\n\n<p>&nbsp; &nbsp;实体识别</p>\n\n<p>&nbsp; &nbsp;意图识别</p>\n\n<p>4. 多轮会话管理</p>\n\n<p>5. 答案生成</p>\n\n<p>&nbsp; &nbsp;汽车领域知识图生成答案</p>\n\n<p>&nbsp; &nbsp;阅读理解生产答案</p>\n\n<p>&nbsp; &nbsp;检索式问答</p>\n\n<p>6. 应用实例</p>\n\n<p>7. 未来展望</p>\n\n<p>听众收益点：</p>\n\n<p>1. 了解如何在垂直领域中落地聊天机器人</p>\n\n<p>2. 了解如何使用机器学习、深度学习和NLP相关技术实现语义理解和多轮会话管理</p>\n\n<p>3. 了解如何利用知识图谱、阅读理解和检索式问答生成答案</p>\n",
+            "beginTime": "2018-12-21T17:10:00+08:00",
+            "endTime": "2018-12-21T17:55:00+08:00",
+            "address": "",
+            "topicId": 467,
+            "timetableId": "236",
+            "speakerIds": [
+                2646
+            ],
+            "relativeManualLectureIds": [],
+            "rank_of_difficulty": "0",
+            "rank_of_difficulty_desp": "",
+            "opening_number": "0",
+            "order": "65535",
+            "is_recommend": "0",
+            "wxlite_code_url": null,
+            "status": 0,
+            "intro": "",
+            "spec_topic_pic": "",
+            "speakerStatus": false,
+            "isOversea": false,
+            "pptStatus": true,
+            "videoStatus": true,
+            "hasLive": false,
+            "videoLink": "",
+            "share_lecture_desp": "",
+            "pptLink": "",
+            "relativeLectureIds": [
+                892,
+                942,
+                1304,
+                1226
+            ],
+            "tag_ids": []
+        }
+    ],
+    "schedules": [
+        {
+            "id": 1148,
+            "beginTime": "2018-12-20T07:45:00+08:00",
+            "endTime": "2018-12-20T09:00:00+08:00",
+            "type": "common",
+            "title": "签到"
+        },
+        {
+            "id": 1147,
+            "beginTime": "2018-12-20T09:00:00+08:00",
+            "endTime": "2018-12-20T09:30:00+08:00",
+            "type": "lecture",
+            "title": "大会开场",
+            "lectureId": 1318,
+            "topicId": 472
+        },
+        {
+            "id": 1230,
+            "beginTime": "2018-12-20T09:30:00+08:00",
+            "endTime": "2018-12-20T10:15:00+08:00",
+            "type": "lecture",
+            "title": "智能问答算法原理及实践之路",
+            "lectureId": 1399,
+            "topicId": 521
+        },
+        {
+            "id": 987,
+            "beginTime": "2018-12-20T09:30:00+08:00",
+            "endTime": "2018-12-20T10:15:00+08:00",
+            "type": "lecture",
+            "title": "人工智能在文本、视频、语音、音乐等领域的最新发展和应用",
+            "lectureId": 911,
+            "topicId": 472
+        },
+        {
+            "id": 969,
+            "beginTime": "2018-12-20T10:25:00+08:00",
+            "endTime": "2018-12-20T11:10:00+08:00",
+            "type": "lecture",
+            "title": "人工智能在金融领域的应用和进展",
+            "lectureId": 893,
+            "topicId": 472
+        },
+        {
+            "id": 1231,
+            "beginTime": "2018-12-20T10:25:00+08:00",
+            "endTime": "2018-12-20T11:10:00+08:00",
+            "type": "lecture",
+            "title": "图数据库引擎助力AI下一个变革",
+            "lectureId": 1400,
+            "topicId": 521
+        },
+        {
+            "id": 1061,
+            "beginTime": "2018-12-20T11:20:00+08:00",
+            "endTime": "2018-12-20T12:05:00+08:00",
+            "type": "lecture",
+            "title": "平安城市视觉分析的十大挑战",
+            "lectureId": 1234,
+            "topicId": 472
+        },
+        {
+            "id": 1232,
+            "beginTime": "2018-12-20T11:20:00+08:00",
+            "endTime": "2018-12-20T12:05:00+08:00",
+            "type": "lecture",
+            "title": "新一代高效文本标注工具实现与应用",
+            "lectureId": 1401,
+            "topicId": 521
+        },
+        {
+            "id": 1238,
+            "beginTime": "2018-12-20T13:00:00+08:00",
+            "endTime": "2018-12-20T17:10:00+08:00",
+            "type": "common",
+            "title": "<a href=\"https://jinshuju.net/f/HlXd3E?x_field_1=guanwang\" target=\"_blank\">基于ModelArts平台的AI 开发实战（二层 201\n）</a><br/>\n签到、动手环境准备<br/>\n基于ModelArts的自动学习演示（参与嘉宾：AI开发专家）<br/>\n参与者动手实践，专家巡场并解答问题（参与嘉宾：讲师和AI开发专家）<br/>\n自由交流\n"
+        },
+        {
+            "id": 992,
+            "beginTime": "2018-12-20T13:30:00+08:00",
+            "endTime": "2018-12-20T14:15:00+08:00",
+            "type": "lecture",
+            "title": "不确定和对抗环境下的机器学习探讨",
+            "lectureId": 916,
+            "topicId": 472
+        },
+        {
+            "id": 1080,
+            "beginTime": "2018-12-20T14:25:00+08:00",
+            "endTime": "2018-12-20T15:10:00+08:00",
+            "type": "lecture",
+            "title": "从研究到落地：大规模AI/CV落地应用的趋势和挑战",
+            "lectureId": 1253,
+            "topicId": 472
+        },
+        {
+            "id": 1060,
+            "beginTime": "2018-12-20T15:30:00+08:00",
+            "endTime": "2018-12-20T16:15:00+08:00",
+            "type": "lecture",
+            "title": "人工智能芯片技术发展与应用",
+            "lectureId": 1233,
+            "topicId": 472
+        },
+        {
+            "id": 1009,
+            "beginTime": "2018-12-20T16:25:00+08:00",
+            "endTime": "2018-12-20T17:10:00+08:00",
+            "type": "lecture",
+            "title": "L4级自动驾驶的进展和展望",
+            "lectureId": 931,
+            "topicId": 472
+        },
+        {
+            "id": 1239,
+            "beginTime": "2018-12-20T18:40:00+08:00",
+            "endTime": "2018-12-20T21:00:00+08:00",
+            "type": "common",
+            "title": "<a href=\"http://djkmnlzeq9heujs0.mikecrm.com/u6xcPLW\" target=\"_blank\">AI夜聊：机器学习工程师的成长和发展探讨（二层 201\n）</a><br/>\n主持人：王兴星，美团点评技术总监<br/>\n圆桌论坛嘉宾：<br/>\n李磊，字节跳动人工智能实验室总监<br/>\n高斌，微软必应搜索广告部首席机器学习科学家<br/>\n陈博兴，阿里巴巴达摩院资深算法专家 "
+        },
+        {
+            "id": 1033,
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "type": "lecture",
+            "title": "你问我答：从搜索引擎到语音智能助手",
+            "lectureId": 955,
+            "topicId": 468
+        },
+        {
+            "id": 1034,
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "type": "lecture",
+            "title": "小米移动端深度学习框架实践",
+            "lectureId": 956,
+            "topicId": 469
+        },
+        {
+            "id": 1042,
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "type": "lecture",
+            "title": "大规模机器学习在视频分析理解中的实践 ",
+            "lectureId": 964,
+            "topicId": 466
+        },
+        {
+            "id": 1205,
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "type": "lecture",
+            "title": "文本表示与文本生成模型新进展与应用",
+            "lectureId": 1374,
+            "topicId": 465
+        },
+        {
+            "id": 1226,
+            "beginTime": "2018-12-21T09:30:00+08:00",
+            "endTime": "2018-12-21T10:15:00+08:00",
+            "type": "lecture",
+            "title": "华为云自然语言和对话机器人技术详解和应用场景",
+            "lectureId": 1395,
+            "topicId": 517
+        },
+        {
+            "id": 1173,
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "type": "lecture",
+            "title": "嵌入式深度学习框架研发与落地实践",
+            "lectureId": 1342,
+            "topicId": 469
+        },
+        {
+            "id": 1191,
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "type": "lecture",
+            "title": "人工智能和机器学习在滴滴多个业务场景的深度应用和实践",
+            "lectureId": 1360,
+            "topicId": 465
+        },
+        {
+            "id": 1199,
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "type": "lecture",
+            "title": "计算机视觉技术在顺丰物流场景中的应用",
+            "lectureId": 1368,
+            "topicId": 466
+        },
+        {
+            "id": 1202,
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "type": "lecture",
+            "title": "机器学习在苏宁搜索平台中的实践",
+            "lectureId": 1371,
+            "topicId": 468
+        },
+        {
+            "id": 1215,
+            "beginTime": "2018-12-21T10:30:00+08:00",
+            "endTime": "2018-12-21T11:15:00+08:00",
+            "type": "lecture",
+            "title": "AI+城市智能体：聚焦新一代智慧城市的PISC架构",
+            "lectureId": 1384,
+            "topicId": 517
+        },
+        {
+            "id": 1172,
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "type": "lecture",
+            "title": "人工智能在外卖送达时间预估上的应用",
+            "lectureId": 1341,
+            "topicId": 465
+        },
+        {
+            "id": 1181,
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "type": "lecture",
+            "title": "视频大脑：视频内容理解的技术详解和应用",
+            "lectureId": 1350,
+            "topicId": 466
+        },
+        {
+            "id": 1206,
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "type": "lecture",
+            "title": "TensorFlowLite最佳实践以及TensorFlow2.0的劲爆更新",
+            "lectureId": 1375,
+            "topicId": 469
+        },
+        {
+            "id": 1224,
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "type": "lecture",
+            "title": "华为云HiLens：端云协同AI平台，助力企业快速智能化转型",
+            "lectureId": 1393,
+            "topicId": 517
+        },
+        {
+            "id": 981,
+            "beginTime": "2018-12-21T11:30:00+08:00",
+            "endTime": "2018-12-21T12:15:00+08:00",
+            "type": "lecture",
+            "title": "知乎推荐系统的实践及重构之路",
+            "lectureId": 905,
+            "topicId": 468
+        },
+        {
+            "id": 1092,
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "type": "lecture",
+            "title": "如何应对 AI 时代的“创新者窘境”：流利说从 0 到 IPO 的 AI 创新原则与实践 ",
+            "lectureId": 1265,
+            "topicId": 470
+        },
+        {
+            "id": 1163,
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "type": "lecture",
+            "title": "人工智能技术在大规模自动化仓储中的应用",
+            "lectureId": 1333,
+            "topicId": 465
+        },
+        {
+            "id": 964,
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "type": "lecture",
+            "title": "FFM及DeepFFM模型在推荐系统的探索及实践",
+            "lectureId": 888,
+            "topicId": 468
+        },
+        {
+            "id": 968,
+            "beginTime": "2018-12-21T13:30:00+08:00",
+            "endTime": "2018-12-21T14:15:00+08:00",
+            "type": "lecture",
+            "title": "翻译质量自动评估在电商机器翻译中的应用",
+            "lectureId": 892,
+            "topicId": 467
+        },
+        {
+            "id": 1051,
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "type": "lecture",
+            "title": "机器学习与运筹优化在饿了么众包业务中的实践",
+            "lectureId": 1224,
+            "topicId": 470
+        },
+        {
+            "id": 1086,
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "type": "lecture",
+            "title": "深度学习在搜索引擎广告选取中的应用（上）",
+            "lectureId": 1259,
+            "topicId": 465
+        },
+        {
+            "id": 1010,
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "type": "lecture",
+            "title": "深度树匹配——下一代推荐技术的探索和实践",
+            "lectureId": 932,
+            "topicId": 468
+        },
+        {
+            "id": 1020,
+            "beginTime": "2018-12-21T14:25:00+08:00",
+            "endTime": "2018-12-21T15:10:00+08:00",
+            "type": "lecture",
+            "title": "腾讯知文问答引擎在工业级实战中的演化",
+            "lectureId": 942,
+            "topicId": 467
+        },
+        {
+            "id": 1133,
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "type": "lecture",
+            "title": "语音和语言技术在AIUI语音交互中的应用",
+            "lectureId": 1304,
+            "topicId": 467
+        },
+        {
+            "id": 1134,
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "type": "lecture",
+            "title": "基于知识的搜索推荐技术及应用",
+            "lectureId": 1305,
+            "topicId": 468
+        },
+        {
+            "id": 926,
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "type": "lecture",
+            "title": "从数据到智慧，知识图谱如何推动金融更加智能？（上）",
+            "lectureId": 850,
+            "topicId": 470
+        },
+        {
+            "id": 1204,
+            "beginTime": "2018-12-21T15:30:00+08:00",
+            "endTime": "2018-12-21T16:15:00+08:00",
+            "type": "lecture",
+            "title": "深度学习在搜索引擎广告选取中的应用（下）",
+            "lectureId": 1373,
+            "topicId": 465
+        },
+        {
+            "id": 1035,
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "type": "lecture",
+            "title": "AI技术在短视频商业化中的应用",
+            "lectureId": 957,
+            "topicId": 465
+        },
+        {
+            "id": 1053,
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "type": "lecture",
+            "title": "语音技术在小米的实践应用之路",
+            "lectureId": 1226,
+            "topicId": 467
+        },
+        {
+            "id": 1164,
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "type": "lecture",
+            "title": "瓜子二手车个性化推荐的挑战与应对",
+            "lectureId": 1334,
+            "topicId": 468
+        },
+        {
+            "id": 1167,
+            "beginTime": "2018-12-21T16:25:00+08:00",
+            "endTime": "2018-12-21T17:10:00+08:00",
+            "type": "lecture",
+            "title": "从数据到智慧，知识图谱如何推动金融更加智能？（下）",
+            "lectureId": 1336,
+            "topicId": 470
+        },
+        {
+            "id": 1227,
+            "beginTime": "2018-12-21T17:10:00+08:00",
+            "endTime": "2018-12-21T17:55:00+08:00",
+            "type": "lecture",
+            "title": "智能聊天机器人在汽车领域的应用实践",
+            "lectureId": 1396,
+            "topicId": 467
+        },
+        {
+            "id": 1137,
+            "beginTime": "2018-12-22T09:00:00+08:00",
+            "endTime": "2018-12-22T16:30:00+08:00",
+            "type": "lecture",
+            "title": "机器学习之分类",
+            "lectureId": 1308,
+            "topicId": 476
+        },
+        {
+            "id": 1144,
+            "beginTime": "2018-12-23T09:00:00+08:00",
+            "endTime": "2018-12-23T16:30:00+08:00",
+            "type": "lecture",
+            "title": "知识图谱深度培训",
+            "lectureId": 1315,
+            "topicId": 476
+        }
+    ],
+    "partners": [
+        {
+            "id": 826,
+            "typeid": 10,
+            "avatar": "https://static.geekbang.org/ck/5b558d1ec7733.png",
+            "title": "极客邦",
+            "link": "https://www.geekbang.org",
+            "order": 0
+        },
+        {
+            "id": 855,
+            "typeid": 50,
+            "avatar": "https://static.geekbang.org/ck/5b6a961c0c718.png",
+            "title": "TigerGraph",
+            "link": "https://www.tigergraph.com.cn/",
+            "order": 0
+        },
+        {
+            "id": 897,
+            "typeid": 40,
+            "avatar": "https://static.geekbang.org/ck/5ba99cae2e781.jpg",
+            "title": "明略数据",
+            "link": "http://www.mininglamp.com/",
+            "order": 0
+        },
+        {
+            "id": 898,
+            "typeid": 50,
+            "avatar": "https://static.geekbang.org/ck/5c10b63d54af2.jpg",
+            "title": "腾讯小知",
+            "link": "isak.qq.com",
+            "order": 0
+        },
+        {
+            "id": 944,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94da2b6c7e.png",
+            "title": "华章",
+            "link": "http://www.hzbook.com/",
+            "order": 0
+        },
+        {
+            "id": 978,
+            "typeid": 15,
+            "avatar": "https://static.geekbang.org/ck/5bf7c9865e46c.png",
+            "title": "华为云",
+            "link": "https://www.huaweicloud.com/",
+            "order": 0
+        },
+        {
+            "id": 984,
+            "typeid": 50,
+            "avatar": "https://static.geekbang.org/ck/5c10879f308c1.jpg",
+            "title": "工业互联网产业联盟",
+            "link": "http://www.aii-alliance.org/",
+            "order": 0
+        },
+        {
+            "id": 827,
+            "typeid": 10,
+            "avatar": "https://static.geekbang.org/ck/5b558d70dabf6.jpg",
+            "title": "InfoQ中国",
+            "link": "http://www.infoq.com/cn/",
+            "order": 1
+        },
+        {
+            "id": 943,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94d6e06fd5.jpg",
+            "title": "博文",
+            "link": "http://www.broadview.com.cn/",
+            "order": 1
+        },
+        {
+            "id": 858,
+            "typeid": 10,
+            "avatar": "https://static.geekbang.org/ck/5b710773863dd.png",
+            "title": "AI前线",
+            "link": "https://mp.weixin.qq.com/s/qVrM8OgPjKT86FgcuroVCA",
+            "order": 2
+        },
+        {
+            "id": 945,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94dd8f3a58.jpg",
+            "title": "人邮",
+            "link": "https://www.epubit.com/",
+            "order": 2
+        },
+        {
+            "id": 946,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94dfc014e9.jpg",
+            "title": "图灵",
+            "link": "http://www.ituring.com.cn/",
+            "order": 3
+        },
+        {
+            "id": 947,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94e1fb2799.jpg",
+            "title": "dbaplus",
+            "link": "https://dbaplus.cn/",
+            "order": 4
+        },
+        {
+            "id": 948,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94e4ead807.jpg",
+            "title": "开源中国",
+            "link": "https://www.oschina.net/",
+            "order": 5
+        },
+        {
+            "id": 949,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5bd94e6c323f8.jpg",
+            "title": "美客",
+            "link": "http://www.im2maker.com",
+            "order": 6
+        },
+        {
+            "id": 983,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5c10734b5b3d6.jpg",
+            "title": "腾讯大讲堂",
+            "link": "http://djt.qq.com/",
+            "order": 6
+        },
+        {
+            "id": 950,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3da017b0fc.jpg",
+            "title": "ATYUN",
+            "link": "http://www.atyun.com",
+            "order": 7
+        },
+        {
+            "id": 951,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3da2657a85.jpg",
+            "title": "比特网",
+            "link": "http://www.chinabyte.com",
+            "order": 8
+        },
+        {
+            "id": 952,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3da4c47c94.jpg",
+            "title": "创头网",
+            "link": "http://www.ctoutiao.com/",
+            "order": 9
+        },
+        {
+            "id": 953,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3da6d1e106.jpg",
+            "title": "财链社",
+            "link": "https://www.cailianpress.com",
+            "order": 10
+        },
+        {
+            "id": 954,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3da92f114e.jpg",
+            "title": "freebuf",
+            "link": "https://www.freebuf.com/",
+            "order": 11
+        },
+        {
+            "id": 955,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dabcb3954.jpg",
+            "title": "硅谷网",
+            "link": "http://www.guigu.org/",
+            "order": 12
+        },
+        {
+            "id": 956,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dae7b7de1.jpg",
+            "title": "极客网",
+            "link": "http://www.fromgeek.com/",
+            "order": 13
+        },
+        {
+            "id": 957,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3db0bee46c.jpg",
+            "title": "计世资讯",
+            "link": "http://www.ccwresearch.com.cn",
+            "order": 14
+        },
+        {
+            "id": 958,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3db2e3e570.jpg",
+            "title": "猎云网",
+            "link": "https://www.lieyunwang.com",
+            "order": 15
+        },
+        {
+            "id": 959,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3db510e22d.jpg",
+            "title": "融资中国",
+            "link": "http://thecapital.com.cn/",
+            "order": 16
+        },
+        {
+            "id": 960,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3db8a80feb.",
+            "title": "手机中国",
+            "link": "http://www.cnmo.com/",
+            "order": 17
+        },
+        {
+            "id": 961,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dba40027a.jpg",
+            "title": "投资家",
+            "link": "http://www.investorscn.com/",
+            "order": 18
+        },
+        {
+            "id": 962,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dbc77634a.jpg",
+            "title": "亿欧",
+            "link": "https://www.iyiou.com/",
+            "order": 19
+        },
+        {
+            "id": 963,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dbec26e5e.jpg",
+            "title": "亿邦动力",
+            "link": "http://www.ebrun.com/",
+            "order": 20
+        },
+        {
+            "id": 964,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5be3dc13c56da.jpg",
+            "title": "至顶网",
+            "link": "http://www.zhiding.cn",
+            "order": 21
+        },
+        {
+            "id": 981,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5c1072f9c761e.jpg",
+            "title": "cio时代",
+            "link": "http://www.ciotimes.com",
+            "order": 22
+        },
+        {
+            "id": 982,
+            "typeid": 80,
+            "avatar": "https://static.geekbang.org/ck/5c107328ba8e7.jpg",
+            "title": "中关村在线",
+            "link": "http://www.zol.com.cn",
+            "order": 23
+        }
+    ],
+    "articles": [
+        {
+            "id": 338,
+            "typeid": 1,
+            "title": "Spark比拼Flink：下一代大数据计算引擎之争，谁主沉浮？",
+            "link": "https://mp.weixin.qq.com/s/dRzPtdEqI6h3lRzmxsxEnw",
+            "picture": "https://static.geekbang.org/ck/5b583b6e0487c.png",
+            "description": "做大数据绝对躲不过的一个热门话题就是实时流计算，而提到实时流计算，就不得不提 Spark 和 Flink。Spark 从 2014 年左右开始迅速流行，刚推出时除了在某些场景比 Hadoop MapReduce 带来几十到上百倍的性能提升外，还提出了用一个统一的引擎支持批处理、流处理、交互式查询、机器学习等常见的数据处理场景。凭借高性能和全面的场景支持，Spark 早已成为众多大数据开发者的最爱。",
+            "order": 20
+        },
+        {
+            "id": 341,
+            "typeid": 1,
+            "title": "我们从爬取1000亿个网页中学到了什么？",
+            "link": "https://mp.weixin.qq.com/s/e_hht-suCmHHu9jbmDfLaw",
+            "picture": "https://static.geekbang.org/ck/5b5834dbb4277.png",
+            "description": "现如今，爬取网页看起来似乎是一件很简单的事。有很多开源框架或库、可视化爬取工具和数据提取工具，利用这些工具可以很容易地从网站上爬取数据。但是，当你想大规模爬取网站时，事情就变得棘手起来。",
+            "order": 19
+        },
+        {
+            "id": 340,
+            "typeid": 1,
+            "title": "SQL足以解决你的问题，别动不动就机器学习",
+            "link": "https://mp.weixin.qq.com/s/RqHNBiX5fHYfzOmiylt2Fw",
+            "picture": "https://static.geekbang.org/ck/5b58359a9eed5.png",
+            "description": "ML/AI 当然有它们的用武之地，各大科技公司已经证明了这些技术的有效性。但是，在很多情况下，你根本不需要机器学习，只用 SQL 就够了。",
+            "order": 18
+        },
+        {
+            "id": 339,
+            "typeid": 1,
+            "title": "深度学习的关键：无监督深度学习简介（附Python代码）",
+            "link": "https://mp.weixin.qq.com/s/ZvTm9omnIRqPXcLFbZtoeg",
+            "picture": "https://static.geekbang.org/ck/5b5815d8bbc9b.png",
+            "description": "在这篇文章中，我们用一个直观的案例研究概述了无监督深度学习的概念。并且详解了在 MNIST 数据集上进行无监督学习的代码，包括 K-Means、自编码器以及 DEC 算法。",
+            "order": 17
+        },
+        {
+            "id": 342,
+            "typeid": 1,
+            "title": "陈天奇团队推出开源AI芯片栈VTA，降低芯片设计门槛",
+            "link": "https://mp.weixin.qq.com/s/1oDVo7eGMGYODRd00OxpIw",
+            "picture": "https://static.geekbang.org/ck/5b58160eea18f.png",
+            "description": "7月12日，陈天奇团队推出 Versatile Tensor Accelerator（VTA，发音为 vita），这是一种开放、通用、可定制的深度学习加速器。VTA是一种可编程加速器，提供了 RISC风格的编程抽象来描述张量级的操作。",
+            "order": 16
+        },
+        {
+            "id": 343,
+            "typeid": 1,
+            "title": "如何将Python自然语言处理速度提升100倍：用spaCy/Cython加速NLP",
+            "link": "https://mp.weixin.qq.com/s/ODA74xgoS8X1HFxp4BfshQ",
+            "picture": "https://static.geekbang.org/ck/5b58372fa4355.png",
+            "description": "去年我们发布了基于 Python 的共指解析包之后，社区反馈非常热烈，大家开始在各式应用中使用它，有些应用场景与我们原来的对话用例非常不一样。",
+            "order": 15
+        },
+        {
+            "id": 344,
+            "typeid": 1,
+            "title": "Hadoop老矣，为什么腾讯还要花精力在其开源发布上？",
+            "link": "https://mp.weixin.qq.com/s/MsD9GYwy0K7jLxAyit1TVg",
+            "picture": "https://static.geekbang.org/ck/5b5837052f3bd.jpg",
+            "description": "腾讯主导开源大数据平台Apache Hadoop 2.8.4新版本发布，在国内外纷纷唱衰Hadoop的论调中，为什么腾讯还要花费这么大精力去主导其开源版本发布？",
+            "order": 14
+        },
+        {
+            "id": 345,
+            "typeid": 1,
+            "title": "解读现代存储系统背后的经典算法",
+            "link": "https://mp.weixin.qq.com/s/CmYg22NObamkNOqGjKg0-w",
+            "picture": "https://static.geekbang.org/ck/5b58167a1608b.jpg",
+            "description": "本文详细剖析了两种被大多数现代数据库使用的存储系统设计方法，即针对读操作优化的 B 树，以及针对写操作优化的 LSM 树，并介绍了两种方法的一些用例和权衡考虑。",
+            "order": 13
+        },
+        {
+            "id": 346,
+            "typeid": 1,
+            "title": "99%的人并不知道国内人脸监控已经达到什么水平",
+            "link": "https://mp.weixin.qq.com/s/rOA2lPe3JWZ8ezbYZ9yPcQ",
+            "picture": "https://static.geekbang.org/ck/5b58142b30cf5.png",
+            "description": "刷脸登机、刷脸乘火车、刷脸办证、刷脸取款，现在又来一个刷脸上厕所，你知道你的脸用处这么多吗？",
+            "order": 12
+        },
+        {
+            "id": 348,
+            "typeid": 1,
+            "title": "Spark团队开源新项目MLflow发布0.2版本，内置TensorFlow集成",
+            "link": "https://mp.weixin.qq.com/s/PUyuPrX0DP6AcUNhTFBT2g",
+            "picture": "https://static.geekbang.org/ck/5b58181f47d73.57-26-6",
+            "description": "Spark团队正式宣布推出 MLflow 0.2 版本，这一版本包含了由内部客户和开源用户提出的一些最被期待的功能。",
+            "order": 12
+        },
+        {
+            "id": 347,
+            "typeid": 1,
+            "title": "剑桥AI全景报告出炉：全球AI可用人才仅3千，中美将争抢台韩半导体公司",
+            "link": "https://mp.weixin.qq.com/s/iC8qa-hxfIWYFxZcTdmVKw",
+            "picture": "https://static.geekbang.org/ck/5b5837b34f824.png",
+            "description": "在本报告中，我们将重点从过去 12 个月中 AI 所取得的进步来一窥其发展状况。这份报告汇集了我们看到的可能引发关于 AI 讨论和代表 AI 未来发展方向的最有趣的事实。",
+            "order": 11
+        },
+        {
+            "id": 349,
+            "typeid": 1,
+            "title": "如何成为一名成功的机器学习博士？",
+            "link": "https://mp.weixin.qq.com/s/nLpp0NwecQr19AHSIiyTBA",
+            "picture": "https://static.geekbang.org/ck/5b5818a1ad95f.png",
+            "description": "纽约大学的助理教授 Krzysztof J. Geras 对于想在机器学习领域成功取得博士学位的学生，给出了自己的建议。",
+            "order": 10
+        },
+        {
+            "id": 350,
+            "typeid": 1,
+            "title": "Apollo 3.0来了！百度自动驾驶硬件系统全解读",
+            "link": "https://mp.weixin.qq.com/s/JtIv25lgyaO4HrIgNnxeDw",
+            "picture": "https://static.geekbang.org/ck/5b5838b0e035a.jpeg",
+            "description": "百度 Apollo 3.0 发布在即，本期 AI 前线社群分享我们很高兴邀请到了百度自动驾驶技术部高级产品经理王石峰，为我们带来《自动驾驶汽车硬件系统概述》的干货分享。",
+            "order": 9
+        },
+        {
+            "id": 351,
+            "typeid": 1,
+            "title": "如何从零开始搭建知识图谱？",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491177&idx=2&sn=d86ac243691e248fa414ea1c8510d01f&chksm=fbe9a7a6cc9e2eb02b93f127d1817386b3164674cb17176e142ee4ab616182041c0904af5e6f&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b581a46a6531.png",
+            "description": "本文以通俗易懂的方式来讲解知识图谱相关的知识、尤其对从零开始搭建知识图谱过程当中需要经历的步骤以及每个阶段需要考虑的问题都给予了比较详细的解释。",
+            "order": 8
+        },
+        {
+            "id": 352,
+            "typeid": 1,
+            "title": "Facebook如何在4年间全面转向Python3？",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491161&idx=1&sn=f096ecbde0edef405d8622df2310555e&chksm=fbe9a796cc9e2e80c38ab0d6120a7164e9f276a6aaa380379fa83601e8ceafc025ff86c070c6&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b583973d397b.png",
+            "description": "在今年的PyCon 2018会议上，Facebook产品工程师Jason Fried讲述了该公司在过去四年时间里，Python 3从几乎无人问津到成为该公司主流Python版本的全过程。",
+            "order": 7
+        },
+        {
+            "id": 353,
+            "typeid": 1,
+            "title": "吴恩达团队提出倒计时回归模型：用AI技术预测病患死亡时间",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491161&idx=2&sn=7ef6267a3f307e75fee4ae6399904bc8&chksm=fbe9a796cc9e2e80cee2a216be3bbf9a076f42ba47b37d43c5230c97026b2db8ad961fba6c3e&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b5825e21a1b6.jpeg",
+            "description": "近日，斯坦福大学 Andrew Ng 团队开发出了一种使用人工智能来预测病人死亡时间的系统，科学家希望该系统可以为病人提供更好的临床关怀。",
+            "order": 5
+        },
+        {
+            "id": 354,
+            "typeid": 1,
+            "title": "这是我看过解释TensorFlow最透彻的文章！",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491127&idx=1&sn=9897b560cb0350e8ece0f61b3dc461c4&chksm=fbe9a7f8cc9e2eee30e0a2d7f062f8c89de041c265ec6b81ea4108770a9a5d5ace8bea1b6f98&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b5838fe73c11.jpg",
+            "description": "Tensorflow 发布已经有三年，如今它已成为深度学习生态系统的基石。然而对于初学者来说它并不怎么简单易懂。",
+            "order": 4
+        },
+        {
+            "id": 355,
+            "typeid": 1,
+            "title": "独家揭秘：腾讯千亿级参数分布式ML系统无量背后的秘密",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491111&idx=1&sn=4dae1d28412e4a09e8cc56e3d35284cf&chksm=fbe9a7e8cc9e2efeb9bc1d186216f6485d24de2c3d248232008046902a92d4c43b886e567def&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b582ad7e5a23.jpg",
+            "description": "千亿参数规模的模型已经被业界证明能够有效提高业务效果。如何高效训练出这样的模型？",
+            "order": 3
+        },
+        {
+            "id": 356,
+            "typeid": 1,
+            "title": "李飞飞团队提出OpenTag模型：减少人工标注，自动提取产品属性值",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491095&idx=2&sn=893b09b782ecc41a8c90c2d6e23f60cc&chksm=fbe9a7d8cc9e2eceea97c9e0e5a822ded962422054d29b8e5025b0e72edcef99fc71caa1f40d&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b59395c3a621.jpg",
+            "description": "AI 前线第 37 篇论文解读，给大家带来的是李飞飞团队最新提出的 OpenTag 模型论文，OpenTag 是目前第一个端到端的开放式属性值提取框架。",
+            "order": 2
+        },
+        {
+            "id": 357,
+            "typeid": 1,
+            "title": "搭建容易维护难！谷歌机器学习系统血泪教训",
+            "link": "https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247491014&idx=1&sn=8cf1e64507ea5734b51eace775078764&chksm=fbe9a409cc9e2d1f94946b214b98cda86f735f91cfd518c4e69138b7b3b4aaa6be45db3f5383&scene=38#wechat_redirect",
+            "picture": "https://static.geekbang.org/ck/5b58341a08331.jpg",
+            "description": "本文作者表示，希望这篇论文能够为在生产环境中采用机器学习系统的开发者与维护者提供一些实用建议。",
+            "order": 1
+        }
+    ],
+    "topic_submit": [],
+    "info": {
+        "name": "全球人工智能与机器学习技术大会",
+        "icon": "",
+        "beginTime": "2018-12-20T08:40:00.00+08:00",
+        "endTime": "2018-12-21T23:59:00.00+08:00",
+        "beginTimeTraining": "2018-12-22T00:00:00.00+08:00",
+        "endTimeTraining": "2018-12-23T23:59:00.00+08:00",
+        "trainingLocation": "地点：北京·国际会议中心",
+        "speakerConfirmPercent": 10,
+        "displayPresentationTime": false,
+        "btnApply": {
+            "showDiscount": true,
+            "discount": 0,
+            "deadline": "2017-12-16T00:00:00.00+08:00",
+            "discountPrice": 72000,
+            "title": "大会报名倒计时31天",
+            "subtitle": "",
+            "link": "/apply"
+        },
+        "price": {
+            "price": 360000,
+            "discount": [
+                {
+                    "begin": "2018-08-13",
+                    "end": "2018-09-30T23:59:00.00+08:00",
+                    "price": 216000,
+                    "price5": 196000,
+                    "price10": 0,
+                    "priceall": 0,
+                    "pricetrain": 0,
+                    "discount": 6,
+                    "discountDes": "6折"
+                },
+                {
+                    "begin": "2018-10-01",
+                    "end": "2018-11-18T23:59:00.00+08:00",
+                    "price": 288000,
+                    "price5": 268000,
+                    "price10": 252000,
+                    "priceall": 588000,
+                    "pricetrain": 384000,
+                    "discount": 8,
+                    "discountDes": "8折"
+                },
+                {
+                    "begin": "2018-11-19",
+                    "end": "2018-12-19T23:59:00.00+08:00",
+                    "price": 360000,
+                    "price5": 340000,
+                    "price10": 324000,
+                    "priceall": 660000,
+                    "pricetrain": 480000,
+                    "discount": 10,
+                    "discountDes": "全价"
+                }
+            ]
+        },
+        "address": {
+            "name": "北京·国际会议中心",
+            "address": "北京市朝阳区北辰东路7号"
+        },
+        "contacts": [
+            {
+                "key": "",
+                "name": "会务咨询（电话）",
+                "value": "13691360511",
+                "link": "tel:13691360511"
+            },
+            {
+                "key": "",
+                "name": "会务咨询（邮箱）",
+                "value": "rita@geekbang.com",
+                "link": "mailto:rita@geekbang.com"
+            },
+            {
+                "key": "",
+                "name": "商务咨询（电话）",
+                "value": "13426412029",
+                "link": "tel:13426412029"
+            },
+            {
+                "key": "",
+                "name": "商务咨询（邮箱）",
+                "value": "hezuo@geekbang.com",
+                "link": "mailto:hezuo@geekbang.com"
+            },
+            {
+                "key": "book",
+                "name": "售票咨询（电话）",
+                "value": "18514549229",
+                "link": "tel: 18514549229"
+            },
+            {
+                "key": "email",
+                "name": "售票咨询（邮箱）",
+                "value": "goupiao@geekbang.com",
+                "link": "mailto:goupiao@geekbang.com"
+            },
+            {
+                "key": "",
+                "name": "议题申请（电话）",
+                "value": "13240810004",
+                "link": "tel:13240810004"
+            },
+            {
+                "key": "apply",
+                "name": "议题申请（邮箱）",
+                "value": " bella@geekbang.com",
+                "link": "mailto: bella@geekbang.com"
+            }
+        ],
+        "scheduleDaysWxlite": [
+            {
+                "date": "2018-12-20T00:00:00.00+08:00",
+                "topics": [
+                    472,
+                    521
+                ]
+            },
+            {
+                "date": "2018-12-21T00:00:00.00+08:00",
+                "topics": [
+                    465,
+                    466,
+                    469,
+                    468,
+                    467,
+                    470
+                ]
+            },
+            {
+                "date": "2018-12-22T00:00:00.00+08:00",
+                "topics": [
+                    476
+                ]
+            },
+            {
+                "date": "2018-12-23T00:00:00.00+08:00",
+                "topics": [
+                    476
+                ]
+            }
+        ],
+        "scheduleDays": [
+            {
+                "type": "conf",
+                "date": "2018-12-20T00:00:00.00+08:00",
+                "topics": [
+                    472,
+                    521
+                ],
+                "table": {
+                    "tableWidth": 2,
+                    "amTopic": [
+                        {
+                            "topicId": 472,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 521,
+                            "width": 1
+                        }
+                    ],
+                    "pmTopic": [
+                        {
+                            "topicId": 472,
+                            "width": 2
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "conf",
+                "date": "2018-12-21T00:00:00.00+08:00",
+                "topics": [
+                    465,
+                    466,
+                    469,
+                    468,
+                    517,
+                    467,
+                    470
+                ],
+                "table": {
+                    "tableWidth": 5,
+                    "amTopic": [
+                        {
+                            "topicId": 465,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 468,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 469,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 466,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 517,
+                            "width": 1
+                        }
+                    ],
+                    "pmTopic": [
+                        {
+                            "topicId": 465,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 468,
+                            "width": 1
+                        },
+                        {
+                            "topicId": 470,
+                            "width": 2
+                        },
+                        {
+                            "topicId": 467,
+                            "width": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "training",
+                "date": "2018-12-22T00:00:00.00+08:00",
+                "dateEnd": "2018-12-23T23:59:00.00+08:00",
+                "topics": [
+                    476
+                ],
+                "table": {
+                    "tableWidth": 1,
+                    "topic": [
+                        {
+                            "topicId": 476,
+                            "width": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "menus": [
+            {
+                "type": "home",
+                "name": "首页",
+                "link": "/",
+                "display": true
+            },
+            {
+                "type": "introduction",
+                "name": "大会简介",
+                "link": "/#introduction",
+                "display": false
+            },
+            {
+                "type": "track",
+                "name": "专题介绍",
+                "link": "/#theme",
+                "display": true
+            },
+            {
+                "type": "speaker",
+                "name": "演讲嘉宾",
+                "link": "/#speakers",
+                "display": true
+            },
+            {
+                "type": "article",
+                "name": "技术专栏",
+                "link": "/article",
+                "display": true
+            },
+            {
+                "type": "schedule",
+                "name": "大会日程",
+                "link": "/#schedule",
+                "display": true
+            },
+            {
+                "type": "training",
+                "name": "深度培训",
+                "link": "/training",
+                "display": true
+            },
+            {
+                "type": "topic",
+                "name": "议题提交",
+                "link": "/topic",
+                "display": false
+            },
+            {
+                "type": "partner",
+                "name": "AI 实践Workshop",
+                "link": "https://jinshuju.net/f/HlXd3E?x_field_1=guanwang",
+                "display": true
+            },
+            {
+                "type": "about",
+                "name": "往届回顾",
+                "link": "/#review",
+                "display": false
+            }
+        ],
+        "hotRecommand": 0
+    },
+    "ads": [
+        {
+            "id": "23",
+            "content": "<a href=http://t.cn/E28ThMk></a>",
+            "picture": "",
+            "background_color": "#225FAF",
+            "percentage": "100",
+            "background_picture": "https://static.geekbang.org/ck/5bf7b1510367f.jpg",
+            "duration": "30",
+            "display_page": "3",
+            "order": "0"
+        }
+    ],
+    "tag_details": [],
+    "config": {
+        "wechat_share": {
+            "default_logo": "https://static.geekbang.org/ck/5b739bb70a7d3.jpg",
+            "default_desp": "50+国内外AI&机器学习最佳落地案例，独家揭秘AI商业化下的技术演进 ，帮助大家了解如何在具体业务中应用AI，有哪些技术细节和踩坑经验可供参考，AICon 2018等你来！",
+            "default_title": "｜AICon北京2018",
+            "front_page_title": "AICon 2018 全球人工智能与机器学习技术大会",
+            "topics_title": "50+国内外机器学习最佳落地案例",
+            "speakers_title": "50+国内外一线互联网公司AI大牛助阵",
+            "schedules_title": "AICon北京2018日程"
+        }
+    },
+    "recommend_data": {
+        "recommend_ids": [],
+        "recommend_data": []
+    },
+    "conid": 37,
+    "ppt_list": "https://ppt.geekbang.org/list/aicon2018"
+}

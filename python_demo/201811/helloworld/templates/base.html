@@ -1,0 +1,25 @@
+{% load bootstrap3 %}
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name='keywords' content='python,菜鸟,新手,初学' />
+		<meta name='description' content='参照python基础文档编写' />
+		<title> 欢迎进入...</title>
+
+	</head>
+	<body>
+		<div>
+			<h3>手写一个python哦</h3>
+		</div>
+		<div>
+			{% block content %}
+			<!-- ... -->
+			{% endblock content %}
+		</div>
+
+		
+	</body>
+	{% bootstrap_css %}
+	{% bootstrap_javascript %}
+</html>
+

@@ -1,0 +1,13 @@
+# 获取aicon 2018年的会议的内容
+##列表：
+https://aicon2018.geekbang.org/?utm_source=as&utm_medium=bottom&utm_content=wenzi
+##数据来源：
+https://static-data.geekbang.org/aicon2018/data.json
+##详情:
+https://aicon2018.geekbang.org/presentation/955
+class: .con-present-info > .rigth > 
+								  > h1 `标题`
+								  > .content > .p `内容`
+## data.json
+在data.json中，lectures中存放了主题内容
+speakers存放演讲者介绍

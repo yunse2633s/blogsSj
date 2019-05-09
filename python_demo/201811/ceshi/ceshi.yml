@@ -1,0 +1,14 @@
+name: "ceshi"
+organisation: "git"
+author: "cc"
+contact: "cc@126.com"
+company: "ye"
+version: "0.0.1"
+current_version: "0.0.1"
+release: "0.0.0"
+copyright_year: 2018
+external_module_library: ceshi
+sources:
+license: MIT
+dependencies: []
+description: "20181130"
