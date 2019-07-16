@@ -27,7 +27,8 @@ def CatchUsbVideo(window_name, camera_idx):
     #视频来源，可以来自一段已存好的视频，也可以直接来自USB摄像头
     #cap = cv2.VideoCapture("g:/work/vod/vid_suj.mp4")                
     #cap = cv2.VideoCapture("F:/蚂蚁儿童乐园/came3_2019-03-24__13-00-00_13-59-59__CAM3.avi") 
-    cap = cv2.VideoCapture("F:\监控摄像头视频\MVI_1423.mp4")               
+    #cap = cv2.VideoCapture("F:\监控摄像头视频\MVI_1423.mp4")               
+    cap = cv2.VideoCapture("rtsp://192.168.1.88:554")
     
     OPENCV_PATH = r"d:/Program Files (x86)/python/Lib/site-packages/cv2/data" 
     #告诉OpenCV使用人脸识别分类器
@@ -84,8 +85,8 @@ def CatchUsbVideo(window_name, camera_idx):
         #显示图像
         cv2.imshow(window_name, frame)
         # waitKey()方法本身表示等待键盘输入
-        c = cv2.waitKey(1)
-            
+        c = cv2.waitKey(5)
+        # waitKey() 是否会导致 直播流卡顿    
         if c & 0xFF == ord('q'):
             break        
     
