@@ -1,5 +1,5 @@
 /*
- * 2020 07/09 - 07/11  人工智能大会 上海 
+ * 2020 07/09 - 07/11 
  * @type {[type]}
  * 1. 获取m3u8的列表
  * 2. 获取ts文件
@@ -18,17 +18,11 @@ var path = require('path');
 var async = require('async');
 
 //  2019 9.25 
-//  https://dno-501-1001-ilp.youku.com/v1-100100011/0925yqhdcn1_yk1080.m3u8?auth_key=1600312057-0-0-1ae4f16f69f227e4f6e071adf3de94ba&cdnQuality=1080p
 //  
 //  获取视频目录
-//  https://dno-501-1001-ilp.youku.com/v1-100100011
-g_mulu='https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/f180ef2a5285890805036424574/v.f230.m3u8'
+g_mulu='https://1252524126.vod2.com/9764a7a5vodtransgzp1252524126/f180ef2a5285890805036424574/v.f230.m3u8'
 
-/**
-https://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/f180ef2a5285890805036424574/v.f230.ts?start=5925008&end=7560795&type=mpegts
-共创智慧教育新家园
- https://livevideo.cbndata.com/waic/30-1c36634d-d721-4179-aa40-616e413d3f49_ud.m3u8?auth_key=1594483200-0-0-facd9c2c4f6aa4ca9c1055ba621aba76
- */
+
 
 url2='https://'+g_mulu.split('/')[2] + '/'   //https://livevideo.cbndata.com/';
 url3= g_mulu.split('/')[3] + '/'   //'caster/';
