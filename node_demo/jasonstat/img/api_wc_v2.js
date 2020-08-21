@@ -74,7 +74,7 @@ var timeArr=function(nowt){
 var v_data=JSON.parse(JSON.stringify(cf.v_data)),
 updateTime=0,
 updateDate=1;
-
+// global 
 /**
  计算每个时段的 进出
  */
@@ -90,9 +90,7 @@ var nowStream=function(timearr,i,arm,cb){
         }}
         ,{$project:{'_id':1,'dev_sno':1,"device_info.throughType":1}}
     ]).exec(function(x,y){
-        // console.log('y',y)
         co = _.countBy(y, function(num) {
-            // console.log('num',num['_id'],num['device_info'][0])
           return num['device_info'][0] && num['device_info'][0]['throughType']=='in' ? 'in': 'out';
         });
         v_data['transit_trend'][arm]['out_count']=co['out'] || 0
@@ -102,15 +100,14 @@ var nowStream=function(timearr,i,arm,cb){
     })
 }
 // var nowtime=new Date('2020/07/28 18:00:00')
-var nowtime=new Date()
-
 var timeStream=function(nowt, x){
     time_arr=timeArr(nowt)
-    nowdate=nowtime.getDate(),
-    nowhour=nowtime.getHours(),
+    nowdate=nowt.getDate(),
+    nowhour=nowt.getHours(),
+    // console.log(nowt, 'nowdate,', nowdate, 'nowhour', nowhour)
     updateTime=nowhour-1,
     updateDate=nowdate;
-    console.log('updateTime:',updateTime,',updateDate:',updateDate)
+    console.log(nowt, 'nowhour:',nowhour, 'updateTime:',updateTime,',updateDate:',updateDate)
     //统计之前时段的数据
     for(var i=0; i<updateTime; i++){
         (function(arm){
@@ -120,9 +117,8 @@ var timeStream=function(nowt, x){
     x()
 }
 //第一次运行时预设值
-timeStream(nowtime, function(){
-
-})
+var nowtime=new Date()
+timeStream(nowtime, function(){})
 
 
 // 如果记录表中有人员，进出、公司名、时段等。 做统计的时候，就不用再进行关联查询了
@@ -139,7 +135,10 @@ module.exports = function() {
         async.waterfall([
             function(cb){
                 //日期改变或时间间隔，初始化数据
-                if(rundate != updateDate || runhours > updateTime+2){
+                console.log('judge', rundate , updateDate , runhours , updateTime+1)
+                console.log(rundate != updateDate , runhours >= updateTime+1)
+                if(rundate != updateDate || runhours > updateTime+1){
+                    console.log('过期')
                     v_data=JSON.parse(JSON.stringify(cf.v_data))
                     timeStream(runtime,cb)
                 }else{
